@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2010:n
+  description: Microsoft Office 2010 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814523"
+name: Microsoft Office 2010:n
+summary: >+
+  Microsoft Office 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Office 2010:n tuen loppuunpäättyksen etenemissuunnitelma](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kävi koulua eAcademy\n* Koti ja liiketoiminta\n* Koti ja opiskelija\n* Henkilökohtainen\n* Ammatillinen\n* Ammatillinen akateeminen\n* Ammatillinen Plus\n* Professional Plus Kotikäyttö Ohjelma\n* Standard\n* Starter"
