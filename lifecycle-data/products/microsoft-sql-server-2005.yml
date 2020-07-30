@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2005:n
+  description: Microsoft SQL Server 2005 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814409"
+name: Microsoft SQL Server 2005:n
+summary: >
+  Microsoft SQL Server 2005 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-pohjaiset järjestelmät, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition julkaistiin 19.2.2007.\n\n## <a name=\"editions\"></a>Versiot \n* Kompakti\n* Kehittäjä\n* Upotettu\n* Yrityksen\n* Itaniumpohjaisten järjestelmien yritys\n* Yrityksen X64\n* Express\n* Express ja kehittyneet palvelut\n* Standard\n* Standardi Itanium-pohjaisia järjestelmiä\n* Vakio X64\n* Työryhmän"

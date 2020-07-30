@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk Server 2006 -palvelin
+  description: Microsoft BizTalk Server 2006 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7493f28dc07798e3582685027087bcad4d16db2b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814906"
+name: Microsoft BizTalk Server 2006 -palvelin
+summary: >+
+  Microsoft BizTalk Server 2006 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Haara, Kehittäjä, Yritys, R2,
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/23/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Service Pack 1 (R2)
+  startDate: 04/27/2010
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 06/23/2006
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Muuttoliikettä koskeva ohjeistus](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n\n\n## <a name=\"editions\"></a>Versiot \n* Haara\n* Kehittäjä\n* Yrityksen\n* R2\n* Standard"

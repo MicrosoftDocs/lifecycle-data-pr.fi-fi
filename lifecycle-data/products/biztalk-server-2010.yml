@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk-palvelin 2010
+  description: BizTalk Server 2010 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "815133"
+name: BizTalk-palvelin 2010
+summary: >+
+  BizTalk Server 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Haara, Kehittäjä, Yritys, Vakio
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 11/14/2010
+  end: 01/12/2016
+  extendedEnd: 01/12/2021
+releases:
+- version: Original Release
+  startDate: 11/14/2010
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versiotiedot](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Versiot \n* Haara\n* Kehittäjä\n* Yrityksen\n* Standard"
