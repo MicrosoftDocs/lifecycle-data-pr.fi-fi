@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "815089"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Datacenter, Datacenter ilman Hyper-V:tä, Enterprise, Enterprise ilman Hyper-V:tä, Itanium-pohjaisiin järjestelmiin, säätiö, Standardi, Standard ilman Hyper-V:tä, Web
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://aka.ms/AA1ovn4)\n* [Palvelimen päivitystiedot](/windows-server/upgrade/upgrade-overview)\n* [Laajennettu tietoturvapäivitysohjelma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laajennetut tietoturvapäivitykset (ESU) ovat saatavilla tiettyjen tämän tuoteversioiden Datacenter-, Standard-, Enterprise- ja Embedded-versioiden volyymikäyttöoikeusohjelmien kautta jopa kolmen vuoden ajan tuen päättymisen jälkeen. Lisätietoja saat Microsoft-kumppanista tai tilitiimiltä. \n\nJulkaisu-------------------------------Aloituspäivämäärä----Pvm-päivämäärä\n\nLaajennettu tietoturvapäivitysvuosi 3---01/11/2022---01/10/2023\n\nLaajennettu tietoturvapäivitysvuosi 2---01/12/2021---01/11/2022\n\nLaajennettu tietoturvapäivitysvuosi 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation julkaistiin 21.5.2009\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Datakeskus ilman Hyper-V:tä\n* Yrityksen\n* Enterprise ilman Hyper-V:tä\n* itaniumpohjaisille järjestelmille\n* Säätiö\n* Standard\n* Vakio ilman Hyper-V:tä\n* Web"

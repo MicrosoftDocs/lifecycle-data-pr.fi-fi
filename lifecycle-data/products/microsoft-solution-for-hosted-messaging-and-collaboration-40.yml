@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoftin ratkaisu isännöityihin viesteihin ja yhteistyöhön 4.0
+  description: Microsoft Solution for Hosted Messaging and Collaboration 4.0 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814407"
+name: Microsoftin ratkaisu isännöityihin viesteihin ja yhteistyöhön 4.0
+summary: >+
+  Microsoft Solution for Hosted Messaging and Collaboration 4.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2007
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 07/15/2007
+  endDate: 12/12/2011
+content: ''
