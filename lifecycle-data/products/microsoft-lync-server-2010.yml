@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Server 2010:n
+  description: Microsoft Lync Server 2010 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879448"
+name: Microsoft Lync Server 2010:n
+summary: >+
+  Microsoft Lync Server 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise, Group Chat Software Development Kit, SDK, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Lync Phone -versio](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Server 2010:tä ja Lync Server 2013:a tukevat Lync Phone Editionia. Lync Phone Editionin tukipäivämäärää on jatkettu kaksi vuotta Lync Server 2013:n elinkaaren mukaan.\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Ryhmä chat ohjelmistokehityspaketti\n* Sdk\n* Standard"
