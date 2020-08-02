@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Windows Vista noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814366"
+name: Windows Vista
+summary: >
+  Windows Vista noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bittinen, Starter, Ultimate, Ultimate 64-bittinen
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt, katso alla olevat siirtotiedot.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windowsin päivitykseen ja siirtoon liittyviä seikkoja](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Liiketoiminta\n* Liiketoiminta N\n* Yrityksen\n* Yrityksen X64\n* Etusivu Basic\n* Etusivu Basic 64-bittinen\n* Etusivu Basic N\n* Etusivu Basic N 64-bittinen\n* Etusivu Premium\n* Home Premium 64-bittinen\n* Starter\n* Lopullinen\n* Ylivoimainen 64-bittinen"

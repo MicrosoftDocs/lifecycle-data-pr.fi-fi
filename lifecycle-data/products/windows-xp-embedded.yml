@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Embedded
+  description: Windows XP Embedded noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814365"
+name: Windows XP Embedded
+summary: >
+  Windows XP Embedded noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Embedded
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/30/2002
+  end: 01/11/2011
+  extendedEnd: 01/12/2016
+releases:
+- version: Service Pack 3
+  startDate: 11/14/2008
+  endDate: 01/12/2016
+- version: Service Pack 2
+  startDate: 01/18/2005
+  endDate: 01/11/2011
+- version: Service Pack 1
+  startDate: 10/22/2002
+  endDate: 04/10/2007
+- version: Original Release
+  startDate: 01/30/2002
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows XP Embedded – tuki](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Versiot \n* Upotettu"
