@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtuaalinen palvelin 2005
+  description: Virtual Server 2005 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814389"
+name: Virtuaalinen palvelin 2005
+summary: >+
+  Virtual Server 2005 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise, Management Pack, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/29/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/29/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Hallinta Pack\n* Standard"
