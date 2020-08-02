@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studion .NET 2003
+  description: Microsoft Visual Studio .NET 2003 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814247"
+name: Microsoft Visual Studion .NET 2003
+summary: >+
+  Microsoft Visual Studio .NET 2003 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise Architect, Enterprise Developer, Professional
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/10/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Service Pack 1
+  startDate: 09/15/2006
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/10/2003
+  endDate: 10/09/2007
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yritys arkkitehti\n* Yrityksen kehittäjä\n* Ammatillinen"

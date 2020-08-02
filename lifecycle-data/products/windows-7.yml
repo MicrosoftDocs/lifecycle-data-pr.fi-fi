@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814223"
+name: Windows 7
+summary: "Windows 7 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> '* Laajennetut tietoturvapäivitykset (ESU) ovat saatavilla tämän tuotteen Windows 7 Professional-, Enterprise- ja Professional for Embedded Systems -versioiden volyymikäyttöoikeusohjelmien kautta jopa kolmen vuoden ajan tuen päättymisen jälkeen. Lisätietoja saat Microsoft-kumppanista tai tilitiimiltä. \n\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://support.microsoft.com/help/4057281)\n* [Päivittäminen Windows 7:stä Windows 10:een](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Laajennettu tietoturvapäivitysohjelma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Yritys N\n* Etusivu Basic\n* Etusivu Premium\n* Etusivu Premium N\n* Ammatillinen\n* Ammattimainen sulautettuihin järjestelmiin\n* Ammatillinen N\n* Starter\n* Käynnistin N\n* Lopullinen\n* Lopullinen sulautettuihin järjestelmiin\n* Lopullinen N"

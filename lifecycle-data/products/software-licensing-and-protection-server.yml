@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ohjelmistojen käyttöoikeus- ja suojauspalvelin
+  description: Ohjelmiston käyttöoikeus- ja suojauspalvelin noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814250"
+name: Ohjelmistojen käyttöoikeus- ja suojauspalvelin
+summary: >
+  Ohjelmiston käyttöoikeus- ja suojauspalvelin noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise, Standard
+
+
+  > [!IMPORTANT]
+
+  > Software Licensing and Protection Serverin (SLPS) myynnin vuoksi Microsoft tuki SLPS:tä 24.9.2009 saakka.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Ohjelmistojen käyttöoikeus- ja suojauspalvelin (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Standard"

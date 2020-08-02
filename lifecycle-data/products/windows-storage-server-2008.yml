@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008-käyttö
+  description: Windows Storage Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814201"
+name: Windows Storage Server 2008-käyttö
+summary: >
+  Windows Storage Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Basic, Basic 32-bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Työryhmä
+
+
+  > [!IMPORTANT]
+
+  > Tämä tuote on saavuttanut tuen päättymisen. Alla on siirtymäopastusta.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Palvelimen päivitystiedot](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Versiot \n* Perus\n* Perus 32-bittinen\n* Perus 64-bittinen\n* Perus upotettu\n* Upotettu perus 32-bittinen\n* Yrityksen\n* Yrityksen upotettu\n* Standard\n* Vakio upotettu\n* Työryhmän"
