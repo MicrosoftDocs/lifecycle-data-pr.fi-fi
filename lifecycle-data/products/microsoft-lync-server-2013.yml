@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Server 2013 -palvelin
+  description: Microsoft Lync Server 2013 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814528"
+name: Microsoft Lync Server 2013 -palvelin
+summary: >+
+  Microsoft Lync Server 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Server 2010:tä ja Lync Server 2013:a tukevat Lync Phone Editionia. Lync Phone Editionin tukipäivämäärää on jatkettu kaksi vuotta Lync Server 2013:n elinkaaren mukaan.\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Pysyvä Chat Software Development Kit\n* Puhelin\n* Sdk\n* Standard"
