@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Host Integration Server 2004:n
+  description: Microsoft Host Integration Server 2004 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814542"
+name: Microsoft Host Integration Server 2004:n
+summary: "Microsoft Host Integration Server 2004 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Kehittäjä, Yritys, Vakio\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/15/2007
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 07/14/2008
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kehittäjä\n* Yrityksen\n* Standard"
