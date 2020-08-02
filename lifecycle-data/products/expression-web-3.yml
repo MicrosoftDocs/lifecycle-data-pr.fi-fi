@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Lauseke 3
+  description: Lauseke 3 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814298"
+name: Lauseke 3
+summary: >+
+  Lauseke 3 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Design, Encoder, Studio, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> Expression Design 3:n aloituspäivä on 19.11.2009. \n\n## <a name=\"editions\"></a>Versiot \n* Suunnittelu\n* Encoder\n* Studio\n* Web"

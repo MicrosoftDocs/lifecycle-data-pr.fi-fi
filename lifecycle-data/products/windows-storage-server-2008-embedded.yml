@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008 Upotettu
+  description: Windows Storage Server 2008 Embedded noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814367"
+name: Windows Storage Server 2008 Upotettu
+summary: >+
+  Windows Storage Server 2008 Embedded noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: 32-bittinen, 64-bittinen, Perus, 32-bittinen perus, Yritys, Vakio, Työryhmä
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Tämä tuote on saavuttanut tuen päättymisen. Alla on siirtymäopastusta.\n\n## <a name=\"editions\"></a>Versiot \n* 32-bittinen\n* 64-bittinen\n* Perus\n* Perus 32-bittinen\n* Yrityksen\n* Standard\n* Työryhmän"
