@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SoftGrid-sovelluksen virtualisointi
+  description: SoftGrid-sovelluksen virtualisointi noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814234"
+name: SoftGrid-sovelluksen virtualisointi
+summary: >
+  SoftGrid-sovelluksen virtualisointi noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: 4.1 työpöydille, 4.2 pöytätietokoneille, päätepalveluille 4.1
+
+
+  > [!IMPORTANT]
+
+  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Versiot \n* 4.1 pöytäkoneet\n* 4.2 työpöytiä varten\n* päätepalveluja varten 4.1"
