@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-sovellusten virtualisointi 4.6
+  description: Microsoft Application Virtualization 4.6 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814938"
+name: Microsoft-sovellusten virtualisointi 4.6
+summary: >+
+  Microsoft Application Virtualization 4.6 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: etätyöpöytäpalveluissa, Windows-työpöytissä, Sekvensseri
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Muuttoliikettä koskeva ohjeistus](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Koska App-V 4.6 -asiakas käyttää App-V 4.5 Serveriä, App-V 4.5 Serveriä tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakkaan kanssa.\n\n## <a name=\"editions\"></a>Versiot \n* etätyöpöytäpalveluihin\n* Windows-työpöytiä varten\n* Sekvensseri"
