@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 2019 LTSC
+  description: Windows 10 2019 LTSC noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869078"
+name: Windows 10 2019 LTSC
+summary: >+
+  Windows 10 2019 LTSC noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows 10:n lokakuun päivitys (versio 1809) julkaistaan uudelleen](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 LTSC:n usein kysytyt kysymykset](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows palveluna (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen"

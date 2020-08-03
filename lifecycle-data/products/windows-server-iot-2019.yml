@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2019 -palvelin
+  description: Windows Server IoT 2019 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869039"
+name: Windows Server IoT 2019 -palvelin
+summary: >+
+  Windows Server IoT 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Datacenter, Essentials, Standard, Telecommunications
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Kaikki Windows Server IoT 2019:n versiot noudattavat Windows Server 2019:n elinkaarta.\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Välttämättömyydet\n* Standard\n* Televiestintä"
