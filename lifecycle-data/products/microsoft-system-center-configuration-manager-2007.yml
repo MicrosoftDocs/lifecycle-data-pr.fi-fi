@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Centerin kokoonpanon hallinta 2007
+  description: Microsoft System Center Configuration Manager 2007 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814813"
+name: Microsoft System Centerin kokoonpanon hallinta 2007
+summary: >
+  Microsoft System Center Configuration Manager 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 2
+  startDate: 10/22/2009
+  endDate: 07/09/2019
+- version: Service Pack 1
+  startDate: 05/21/2008
+  endDate: 01/11/2011
+- version: Original Release
+  startDate: 11/29/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Tuotteen tiedot](/mem/configmgr/core/understand/introduction)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"
