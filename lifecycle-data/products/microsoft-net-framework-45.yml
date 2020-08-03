@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5
+  description: Microsoft .NET Framework 4.5 noudattaa osan elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852780"
+name: Microsoft .NET Framework 4.5
+summary: >+
+  Microsoft .NET Framework 4.5 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 10/09/2012
+  end: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/09/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaaren usein kysytyt kysymykset - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> .NET Framework 4:n, 4.5:n ja 4.5.1:n tuki päättyi 12.1.2016."

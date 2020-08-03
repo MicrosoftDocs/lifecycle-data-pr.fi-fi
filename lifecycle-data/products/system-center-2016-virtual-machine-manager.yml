@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Center 2016 Virtuaalikoneen hallinta
+  description: System Center 2016 Virtual Machine Manager noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852970"
+name: System Center 2016 Virtuaalikoneen hallinta
+summary: >+
+  System Center 2016 Virtual Machine Manager noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/28/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/28/2016
+  endDate: 01/11/2027
+content: ''

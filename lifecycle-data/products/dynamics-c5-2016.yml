@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics C5 2016 -2016-3000-
+  description: Dynamics C5 2016 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7f174d3ef6f65ebbfacd00fedb86ee8528d0601f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852925"
+name: Dynamics C5 2016 -2016-3000-
+summary: >+
+  Dynamics C5 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 01/03/2016
+  end: 04/13/2021
+  extendedEnd: 04/14/2026
+releases:
+- version: RTM
+  startDate: 01/03/2016
+  endDate: 04/14/2026
+content: ''

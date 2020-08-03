@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows MultiPoint Server 2011-käyttö
+  description: Windows MultiPoint Server 2011 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852904"
+name: Windows MultiPoint Server 2011-käyttö
+summary: >+
+  Windows MultiPoint Server 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/12/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release
+  startDate: 05/12/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/windows-server/get-started/installation-and-upgrade)\n* [Tuotteen tiedot](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Versiot \n* Premium\n* Standard"

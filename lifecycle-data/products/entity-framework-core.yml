@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Yksikön kehyksen ydin
+  description: Entity Framework Core noudattaa nykyaikaista elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853003"
+name: Yksikön kehyksen ydin
+summary: >+
+  Entity Framework Core noudattaa [nykyaikaista](/lifecycle/policies/modern) elinkaarikäytäntöä.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaaren usein kysytyt kysymykset - .NET Core](/lifecycle/faq/dotnet-core)\n* [Huoltotiedot](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET-etenemissuunnitelma](https://github.com/dotnet/core/blob/master/roadmap.md)"

@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Lync-kokoushuone
+  description: Lync-kokoushuone noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852820"
+name: Lync-kokoushuone
+summary: "Lync-kokoushuone noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso muuttoliikkeen ohjeet. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/01/2013
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 09/01/2013
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"
