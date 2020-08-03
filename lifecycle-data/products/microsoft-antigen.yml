@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Antigeeni
+  description: Microsoft Antigen noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814942"
+name: Microsoft Antigeeni
+summary: >+
+  Microsoft Antigen noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: 9.0 Exchange, Enterprise Manager 9.0, SMTP-yhdyskäytäviä varten, Roskapostin hallinta
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Forefront-brändin tietoturvatuotteiden etenemissuunnitelma on muuttunut.Tämä tuote lopetetaan 31.12.2015.\n\n## <a name=\"editions\"></a>Versiot \n* 9.0 Vaihtoa varten\n* Enterprise Manager 9.0 -yritys\n* SMTP-yhdyskäytäviä varten\n* Roskapostin hallinta"
