@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Defender windows 10:lle
+  description: Windows Defender for Windows 10 noudattaa osan elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814748"
+name: Windows Defender windows 10:lle
+summary: >+
+  Windows Defender for Windows 10 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Tätä julkaisua kutsutaan komponenttiksi, joka seuraa päätuotteen, Windows 10:n elinkaarta, elinkaarta."

@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Word 2004 for Mac
+  description: Microsoft Word 2004 for Mac noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 043ba3e5d96ecd646c431b32b300d1d277ba577d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814784"
+name: Microsoft Word 2004 for Mac
+summary: "Microsoft Word 2004 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/22/2004
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 07/22/2004
+  endDate: 01/10/2012
+content: ''
