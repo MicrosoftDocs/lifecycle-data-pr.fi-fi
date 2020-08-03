@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2016 -palvelin
+  description: Windows Server 2016 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853119"
+name: Windows Server 2016 -palvelin
+summary: >+
+  Windows Server 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Datacenter, Essentials, MultiPoint Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/windows-server/get-started/server-basics)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Välttämättömyydet\n* MultiPoint Premium\n* Standard"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8.1 -käyttö
+  description: Windows Phone 8.1 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852958"
+name: Windows Phone 8.1 -käyttö
+summary: >
+  Windows Phone 8.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows Phone 8.1:n usein kysytyt kysymykset](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft tuo käyttöjärjestelmälle päivityksiä, mukaan lukien tietoturvapäivitykset, vähintään 36 kuukauden ajan elinkaaren alkamispäivän jälkeen. Nämä päivitykset ovat lisääviä, ja jokainen päivitys perustuu sitä edeltäneeseen päivitykseen. Asiakkaiden on asennettava jokainen päivitys, jotta he voivat jäädä tuetuksi. Näiden lisäpäivitysten jakelua voi hallita matkapuhelinoperaattori tai puhelimen valmistaja, jolta ostit puhelimesi, ja asennus edellyttää, että puhelimessa on aiempia päivityksiä. Päivityksen saatavuus vaihtelee myös maittain, alueittain ja laitteisto-ominaisuuksiksi."

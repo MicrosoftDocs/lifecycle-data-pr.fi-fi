@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, julkaistu marraskuussa 2015
+  description: Marraskuussa 2015 julkaistu Windows 10 Mobile noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5a26113a9d85bf4e44262094db412ab1ab810acf
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853042"
+name: Windows 10 Mobile, julkaistu marraskuussa 2015
+summary: >
+  Marraskuussa 2015 julkaistu Windows 10 Mobile noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/16/2015
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 11/16/2015
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Laitekäyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile lopetti tuen 10.12.2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

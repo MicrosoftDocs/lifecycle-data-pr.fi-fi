@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visuaalinen studio 2012
+  description: Visual Studio 2012 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852869"
+name: Visuaalinen studio 2012
+summary: >+
+  Visual Studio 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Eristetty), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/31/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Visual Studio -tuotteen elinkaari ja huolto](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Aineet\n* Yhteisö 2013\n* Express Webille\n* Express Windows 8:lle\n* Express Windowsin työpöydälle\n* Intellitrace Keräilijä\n* Microsoft Azure -työkalut\n* Premium\n* Ammatillinen\n* Etätyökalut\n* Kuori (integroitu)\n* Kuori (eristetty)\n* SQL Serverin tietotyökalut\n* Tiimin hallinta\n* Testi Professional 2013\n* Lopullinen\n* Visual C++ Levityskelpoinen\n* Web-työkalujen laajennukset"

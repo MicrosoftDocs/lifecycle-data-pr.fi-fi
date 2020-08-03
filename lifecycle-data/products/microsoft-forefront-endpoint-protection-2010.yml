@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Endpoint Protection 2010 -palvelu
+  description: Microsoft Forefront Endpoint Protection 2010 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852977"
+name: Microsoft Forefront Endpoint Protection 2010 -palvelu
+summary: >
+  Microsoft Forefront Endpoint Protection 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Huoltotiedot](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Asiakkaiden on pysyttävä ajan tasalla uusimmalla haittaohjelmien torjuntaympäristön päivityksessä, jotta ne ovat täysin tuettuja. Forefront Endpoint Protection 2010 kuuluu saman elinkaarikäytännön piiriin kuin System Center Configuration Manager 2007 sekä valtavirran että laajennetun tuen osalta."

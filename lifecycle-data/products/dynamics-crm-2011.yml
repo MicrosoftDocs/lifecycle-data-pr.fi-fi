@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics CRM 2011:ssä
+  description: Dynamics CRM 2011 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0598408582a54cda647bf2c81147a104f54f216
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853033"
+name: Dynamics CRM 2011:ssä
+summary: >+
+  Dynamics CRM 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/18/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release (ver 5.0)
+  startDate: 05/18/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/previous-versions/dynamicscrm-2013/implementation-guide/hh699716(v=crm.6)#in-this-topic)\n* [Tuen tiedot](https://support.microsoft.com/help/2555051/microsoft-dynamics-crm-2011-updates-and-hotfixes)"

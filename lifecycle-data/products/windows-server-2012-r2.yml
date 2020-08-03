@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012 R2
+  description: Windows Server 2012 R2 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852707"
+name: Windows Server 2012 R2
+summary: >+
+  Windows Server 2012 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Datacenter, Essentials, embedded systems, Foundation, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Tämän tuotteen mainstream- ja extended-tukea on laajennettu siten, että asiakkaille saadaan normaali elinkaarisiirtymän aikajana.\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Välttämättömyydet\n* sulautetut järjestelmät\n* Säätiö\n* Standard"

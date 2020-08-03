@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Power BI -työtilakokoelma
+  description: Azure Power BI -työtilakokoelma noudattaa modernia elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852668"
+name: Azure Power BI -työtilakokoelma
+summary: >
+  Azure Power BI -työtilakokoelma noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

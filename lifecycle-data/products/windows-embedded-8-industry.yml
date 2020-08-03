@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8 Teollisuus
+  description: Windows Embedded 8 Industry noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852696"
+name: Windows Embedded 8 Teollisuus
+summary: >
+  Windows Embedded 8 Industry noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Enterprise, Pro
+
+
+  > [!IMPORTANT]
+
+  > Asiakkaiden on siirryttävä Windows 8.1:een, jotta he voivat jäädä tuettuina.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-ohjeet](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Pro"

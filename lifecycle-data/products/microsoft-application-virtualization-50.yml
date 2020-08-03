@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-sovellusten virtualisointi 5.0
+  description: Microsoft Application Virtualization 5.0 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852816"
+name: Microsoft-sovellusten virtualisointi 5.0
+summary: >+
+  Microsoft Application Virtualization 5.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: etätyöpöytäpalveluissa, päätepalveluissa, Windows-työpöytiä varten
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/01/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Service Pack 3
+  startDate: 12/08/2014
+  endDate: 01/10/2023
+- version: Service Pack 2
+  startDate: 12/02/2013
+  endDate: 01/12/2016
+- version: Service Pack 1
+  startDate: 04/10/2013
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 11/01/2012
+  endDate: 07/08/2014
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* etätyöpöytäpalveluihin\n* päätepalveluihin\n* Windows-työpöytiä varten"
