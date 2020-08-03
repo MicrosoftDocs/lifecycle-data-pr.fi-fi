@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Engyron tuoteliittimet Microsoft Operations Manager 2005:lle
+  description: Microsoft Operations Manager 2005:n Engyro-tuoteliittimet noudattavat kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814987"
+name: Engyron tuoteliittimet Microsoft Operations Manager 2005:lle
+summary: >+
+  Microsoft Operations Manager 2005:n Engyro-tuoteliittimet noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 12/31/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 01/13/2015
+content: ''

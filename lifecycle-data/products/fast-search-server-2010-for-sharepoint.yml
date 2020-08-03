@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (SharePointille, SharePointin Internet-sivustoille)
+  description: FAST Search Server 2010 (SharePointin Jakapoint-Internet-sivustot) noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814981"
+name: FAST Search Server 2010 (SharePointille, SharePointin Internet-sivustoille)
+summary: >+
+  FAST Search Server 2010 (SharePointin Jakapoint-Internet-sivustot) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: SharePointissa, SharePointin Internet-sivustoissa
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/24/2011
+  endDate: 07/23/2014
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ei sisällä aiemmin tuettuja versioita. Tämän tuotteen tukemiseen sovelletaan sen yritysoston ehtoja.\n\n## <a name=\"editions\"></a>Versiot \n* SharePointia varten\n* SharePointin Internet-sivustot"
