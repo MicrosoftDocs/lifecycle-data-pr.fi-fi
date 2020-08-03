@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SQL-palvelin 2017
+  description: SQL Server 2017 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869135"
+name: SQL-palvelin 2017
+summary: >+
+  SQL Server 2017 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Linuxissa (kaikki versiot), Windowsissa (kaikki versiot)
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 09/29/2017
+  end: 10/11/2022
+  extendedEnd: 10/12/2027
+releases:
+- version: Original Release
+  startDate: 09/29/2017
+  endDate: 10/12/2027
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> SQL Server 2017:stä alkaen Service Packeja ei julkaista.\n\n## <a name=\"editions\"></a>Versiot \n* Linux (kaikki versiot)\n* Windowsissa (kaikki versiot)"
