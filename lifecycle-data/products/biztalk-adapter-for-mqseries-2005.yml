@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk-sovitin MQSeries 2005:lle
+  description: BizTalk-sovitin MQSeries 2005:lle noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "815140"
+name: BizTalk-sovitin MQSeries 2005:lle
+summary: >+
+  BizTalk-sovitin MQSeries 2005:lle noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/10/2004
+  end: 12/31/2009
+  extendedEnd: 12/31/2014
+releases:
+- version: Original Release
+  startDate: 12/10/2004
+  endDate: 12/31/2014
+content: ''
