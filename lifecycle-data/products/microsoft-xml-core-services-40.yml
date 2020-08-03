@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft XML Core Services 4.0 -palvelu
+  description: Microsoft XML Core Services 4.0 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "814775"
+name: Microsoft XML Core Services 4.0 -palvelu
+summary: >+
+  Microsoft XML Core Services 4.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+products:
+- vs
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/28/2009
+  end: 04/12/2014
+releases:
+- version: Service Pack 3
+  startDate: 12/28/2009
+  endDate: 04/12/2014
+content: "\n\n> [!NOTE]\n> XML Core Services 4.0 :n tuki on päättynyt. Tuki oli käytettävissä vain Service Pack 3:ssa."
