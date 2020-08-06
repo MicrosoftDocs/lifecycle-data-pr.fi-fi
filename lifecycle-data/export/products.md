@@ -1,27 +1,27 @@
 ---
 title: Tuotteiden vienti
 description: Tuotteen elin kaari tietojen vieminen
-ms.date: 08/05/2020
-ms.openlocfilehash: 148d4d16dbf7e35fa5b5a44704867ac04d614e19
-ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+ms.date: 08/06/2020
+ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
+ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "884999"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "885181"
 ---
-# <a name="export"></a><span data-ttu-id="f70ad-103">Vie</span><span class="sxs-lookup"><span data-stu-id="f70ad-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="fe6f6-103">Vie</span><span class="sxs-lookup"><span data-stu-id="fe6f6-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="f70ad-104">Tämä sivu on kehitteillä.</span><span class="sxs-lookup"><span data-stu-id="f70ad-104">This page is under development.</span></span>
+> <span data-ttu-id="fe6f6-104">Tämä sivu on kehitteillä.</span><span class="sxs-lookup"><span data-stu-id="fe6f6-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="f70ad-105">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="f70ad-105">Export All Products</span></span>
-<span data-ttu-id="f70ad-106">Vie kaikki tuotteet ilman suodatinta.</span><span class="sxs-lookup"><span data-stu-id="f70ad-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="fe6f6-105">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="fe6f6-105">Export All Products</span></span>
+<span data-ttu-id="fe6f6-106">Vie kaikki tuotteet ilman suodatinta.</span><span class="sxs-lookup"><span data-stu-id="fe6f6-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="f70ad-107">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="f70ad-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="fe6f6-107">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="fe6f6-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="f70ad-108">Tuotteiden vieminen luokittain</span><span class="sxs-lookup"><span data-stu-id="f70ad-108">Export Products by Category</span></span>
-<span data-ttu-id="f70ad-109">Valitse vietävä ryhmittely:</span><span class="sxs-lookup"><span data-stu-id="f70ad-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="fe6f6-108">Tuotteiden vieminen luokittain</span><span class="sxs-lookup"><span data-stu-id="fe6f6-108">Export Products by Category</span></span>
+<span data-ttu-id="fe6f6-109">Valitse vietävä ryhmittely:</span><span class="sxs-lookup"><span data-stu-id="fe6f6-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Perhe" title2="Ryhmä"]
 > - [(.NET | Kaikki](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "884999"
 > - [(Windows | Suojaus](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Palvelin](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="f70ad-167">Tuotteiden vienti tuki vuoden loppuun mennessä</span><span class="sxs-lookup"><span data-stu-id="f70ad-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="f70ad-168">Valitse vuosi, jos haluat viedä tuotteet, jotka päättyvät kyseiseen vuoteen:</span><span class="sxs-lookup"><span data-stu-id="f70ad-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="fe6f6-167">Tuotteiden vienti tuki vuoden loppuun mennessä</span><span class="sxs-lookup"><span data-stu-id="fe6f6-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="fe6f6-168">Valitse vuosi, jos haluat viedä tuotteet, jotka päättyvät kyseiseen vuoteen:</span><span class="sxs-lookup"><span data-stu-id="fe6f6-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
