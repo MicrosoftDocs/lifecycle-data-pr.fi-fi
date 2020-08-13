@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Operations Manager 2007 R2
-  description: System Center Operations Manager 2007 R2 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: System Center Operations Manageriin 2007 R2
+  description: System Center Operations emäntä 2007 R2 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814230"
-name: System Center Operations Manager 2007 R2
-summary: "System Center Operations Manager 2007 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892496"
+name: System Center Operations Manageriin 2007 R2
+summary: "System Center Operations emäntä 2007 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso alla oleva siirto-ohje. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

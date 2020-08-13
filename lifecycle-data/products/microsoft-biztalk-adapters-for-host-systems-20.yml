@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk -sovittimet host systems 2.0:aa varten
-  description: Host Systems 2.0:n Microsoft BizTalk -sovittimet noudattavat kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0
+  description: Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814915"
-name: Microsoft BizTalk -sovittimet host systems 2.0:aa varten
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893495"
+name: Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0
 summary: >+
-  Host Systems 2.0:n Microsoft BizTalk -sovittimet noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Kehittäjä, Standard
+  Tämä koskee seuraavia versioita: kehittäjä, vakio
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kehittäjä\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kehittäjä\n* Vakio"

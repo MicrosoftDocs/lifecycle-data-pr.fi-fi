@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Pixeli-kaupallinen laitteisto 1,0
+  description: Pixelinen kaupallinen laitteisto 1,0 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893921"
+name: Pixeli-kaupallinen laitteisto 1,0
+summary: >+
+  Pixelinen kaupallinen laitteisto 1,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/25/2008
+  end: 10/08/2013
+releases:
+- version: Original Release
+  startDate: 09/25/2008
+  endDate: 10/08/2013
+content: ''
