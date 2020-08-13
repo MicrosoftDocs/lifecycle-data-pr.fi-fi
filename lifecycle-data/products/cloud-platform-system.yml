@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pilvialustan järjestelmä
-  description: Pilviympäristöjärjestelmä noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Pilvi ympäristön järjestelmä
+  description: Pilvi ympäristön järjestelmä noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852945"
-name: Pilvialustan järjestelmä
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891876"
+name: Pilvi ympäristön järjestelmä
 summary: >+
-  Pilviympäristöjärjestelmä noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Pilvi ympäristön järjestelmä noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
+
+  Tämä koskee seuraavia versioita: vakio
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Cloud Platform System -tukia laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota normaali elinkaarisiirtymän aikajana.\n> [!NOTE]\n> Cloud Platform System Standard lanseerattiin 18.9.2017."
+content: "\n\n> [!NOTE]\n> Pilvi palvelu alustan tuki laajennetaan näin, jotta kaikki asiakkaat voivat käyttää elin kaari siirtymän aika janaa.\n> [!NOTE]\n> Cloud Platform System Standard käynnistettiin syyskuun 18, 2017.\n\n## <a name=\"editions\"></a>Versiot \n* Vakio"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamiikan NAV 2018
-  description: Dynamics NAV 2018 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5ca66de094b114726b39bf7e1e96228a1ea4a16e
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Dynamics NAV 2018
+  description: Dynamics NAV 2018 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 489342ec129c87ad40c1d7e2579109dc4f4a8227
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869007"
-name: Dynamiikan NAV 2018
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891802"
+name: Dynamics NAV 2018
 summary: >+
-  Dynamics NAV 2018 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Dynamics NAV 2018 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
 products:
