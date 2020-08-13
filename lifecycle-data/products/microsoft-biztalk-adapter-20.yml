@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk-sovitin 2,0
+  description: Microsoft BizTalk-sovitin 2,0 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893931"
+name: Microsoft BizTalk-sovitin 2,0
+summary: >+
+  Microsoft BizTalk-sovitin 2,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+
+
+  Tämä koskee seuraavia versioita: MSMQ:N osalta mySAP Business Suitelle, SAP-käyttöön
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/20/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/20/2004
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> Microsoft BizTalk Adapter 2,0 for SAP: n alkamis päivämäärä on 2. marraskuuta 2004. MSMQ 2,0-Microsoft BizTalk-sovittimen alkamis päivämäärä on 10. joulu kuuta 2004\n\n## <a name=\"editions\"></a>Versiot \n* MSMQ\n* mySAP Business Suitelle\n* SAP"
