@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: GPOVault
+  description: GPOVault noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 53a695653e0c7ea800e0b2f78d8a0ec9be49e9c7
+  ms.sourcegitcommit: cdc82d954cf43f559efedf304d3b044b29dda561
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903310"
+name: GPOVault
+summary: >+
+  GPOVault noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+
+
+  Tämä koskee seuraavia versioita: 1,0, 1,0 Enterprise, 2,0, Enterprise 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Tämän tuotteen tukeen sovelletaan sen hankinnan ehtoja. \n\n## <a name=\"editions\"></a>Versiot \n* 1,0\n* 1,0 Enterprise\n* 2,0\n* Enterprise 2,0"
