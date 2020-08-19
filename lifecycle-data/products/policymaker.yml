@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Päättäjä
+  description: PolicyMaker noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904037"
+name: Päättäjä
+summary: >+
+  PolicyMaker noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Application turvallisuus, Outlook Edition, Professional 9,0, rekisteri laajennus 2,0, Share emäntä 1,0, ohjelmisto päivitys 1,0, ohjelmisto päivitys 2,0, Standard 1,0, Standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Tämän tuotteen tukeen sovelletaan sen hankinnan ehtoja.\n\n## <a name=\"editions\"></a>Versiot \n* Sovellusten turvallisuus\n* Outlook-versio\n* Professional 9,0\n* Rekisteri laajennus 2,0\n* Jaa esimiehen 1,0\n* Ohjelmisto päivitys 1,0\n* Ohjelmisto päivitys 2,0\n* Vakio 1,0\n* Vakio 2,0"
