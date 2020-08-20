@@ -1,27 +1,27 @@
 ---
 title: Elin kaari tietojen vieminen
 description: Tuotteen elin kaari tietojen vieminen
-ms.date: 08/19/2020
-ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
-ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+ms.date: 08/20/2020
+ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
+ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
 ms.translationtype: MT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "903650"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "905207"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="48182-103">Elin kaari tietojen vieminen</span><span class="sxs-lookup"><span data-stu-id="48182-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="1d780-103">Elin kaari tietojen vieminen</span><span class="sxs-lookup"><span data-stu-id="1d780-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="48182-104">Tämä sivu on kehitteillä.</span><span class="sxs-lookup"><span data-stu-id="48182-104">This page is under development.</span></span>
+> <span data-ttu-id="1d780-104">Tämä sivu on kehitteillä.</span><span class="sxs-lookup"><span data-stu-id="1d780-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="48182-105">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="48182-105">Export all products</span></span>
-<span data-ttu-id="48182-106">Vie kaikkien tuotteiden elin kaari tiedot napsauttamalla alla olevaa linkkiä:</span><span class="sxs-lookup"><span data-stu-id="48182-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="1d780-105">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="1d780-105">Export all products</span></span>
+<span data-ttu-id="1d780-106">Vie kaikkien tuotteiden elin kaari tiedot napsauttamalla alla olevaa linkkiä:</span><span class="sxs-lookup"><span data-stu-id="1d780-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="48182-107">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="48182-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="1d780-107">Kaikkien tuotteiden vieminen</span><span class="sxs-lookup"><span data-stu-id="1d780-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="48182-108">Tuotteiden vieminen perheen ja ryhmän mukaan</span><span class="sxs-lookup"><span data-stu-id="48182-108">Export products by Family and Group</span></span>
-<span data-ttu-id="48182-109">Valitse perhe ja sitten vietävä ryhmä.</span><span class="sxs-lookup"><span data-stu-id="48182-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="48182-110">Huomautus: vienti aloitetaan, kun ryhmän arvo on valittuna.</span><span class="sxs-lookup"><span data-stu-id="48182-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="1d780-108">Tuotteiden vieminen perheen ja ryhmän mukaan</span><span class="sxs-lookup"><span data-stu-id="1d780-108">Export products by Family and Group</span></span>
+<span data-ttu-id="1d780-109">Valitse perhe ja sitten vietävä ryhmä.</span><span class="sxs-lookup"><span data-stu-id="1d780-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="1d780-110">Huomautus: vienti aloitetaan, kun ryhmän arvo on valittuna.</span><span class="sxs-lookup"><span data-stu-id="1d780-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Perhe" title2="Ryhmä"]
 > - [(.NET | Kaikki](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -81,8 +81,8 @@ ms.locfileid: "903650"
 > - [(Windows | Suojaus](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Palvelin](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="48182-169">Vie tuotteet tuen päättymis päivämäärän mukaan</span><span class="sxs-lookup"><span data-stu-id="48182-169">Export products by end of support date</span></span>
-<span data-ttu-id="48182-170">Valitse vuosi, jos haluat nähdä tuen päättymiseen liittyvät tuotteet.</span><span class="sxs-lookup"><span data-stu-id="48182-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="48182-171">Huomautus: vienti aloitetaan, kun vuoden arvo on valittuna.</span><span class="sxs-lookup"><span data-stu-id="48182-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="1d780-169">Vie tuotteet tuen päättymis päivämäärän mukaan</span><span class="sxs-lookup"><span data-stu-id="1d780-169">Export products by end of support date</span></span>
+<span data-ttu-id="1d780-170">Valitse vuosi, jos haluat nähdä tuen päättymiseen liittyvät tuotteet.</span><span class="sxs-lookup"><span data-stu-id="1d780-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="1d780-171">Huomautus: vienti aloitetaan, kun vuoden arvo on valittuna.</span><span class="sxs-lookup"><span data-stu-id="1d780-171">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
