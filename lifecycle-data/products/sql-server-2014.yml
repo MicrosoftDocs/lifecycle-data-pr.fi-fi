@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL-palvelin 2014
+  title: SQL Server 2014
   description: SQL Server 2014 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853091"
-name: SQL-palvelin 2014
-summary: >+
-  SQL Server 2014 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
-
+name: SQL Server 2014
+summary: "SQL Server 2014 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business Intelligence\n* Kehittäjä\n* Yrityksen\n* Yrityksen ydin\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853071"
 name: Windows Storage Server 2012 R2
-summary: >+
-  Windows Storage Server 2012 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Essentials, Standard, Workgroup
-
+summary: "Windows Storage Server 2012 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Essentials, Standard, Workgroup\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Tämän tuotteen mainstream- ja extended-tukea on laajennettu siten, että asiakkaille saadaan normaali elinkaarisiirtymän aikajana.\n> [!NOTE]\n> Essentials-painoksen alkamispäivä on 25.9.2014. \n\n## <a name=\"editions\"></a>Versiot \n* Välttämättömyydet\n* Standard\n* Työryhmän"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Tämän tuotteen Mainstream- ja Extended-tukea on laajennettu siten, että asiakkaille saadaan normaali elinkaarisiirtymän aikajana.\n> [!NOTE]\n> Essentials-version alkamispäivä on 25.9.2014. \n\n## <a name=\"editions\"></a>Versiot \n* Essentials\n* Standard\n* Workgroup"

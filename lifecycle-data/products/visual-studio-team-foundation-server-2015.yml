@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Foundation -palvelin 2015
+  title: Visual Studio Team Foundation Server 2015
   description: Visual Studio Team Foundation Server 2015 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ff7e78930b60209ffb1bee2ba4da54aa6504027
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853138"
-name: Visual Studio Team Foundation -palvelin 2015
-summary: >+
-  Visual Studio Team Foundation Server 2015 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Kaikki
-
+name: Visual Studio Team Foundation Server 2015
+summary: "Visual Studio Team Foundation Server 2015 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Kaikki\n\n"
 products:
 - vs
 policyType: fixed
@@ -33,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Tuotetiedot - Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Tuotetiedot - Azure Dev Ops](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki"
