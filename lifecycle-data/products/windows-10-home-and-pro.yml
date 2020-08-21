@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Home ja Pro
-  description: Windows 10 Home ja Pro noudattavat modernia elinkaarikäytäntöä.
+  description: Windows 10 Home & Pro noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879143"
 name: Windows 10 Home ja Pro
-summary: >
-  Windows 10 Home ja Pro noudattavat [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Home, Pro, Pro for Education, Pro for Workstations, Professional
-
-
-  > [!IMPORTANT]
-
-  > Microsoft tukee edelleen vähintään yhtä Windows 10 Semi-Annual Channel -kanavaa 14.10.2025 saakka.
+summary: "Windows 10 Home & Pro noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Home, Pro, Pro for Education, Pro for Workstations, Professional\n\n> [!IMPORTANT]\n> Microsoft tukee vähintään yhtä Windows 10 osavuosittaista kanavaa 14.10.2025 saakka.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +48,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows palveluna (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windowsin elinkaaren tiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation julkaistiin ensimmäisen kerran version 1703 myötä\n> [!NOTE]\n> Ellei sitä lykätä, seuraavat Windows 10 Semi-Annual Channel -ominaisuuspäivitykset voidaan asentaa ennen Mainstream-tuen päivämäärän mainittua päättymistä.\n\n## <a name=\"editions\"></a>Versiot \n* Aloitus\n* Pro\n* Pro koulutus\n* Työasemien pro\n* Ammatillinen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windowsin elinkaaritiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation julkaistiin ensimmäisen kerran version 1703 myötä.\n> [!NOTE]\n> Myöhemmät Windows 10:n osavuotisen kanavan päivitykset on asennettava ennen mainittua Mainstream-tukijakson päättymispäivämäärää, ellei sitä lykätä.\n\n## <a name=\"editions\"></a>Versiot \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"

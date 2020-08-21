@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows 8 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852914"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906690"
 name: Windows 8
 summary: >
-  Windows 8 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Windows 8 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N
+  Tämä koskee seuraavia versioita: Enterprise, Enterprise N, N, Pro ja Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt. Asiakkaiden on päivitettävä Windows 8.1:ksi, jotta he voivat jäädä tuettujen tueksi.
+  > Tämän tuotteen tuki on päättynyt. Asiakkaiden on päivitettävä Windows 8,1, jotta ne säilyvät tuetuissa.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaarta – usein kysytyt kysymykset - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Yritys N\n* N\n* Pro ja Media Center\n* Ammatillinen\n* Ammatillinen N"
+content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elin kaaren usein kysytyt kysymykset-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yritys\n* Enterprise N\n* N\n* Pro Media Centerin kanssa\n* Professional\n* Professional N\n* SL"

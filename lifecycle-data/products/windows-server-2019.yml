@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2019 -palvelin
+  title: Windows Server 2019
   description: Windows Server 2019 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869042"
-name: Windows Server 2019 -palvelin
-summary: >+
-  Windows Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Datacenter, Essentials, Standard
-
+name: Windows Server 2019
+summary: "Windows Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Datacenter, Essentials, Standard\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019:n päivitys](https://aka.ms/WSRelaunchBlog)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 ja Windows Server, versio 1809 julkaistiin uudelleen 13.11.2018. Tukipäiviä on mukautettu vastaavasti.\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Välttämättömyydet\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/windows-server/get-started-19/whats-new-19)\n* [Päivitys Windows Server 2019:n saatavuuteen](https://aka.ms/WSRelaunchBlog)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 ja Windows Server, versio 1809 julkaistiin uudelleen 13.11.2018. Tuen päivämääriä on muutettu vastaavasti.\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Essentials\n* Standard"

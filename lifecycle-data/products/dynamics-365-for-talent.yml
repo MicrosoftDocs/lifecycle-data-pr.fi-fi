@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869028"
 name: Dynamics 365 for Talent
-summary: >+
-  Dynamics 365 for Talent noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Laivalla
-
+summary: "Dynamics 365 for Talent noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Onboard\n\n"
 products:
 - dynamics
 policyType: modern-online
@@ -26,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Järjestelmävaatimukset](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Muuttoliikettä koskeva ohjeistus](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract- ja Onboard-sovellukset poistetaan käytöstä 2.2.2022.  Dynamics 365:n henkilöstöhallinnon perustiedot 1.2.2020 on kohdassa muuttoliikkeen ohjeet.\n\n## <a name=\"editions\"></a>Versiot \n* Laivalla"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Järjestelmävaatimukset](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Siirron ohjeistus](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract- ja Onboard-sovellukset poistetaan käytöstä 2.2.2022.  Core HR uudelleenjulkaistiin Dynamics 365 Human Resources -ohjelmana 1.2.2020. Lisätietoja on siirtymäohjeissa.\n\n## <a name=\"editions\"></a>Versiot \n* Onboard"
