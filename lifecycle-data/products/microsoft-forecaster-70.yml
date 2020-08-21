@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Ennuste 7,0
+  title: Microsoft Forecaster 7.0
   description: Microsoft Forecaster 7.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814867"
-name: Microsoft Ennuste 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
   Microsoft Forecaster 7.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ennusteen tuki päättyy ilmoitettuna päivänä, ellei sitä jaeta Dynamics-tuotteen osana. Dynamics-tuotteen kanssa jaettaessa Dynamics-elinkaaren päivämäärät ohittavat ennusteen päivämäärän."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Forecaster-tuki päättyy ilmoitettuna päivänä, ellei sitä jaeta Dynamics-tuotteen osana. Dynamics-tuotteen kanssa jaettaessa Dynamics-elinkaaren päivämäärät ohittavat Forecasterin päivämäärän."

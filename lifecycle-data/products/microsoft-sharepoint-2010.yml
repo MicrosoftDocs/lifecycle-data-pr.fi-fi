@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (Internet-sivustot)
-  description: Microsoft SharePoint 2010 (Internet-sivustot) noudattaa kiinteää elinkaarikäytäntöä.
+  title: Microsoft SharePoint 2010 (for Internet Sites)
+  description: Microsoft SharePoint 2010 (for Internet Sites) noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814825"
-name: Microsoft SharePoint 2010 (Internet-sivustot)
-summary: >+
-  Microsoft SharePoint 2010 (Internet-sivustot) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Internet Sites Enterprise, Internet Sites Standard
-
+name: Microsoft SharePoint 2010 (for Internet Sites)
+summary: "Microsoft SharePoint 2010 (for Internet Sites) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: for Internet Sites Enterprise, for Internet Sites Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen dokumentointi](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Kehittäjien dokumentaatio](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Tämän tuotteen tuen päättymispäivää on jatkettu 13.10.2020–13.4.2021.\n\n## <a name=\"editions\"></a>Versiot \n* Internet-sivustot Enterprise\n* Internet-sivustot Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen käyttöohjeet](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Kehittäjien dokumentaatio](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Tämän tuotteen tuen päättymispäivää on siirretty vuoden 2020 lokakuun 13. päivästä vuoden 2021 huhtikuun 13. päivään.\n\n## <a name=\"editions\"></a>Versiot \n* for Internet Sites Enterprise\n* for Internet Sites Standard"

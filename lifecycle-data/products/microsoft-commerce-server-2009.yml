@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Commerce Server 2009:n
+  title: Microsoft Commerce Server 2009
   description: Microsoft Commerce Server 2009 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca4dbecaf633f9551ab9af5e9a7fec7b0fe9f99e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814888"
-name: Microsoft Commerce Server 2009:n
-summary: >
-  Microsoft Commerce Server 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Enterprise, Standard
-
-
-  > [!IMPORTANT]
-
-  > Tämän tuotteen tuki on päättynyt.
+name: Microsoft Commerce Server 2009
+summary: "Microsoft Commerce Server 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Enterprise, Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt.\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/23/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Dynamics 365 Commerce -arkkitehtuurin yleiskatsaus](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Dynamics 365 Commerce -arkkitehtuurin yleiskatsaus](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"

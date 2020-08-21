@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2016:n Windows Defender
+  title: Windows Defender Windows Server 2016:lle
   description: Windows Defender for Windows Server 2016 noudattaa osan elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814747"
-name: Windows Server 2016:n Windows Defender
+name: Windows Defender Windows Server 2016:lle
 summary: >+
   Windows Defender for Windows Server 2016 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows Server 2016 -palvelin](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Tämä osa noudattaa päätuotteensa Windows Server 2016:n elinkaarta."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Tämä osa noudattaa sen päätuotteen Windows Server 2016:n elinkaarta."

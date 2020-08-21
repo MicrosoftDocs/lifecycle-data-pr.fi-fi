@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 Windows-työpöytiä
+  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
   description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814932"
-name: Microsoft Application Virtualization Hosting 4.6 Windows-työpöytiä
-summary: >+
-  Microsoft Application Virtualization Hosting 4.6 for Windows Desktops noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Windowsin pöytätietokoneille
-
+name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+summary: "Microsoft Application Virtualization Hosting 4.6 for Windows Desktops noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: for Windows Desktops\n\n"
 products:
 - windows
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Koska App-V 4.6 -asiakas käyttää App-V 4.5 Serveriä, App-V 4.5 Serveriä tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakkaan kanssa.\n\n## <a name=\"editions\"></a>Versiot \n* Windows-työpöytiä varten"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Koska App-V 4.6 -asiakasohjelma käyttää App-V 4.5-palvelinta, App-V 4.5-palvelinta tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakasohjelman kanssa.\n\n## <a name=\"editions\"></a>Versiot \n* for Windows Desktops"

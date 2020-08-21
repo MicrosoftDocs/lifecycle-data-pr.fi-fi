@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Centerin kokoonpanon hallinta 2007
+  title: Microsoft System Center Configuration Manager 2007
   description: Microsoft System Center Configuration Manager 2007 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814813"
-name: Microsoft System Centerin kokoonpanon hallinta 2007
-summary: >
-  Microsoft System Center Configuration Manager 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-
-  > [!IMPORTANT]
-
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+name: Microsoft System Center Configuration Manager 2007
+summary: "Microsoft System Center Configuration Manager 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
 products:
 - msc
 policyType: fixed
@@ -35,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Tuotteen tiedot](/mem/configmgr/core/understand/introduction)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Tuotteen tiedot](/mem/configmgr/core/understand/introduction)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"

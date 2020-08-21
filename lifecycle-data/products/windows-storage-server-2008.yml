@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2008-käyttö
+  title: Windows Storage Server 2008
   description: Windows Storage Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814201"
-name: Windows Storage Server 2008-käyttö
+name: Windows Storage Server 2008
 summary: >
   Windows Storage Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Basic, Basic 32-bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Työryhmä
+  Tämä koskee seuraavia versioita: Basic, Basic 32-Bit, Basic 64-Bit, Basic Embedded, Basic Embedded 32-Bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Tämä tuote on saavuttanut tuen päättymisen. Alla on siirtymäopastusta.
+  > Tämän tuotteen tuki on päättynyt. Alla on siirtymäopastusta.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Palvelimen päivitystiedot](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Versiot \n* Perus\n* Perus 32-bittinen\n* Perus 64-bittinen\n* Perus upotettu\n* Upotettu perus 32-bittinen\n* Yrityksen\n* Yrityksen upotettu\n* Standard\n* Vakio upotettu\n* Työryhmän"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Palvelimen päivitystiedot](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Versiot \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

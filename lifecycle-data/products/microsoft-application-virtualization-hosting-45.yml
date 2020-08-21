@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.5 Windows-työpöytiä
+  title: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops
   description: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814933"
-name: Microsoft Application Virtualization Hosting 4.5 Windows-työpöytiä
-summary: >
-  Microsoft Application Virtualization Hosting 4.5 for Windows Desktops noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Windowsin pöytätietokoneille
-
-
-  > [!IMPORTANT]
-
-  > Tämän tuotteen tuki on päättynyt. Katso siirtotiedot alla.
+name: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops
+summary: "Microsoft Application Virtualization Hosting 4.5 for Windows Desktops noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: for Windows Desktops\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alla.\n"
 products:
 - windows
 policyType: fixed
@@ -37,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Windows-työpöytiä varten"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* for Windows Desktops"
