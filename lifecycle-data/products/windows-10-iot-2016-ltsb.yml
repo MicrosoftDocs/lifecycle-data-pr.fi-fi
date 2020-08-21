@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0c7e791db78dc4e528c3e9b2bffc0116a2820fb9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852705"
 name: Windows 10 IoT 2016 LTSB
-summary: >+
-  Windows 10 IoT 2016 LTSB noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Enterprise
-
+summary: "Windows 10 IoT 2016 LTSB noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Enterprise\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2016
   endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows palveluna (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC:n usein kysytyt kysymykset](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10:n lokakuun päivitys (versio 1809) julkaistaan uudelleen](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC:n toistuvat kysymykset](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10:n lokakuun 2018 päivityksen (versio 1809) uudelleenjulkaisu](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise"

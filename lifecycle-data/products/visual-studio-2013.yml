@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853139"
 name: Visual Studio 2013
-summary: >+
-  Visual Studio 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Agentit, All, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
-
+summary: "Visual Studio 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Agents, kaikki, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (integroitu), Shell (eristetty), Team Explorer, Test Professional, Ultimate, Visual C + + Redistributable, Web Tools Extensions\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Aineet\n* Kaikki\n* Yhteisö.\n* Express Webille\n* Express windowsille\n* Express Windowsin työpöydälle\n* Intellitrace Keräilijä\n* Mallinnus SDK\n* Monitavuinen MFC-kirjasto\n* Premium\n* Ammatillinen\n* Julkaisujen hallinta\n* Etätyökalut\n* Sdk\n* Kuori (integroitu)\n* Kuori (eristetty)\n* Tiimin hallinta\n* Testaa Professional\n* Lopullinen\n* Visual C++ Levityskelpoinen\n* Web-työkalujen laajennukset"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Agents\n* Kaikki\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (integroitu)\n* Shell (eristetty)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

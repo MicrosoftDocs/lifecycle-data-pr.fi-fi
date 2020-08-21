@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Serverin AppFabric 1.1
-  description: Windows Serverin AppFabric 1.1 noudattaa kiinteää elinkaarikäytäntöä.
+  title: AppFabric 1.1 for Windows Server
+  description: AppFabric 1.1 for Windows Server noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852842"
-name: Windows Serverin AppFabric 1.1
-summary: >+
-  Windows Serverin AppFabric 1.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
+name: AppFabric 1.1 for Windows Server
+summary: "AppFabric 1.1 for Windows Server noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 02/11/2012
   endDate: 04/12/2022
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaaren laajennus](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren pidennys](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"

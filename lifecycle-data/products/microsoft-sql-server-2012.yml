@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012-palvelin
+  title: Microsoft SQL Server 2012
   description: Microsoft SQL Server 2012 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852763"
-name: Microsoft SQL Server 2012-palvelin
-summary: >+
-  Microsoft SQL Server 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web
-
+name: Microsoft SQL Server 2012
+summary: "Microsoft SQL Server 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web\n\n"
 products:
 - sql-server
 policyType: fixed
@@ -39,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business Intelligence\n* Kehittäjä\n* Yrityksen\n* Yrityksen ydin\n* Express\n* sulautetut järjestelmät\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"

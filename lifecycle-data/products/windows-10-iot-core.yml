@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT -ydin
+  title: Windows 10 IoT Core
   description: Windows 10 IoT Core noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852960"
-name: Windows 10 IoT -ydin
-summary: >
-  Windows 10 IoT Core noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
-
-
-
-  > [!IMPORTANT]
-
-  > Microsoft tukee edelleen vähintään yhtä Windows 10 Semi-Annual Channel -kanavaa 14.10.2025 saakka.
+name: Windows 10 IoT Core
+summary: "Windows 10 IoT Core noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Microsoft tukee vähintään yhtä Windows 10 osavuosittaista kanavaa 14.10.2025 saakka.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +33,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/windows/iot-core/windows-iot-core)\n* [Windowsin elinkaaren tiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows palveluna (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ellei sitä lykätä, seuraavat Windows 10 Semi-Annual Channel -ominaisuuspäivitykset voidaan asentaa ennen Mainstream-tuen päivämäärän mainittua päättymistä."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/windows/iot-core/windows-iot-core)\n* [Windowsin elinkaaritiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Myöhemmät Windows 10:n osavuotisen kanavan päivitykset on asennettava ennen mainittua Mainstream-tukijakson päättymispäivämäärää, ellei sitä lykätä."

@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Identity Manager 2016 -käyttäjätietojen hallinta
+  title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852797"
-name: Microsoft Identity Manager 2016 -käyttäjätietojen hallinta
-summary: >+
-  Microsoft Identity Manager 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
+name: Microsoft Identity Manager 2016
+summary: "Microsoft Identity Manager 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n"
 products:
 - m365
 policyType: fixed
@@ -31,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Azure-tuki on käytettävissä Azure AD -integrointikomponenteille Microsoft Identity Manager 2016:n laajennetun tuen loppuun mennessä.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure-tukisuunnitelmat.](https://azure.microsoft.com/support/plans/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Tuotteen tiedot](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Azure-tuki on saatavilla Azure AD -integraatio-osille Microsoft Identity Manager 2016:n laajennetun tuen loppuun asti.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure-tukisuunnitelmat.](https://azure.microsoft.com/support/plans/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Tuotteen tiedot](/microsoft-identity-manager/microsoft-identity-manager-2016)"

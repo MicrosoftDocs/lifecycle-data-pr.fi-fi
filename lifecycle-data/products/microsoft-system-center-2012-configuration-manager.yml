@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852883"
 name: Microsoft System Center 2012 Configuration Manager
-summary: >+
-  Microsoft System Center 2012 Configuration Manager noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
+summary: "Microsoft System Center 2012 Configuration Manager noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n"
 products:
 - msc
 policyType: fixed
@@ -31,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Järjestelmäkeskuksen ohjeet](/system-center/#pivot=components&panel=components-all)\n* [Järjestelmäkeskuksen resurssit](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [System Center -dokumentaatio](/system-center/#pivot=components&panel=components-all)\n* [System Center -resursseja](https://www.microsoft.com/system-center/resources)"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visuaalinen studio 2015
+  title: Visual Studio 2015
   description: Visual Studio 2015 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852917"
-name: Visuaalinen studio 2015
-summary: >+
-  Visual Studio 2015 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Agentit, Yhteisö, Yritys, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Eristetty), Test Professional, Visual C++ Redistributable
-
+name: Visual Studio 2015
+summary: "Visual Studio 2015 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Agents, Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (integroitu), Shell (erillinen), Test Professional, Visual C ++ Redistributable\n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Aineet\n* Yhteisö.\n* Yrityksen\n* Express Webille\n* Express Windows 10:lle\n* Express Windowsin työpöydälle\n* Mallinnus SDK\n* Ammatillinen\n* Julkaisujen hallinta\n* Etätyökalut\n* Sdk\n* Kuori (integroitu)\n* Kuori (eristetty)\n* Testaa Professional\n* Visual C++ Levityskelpoinen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Agents\n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (integroitu)\n* Shell (eristetty)\n* Test Professional\n* Visual C++ Redistributable"
