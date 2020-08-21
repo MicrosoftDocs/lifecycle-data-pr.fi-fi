@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Project 2007:n
+  title: Microsoft Office Project 2007
   description: Microsoft Office Project 2007 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36bad214333805bfa18d06a194e9a5748a70baa1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814845"
-name: Microsoft Office Project 2007:n
+name: Microsoft Office Project 2007
 summary: >+
   Microsoft Office Project 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/office/troubleshoot/support/office-2007-not-support)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Ammatillinen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/office/troubleshoot/support/office-2007-not-support)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Professional\n* Standard"

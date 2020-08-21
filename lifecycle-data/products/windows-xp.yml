@@ -5,21 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814364"
 name: Windows XP
-summary: >
-  Windows XP noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Home, Professional, Professional for Embedded Systems, Starter
-
-
-  > [!IMPORTANT]
-
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+summary: "Windows XP noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Home, Professional, Professional for Embedded Systems, Starter\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
 products:
 - windows
 policyType: fixed
@@ -43,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Aloitus\n* Ammatillinen\n* Ammattimainen sulautettuihin järjestelmiin\n* Starter"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"

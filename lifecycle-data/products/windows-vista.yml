@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814366"
@@ -14,12 +14,12 @@ summary: >
   Windows Vista noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bittinen, Starter, Ultimate, Ultimate 64-bittinen
+  Tämä koskee seuraavia versioita: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt, katso alla olevat siirtotiedot.
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymistiedot alta.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windowsin päivitykseen ja siirtoon liittyviä seikkoja](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Liiketoiminta\n* Liiketoiminta N\n* Yrityksen\n* Yrityksen X64\n* Etusivu Basic\n* Etusivu Basic 64-bittinen\n* Etusivu Basic N\n* Etusivu Basic N 64-bittinen\n* Etusivu Premium\n* Home Premium 64-bittinen\n* Starter\n* Lopullinen\n* Ylivoimainen 64-bittinen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windowsin päivitykseen ja siirtymiseen liittyviä seikkoja](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Outlook 2007 -toimisto
+  title: Microsoft Office Outlook 2007
   description: Microsoft Office Outlook 2007 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 055e54e56049aef38f71fd906c5af6438674032a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815193"
-name: Microsoft Office Outlook 2007 -toimisto
-summary: >+
-  Microsoft Office Outlook 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Standard, Business Contact Manager, jossa on Interconnect
-
+name: Microsoft Office Outlook 2007
+summary: "Microsoft Office Outlook 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Standard, with Business Contact Manager, with Interconnect\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* Business Contact Managerin kanssa\n* kanssa Interconnect"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* with Business Contact Manager\n* with Interconnect"

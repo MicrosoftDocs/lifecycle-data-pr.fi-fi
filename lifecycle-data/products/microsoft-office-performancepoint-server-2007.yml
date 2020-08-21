@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office PerformancePoint Server 2007:n
+  title: Microsoft Office PerformancePoint Server 2007
   description: Microsoft Office PerformancePoint Server 2007 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815192"
-name: Microsoft Office PerformancePoint Server 2007:n
-summary: >+
-  Microsoft Office PerformancePoint Server 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: 32-bittinen, 64-bittinen
-
+name: Microsoft Office PerformancePoint Server 2007
+summary: "Microsoft Office PerformancePoint Server 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: 32-bittinen, 64-bittinen\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* 32-bittinen\n* 64-bittinen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* 32-bittinen\n* 64-bittinen"

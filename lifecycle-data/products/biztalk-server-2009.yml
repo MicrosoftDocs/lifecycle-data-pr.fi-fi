@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk-palvelin 2009
+  title: BizTalk Server 2009
   description: BizTalk Server 2009 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815135"
-name: BizTalk-palvelin 2009
-summary: >
-  BizTalk Server 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Haara, Kehittäjä, Yritys, Vakio
-
-
-  > [!IMPORTANT]
-
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+name: BizTalk Server 2009
+summary: "BizTalk Server 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Branch, Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versiotiedot](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Haara\n* Kehittäjä\n* Yrityksen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versiotiedot](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Branch\n* Developer\n* Enterprise\n* Standard"
