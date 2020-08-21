@@ -5,19 +5,12 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879076"
 name: Windows 10 IoT Enterprise
-summary: >
-  Windows 10 IoT Enterprise noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
-
-
-
-  > [!IMPORTANT]
-
-  > Microsoft tukee edelleen vähintään yhtä Windows 10 Semi-Annual Channel -kanavaa 14.10.2025 saakka.
+summary: "Windows 10 IoT Enterprise noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Microsoft tukee vähintään yhtä Windows 10 osavuosittaista kanavaa 14.10.2025 saakka.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -55,4 +48,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows 10 IoT Enterprisen yleiskatsaus](/windows/iot-core/windows-iot-enterprise)\n* [Windowsin elinkaaren tiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows palveluna (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ellei sitä lykätä, seuraavat Windows 10 Semi-Annual Channel -ominaisuuspäivitykset voidaan asentaa ennen Mainstream-tuen päivämäärän mainittua päättymistä."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows 10 IoT Enterprisen yleiskatsaus](/windows/iot-core/windows-iot-enterprise)\n* [Windowsin elinkaaritiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Myöhemmät Windows 10:n osavuotisen kanavan päivitykset on asennettava ennen mainittua Mainstream-tukijakson päättymispäivämäärää, ellei sitä lykätä."

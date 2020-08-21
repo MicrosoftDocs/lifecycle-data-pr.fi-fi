@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2004
-  description: Microsoft Windows XP Media Center Edition 2004 noudattaa kiinteää elin kaari käytäntöä.
+  description: Microsoft Windows XP Media Center Edition 2004 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/05/2020
   ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883429"
 name: Microsoft Windows XP Media Center Edition 2004
-summary: >+
-  Microsoft Windows XP Media Center Edition 2004 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Media Center
-
+summary: "Microsoft Windows XP Media Center Edition 2004 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Media Center\n\n"
 products:
 - windows
 policyType: fixed
