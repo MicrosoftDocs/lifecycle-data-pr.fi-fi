@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync 2010 -sovellus
-  description: Microsoft Lync 2010 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Lync 2010
+  description: Microsoft Lync 2010 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852788"
-name: Microsoft Lync 2010 -sovellus
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907944"
+name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft Lync 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Hoitaja, Osallistuja, Ryhmäkeskustelu,
+  Tämä koskee seuraavia versioita: hoitaja, osallistuja, ryhmä keskustelu, vakio
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Hoitaja\n* Osallistuja\n* Ryhmäkeskustelu\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Emäntä\n* Osallistujan\n* Ryhmä keskustelu\n* Standard"
