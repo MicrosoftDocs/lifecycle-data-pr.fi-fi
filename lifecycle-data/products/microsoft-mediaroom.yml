@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907287"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+
+
+  Tämä koskee seuraavia versioita: sovellus palvelut 1,0, asiakas 2,0, asiakas 2,1, palvelin 2,0, palvelin 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson osti Microsoft Mediaroom-tuotteet 2013. Jos haluat lisä tietoja, katso [lehdistö tiedote](http://www.ericsson.com/news/1691160). Jos tarvitset tukea tarvitseville asiakkaille, käy [täällä](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 julkaistiin 27. joulu kuuta 2011. \n\n## <a name=\"editions\"></a>Versiot \n* Sovellus palvelut 1,0\n* Asiakas 2,0\n* Asiakas 2,1\n* Server 2,0\n* Server 2,1"
