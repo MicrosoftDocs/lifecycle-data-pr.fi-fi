@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365-tuote tiedot
+  description: Dynamics 365-tuote tiedot ovat nykyaikaisen elin kaari käytännön mukainen.
+  ms.date: 08/25/2020
+  ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911358"
+name: Dynamics 365-tuote tiedot
+summary: >+
+  Dynamics 365-tuote tiedot ovat [nykyaikaisen](/lifecycle/policies/modern) elin kaari käytännön mukainen.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2019
+releases:
+- version: Original Release
+  startDate: 10/01/2019
+content: ''
