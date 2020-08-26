@@ -2,13 +2,13 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: Windows 10 Enterprise and Education noudattaa modernia elinkaarikäytäntöä.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 08/26/2020
+  ms.openlocfilehash: b9409473c20ca4d6699450224612a0c58d1a4f8c
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879145"
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911290"
 name: Windows 10 Enterprise and Education
 summary: "Windows 10 Enterprise and Education noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Education, Enterprise\n\n> [!IMPORTANT]\n> Microsoft tukee vähintään yhtä Windows 10 osavuosittaista kanavaa 14.10.2025 saakka.\n"
 products:
@@ -32,7 +32,7 @@ releases:
   endDate: 05/11/2021
 - version: Version 1803
   startDate: 04/30/2018
-  endDate: 11/10/2020
+  endDate: 05/11/2021
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 10/13/2020
