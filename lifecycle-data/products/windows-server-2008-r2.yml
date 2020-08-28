@@ -2,13 +2,13 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/27/2020
+  ms.openlocfilehash: 531fe1d11032fd9fb6ae5fa6e4db46d01b7f63e4
+  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "815088"
+  ms.lasthandoff: 08/27/2020
+  ms.locfileid: "922911"
 name: Windows Server 2008 R2
 summary: "Windows Server 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Datacenter, Enterprise, HPC Edition, Itanium-pohjaiset järjestelmät, Standard, Web\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta. \n"
 products:
