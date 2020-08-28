@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HPC-pakkaus 2008 R2
-  description: HPC-pakkaus 2008 R2 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: HPC Pack 2008 R2
+  description: HPC Pack 2008 R2 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a6898a0b470490d91538f56ee8dd9d3cbe93b99f
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814967"
-name: HPC-pakkaus 2008 R2
-summary: "HPC-pakkaus 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893680"
+name: HPC Pack 2008 R2
+summary: >
+  HPC Pack 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt. Katso alla olevat siirtymäohjeet.
 products:
 - windows
 policyType: fixed
@@ -34,4 +41,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Linkit \n* [Windows Serverin siirto](https://azure.microsoft.com/migration/windows-server/)\n* [Siirron ohjeistus](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows Serverin siirto](https://azure.microsoft.com/migration/windows-server/)\n* [Siirron ohjeet](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)"
