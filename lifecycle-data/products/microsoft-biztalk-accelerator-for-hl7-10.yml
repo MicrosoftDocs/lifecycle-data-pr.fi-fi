@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Microsoft BizTalk Accelerator HL7 1.0:lle '
-  description: Microsoft BizTalk Accelerator for HL7 1.0 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: 'Microsoft BizTalk Accelerator for HL7 1,0 '
+  description: Microsoft BizTalk Accelerator for HL7 1,0 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814927"
-name: 'Microsoft BizTalk Accelerator HL7 1.0:lle '
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935150"
+name: 'Microsoft BizTalk Accelerator for HL7 1,0 '
 summary: >+
-  Microsoft BizTalk Accelerator for HL7 1.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft BizTalk Accelerator for HL7 1,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Vakio
+  Tämä koskee seuraavia versioita: Standard
 
 products:
 - microsoft-servers
