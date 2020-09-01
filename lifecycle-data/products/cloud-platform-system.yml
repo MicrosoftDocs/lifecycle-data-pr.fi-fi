@@ -2,19 +2,20 @@
 metadata:
   title: Pilvi ympäristön järjestelmä
   description: Pilvi ympäristön järjestelmä noudattaa kiinteää elin kaari käytäntöä.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891876"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932042"
 name: Pilvi ympäristön järjestelmä
 summary: >+
   Pilvi ympäristön järjestelmä noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: vakio
+  Tämä koskee seuraavia versioita: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Pilvi palvelu alustan tuki laajennetaan näin, jotta kaikki asiakkaat voivat käyttää elin kaari siirtymän aika janaa.\n> [!NOTE]\n> Cloud Platform System Standard käynnistettiin syyskuun 18, 2017.\n\n## <a name=\"editions\"></a>Versiot \n* Vakio"
+content: "\n\n> [!NOTE]\n> Pilvi palvelu alustan tuki laajennetaan näin, jotta kaikki asiakkaat voivat käyttää elin kaari siirtymän aika janaa.\n> [!NOTE]\n> Cloud Platform System Standard käynnistettiin syyskuun 18, 2017.\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
