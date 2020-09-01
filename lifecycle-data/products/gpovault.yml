@@ -2,13 +2,14 @@
 metadata:
   title: GPOVault
   description: GPOVault noudattaa kiinteää elin kaari käytäntöä.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
+  ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903724"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936001"
 name: GPOVault
 summary: >+
   GPOVault noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Tämän tuotteen tukeen sovelletaan sen hankinnan ehtoja. \n\n## <a name=\"editions\"></a>Versiot \n* 1,0\n* 2,0\n* Enterprise 1,0\n* Enterprise 2,0"
+content: "\n\n> [!NOTE]\n> Tälle tuotteelle on saatavissa tukea hankintaehtojen mukaisesti. \n\n## <a name=\"editions\"></a>Versiot \n* 1,0\n* 2,0\n* Enterprise 1,0\n* Enterprise 2,0"
