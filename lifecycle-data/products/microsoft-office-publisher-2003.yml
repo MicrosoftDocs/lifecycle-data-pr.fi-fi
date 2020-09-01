@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Publisher 2003:ssa
-  description: Microsoft Office Publisher 2003 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814840"
-name: Microsoft Office Publisher 2003:ssa
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930340"
+name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft Office Publisher 2003 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Vakio, digital imaging
+  Tämä koskee seuraavia versioita: vakio, Digitaalinen kuvantaminen
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* digital imaging -sella"
+content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* Digitaalinen kuvantaminen"
