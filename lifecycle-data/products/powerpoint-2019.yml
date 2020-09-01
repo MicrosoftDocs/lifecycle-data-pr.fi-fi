@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PowerPoint 2019 -käyttö
-  description: PowerPoint 2019 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a45e21c4eba85eb24eaca956c444dc6f9300ca6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: PowerPoint 2019
+  description: PowerPoint 2019 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f28e4fd798e20b6f170da86bfa12a50e59865c29
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869103"
-name: PowerPoint 2019 -käyttö
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926862"
+name: PowerPoint 2019
 summary: >+
-  PowerPoint 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  PowerPoint 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Vakio
+  Tämä koskee seuraavia versioita: Standard
 
 products:
 - office
