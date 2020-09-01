@@ -2,13 +2,13 @@
 metadata:
   title: Järjestelmä keskuksen pääte pisteen suojaus
   description: Järjestelmä keskuksen pääte pisteen suojaus noudattaa modernia elin kaari käytäntöä.
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924641"
+  ms.locfileid: "924924"
 name: Järjestelmä keskuksen pääte pisteen suojaus
 summary: >+
   Järjestelmä keskuksen pääte pisteen suojaus noudattaa [modernia](/lifecycle/policies/modern) elin kaari käytäntöä.
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>Linkit \n* [Järjestelmä keskuksen pääte pisteiden suojaus versioiden tuki (aiemmin nimeltään Configuration Managerin nykyinen haara)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
