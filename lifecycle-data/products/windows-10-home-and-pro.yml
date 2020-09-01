@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 Home ja Pro
   description: Windows 10 Home & Pro noudattaa modernia elinkaarikäytäntöä.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/01/2020
+  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
+  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879143"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938369"
 name: Windows 10 Home ja Pro
 summary: "Windows 10 Home & Pro noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Home, Pro, Pro for Education, Pro for Workstations, Professional\n\n> [!IMPORTANT]\n> Microsoft tukee vähintään yhtä Windows 10 osavuosittaista kanavaa 14.10.2025 saakka.\n"
 products:

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Outlook 2016 -näkymä
-  description: Outlook 2016 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e6b1807eec17efde9ec1d6b168b206e63fa684e0
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Outlook 2016
+  description: Outlook 2016 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 1994b8231e5d8c0b6134a3872d532ca176c27e6b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852724"
-name: Outlook 2016 -näkymä
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938110"
+name: Outlook 2016
 summary: >+
-  Outlook 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Outlook 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Vakio
+  Tämä koskee seuraavia versioita: Standard
 
 products:
 - office
