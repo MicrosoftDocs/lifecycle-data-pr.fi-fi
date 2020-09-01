@@ -2,13 +2,14 @@
 metadata:
   title: Windows Media Encoder 9 Series
   description: Windows Media Encoder 9 Series noudattaa kiinteää elin kaari käytäntöä.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 155a9a5c7b4177f6c51651324a6f5cff219d6069
-  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.date: 09/01/2020
+  keywords: 64 Bit,Standard
+  ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "902740"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939997"
 name: Windows Media Encoder 9 Series
 summary: >+
   Windows Media Encoder 9 Series noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64 Edition julkaistiin syyskuun 15, 2005.\n\n## <a name=\"editions\"></a>Versiot \n* 64-bittinen\n* Vakio"
+content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64 Edition julkaistiin syyskuun 15, 2005.\n\n## <a name=\"editions\"></a>Versiot \n* 64-bittinen\n* Standard"
