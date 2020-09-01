@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
   description: Microsoft Forefront Threat Management Gateway 2010 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: b14bccc0637b191a7523238e5ee8b25c39183469
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814861"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933818"
 name: Microsoft Forefront Threat Management Gateway 2010
 summary: "Microsoft Forefront Threat Management Gateway 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Enterprise, Standard\n\n> [!IMPORTANT]\n> Tuki on päättynyt. Katso siirtymäohjeet alta.\n"
 products:

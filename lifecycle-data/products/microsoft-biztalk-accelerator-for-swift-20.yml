@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator SWIFT 2.0:lle
-  description: Microsoft BizTalk Accelerator for SWIFT 2.0 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk Accelerator for SWIFT 2,0
+  description: Microsoft BizTalk Accelerator for SWIFT 2,0 noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814925"
-name: Microsoft BizTalk Accelerator SWIFT 2.0:lle
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934854"
+name: Microsoft BizTalk Accelerator for SWIFT 2,0
 summary: >+
-  Microsoft BizTalk Accelerator for SWIFT 2.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft BizTalk Accelerator for SWIFT 2,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
 
 
   Tämä koskee seuraavia versioita: Enterprise
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/25/2004
   endDate: 10/14/2014
-content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen"
+content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise"
