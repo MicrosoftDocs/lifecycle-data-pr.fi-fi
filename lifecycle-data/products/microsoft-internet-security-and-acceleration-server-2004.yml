@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Internet Securityn ja Acceleration Server 2004
   description: Microsoftin Internet-tieto turva-ja kiihdytys palvelin 2004 noudattaa kiinteää elin kaari käytäntöä.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904029"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933485"
 name: Microsoft Internet Securityn ja Acceleration Server 2004
 summary: "Microsoftin Internet-tieto turva-ja kiihdytys palvelin 2004 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.\n\nTämä koskee seuraavia versioita: Enterprise, Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack-käytännöt](/lifecycle/policies/fixed#service-packs)\n* [Siirto-opastus](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yritys\n* Vakio"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Siirron ohjeistus](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"
