@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 for Customer Engagement -sovellukset, versio 9.0.2 (paikallinen päivitys)
+  title: Dynamics 365 for Customer Engagement -sovellusten versio 9.0.2 (paikallinen päivitys)
   description: Dynamics 365 for Customer Engagement -sovellusten versio 9.0.2 (paikallinen päivitys) noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869014"
-name: Dynamics 365 for Customer Engagement -sovellukset, versio 9.0.2 (paikallinen päivitys)
+name: Dynamics 365 for Customer Engagement -sovellusten versio 9.0.2 (paikallinen päivitys)
 summary: >+
   Dynamics 365 for Customer Engagement -sovellusten versio 9.0.2 (paikallinen päivitys) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -25,4 +25,4 @@ releases:
 - version: Original Release (ver 9.0)
   startDate: 10/31/2018
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuen tiedot](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuen tiedot](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"

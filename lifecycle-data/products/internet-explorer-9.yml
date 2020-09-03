@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Internet Explorer 9 noudattaa komponentin elin kaari käytäntöä.
+  description: Internet Explorer 9 noudattaa komponentin elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893606"
 name: Internet Explorer 9
-summary: >+
-  Internet Explorer 9 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elin kaari käytäntöä.
-
-
+summary: "Internet Explorer 9 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. \n\n\n"
 products:
 - internet-explorer
 policyType: component
@@ -22,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elin kaari käytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12. tammi kuuta 2016 lähtien vain tuettuun käyttö järjestelmään saatavilla oleva Internet Explorerin uusin versio saa teknistä tukea ja tieto turva päivityksiä."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12.1.2016 jälkeen vain uusin tuetulle käyttöjärjestelmälle saatavilla oleva Internet Explorer -versio saa teknistä tukea ja tietoturvapäivityksiä."

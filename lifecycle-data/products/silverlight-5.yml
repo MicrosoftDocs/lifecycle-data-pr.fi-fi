@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hopeinen valo 5
+  title: Silverlight 5
   description: Silverlight 5 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869090"
-name: Hopeinen valo 5
+name: Silverlight 5
 summary: >+
   Silverlight 5 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Silverlight 5 tukee tässä 10.12.2021 tai taustalla olevien selainten elinkaarien kautta lueteltuja selaimia sen mukaan, kumpi on lyhyempi.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlightin tuen loppu](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft antaa vähintään 12 kuukauden ilmoituksen ennen Tools-tuen lopettamista."
+content: "\n## <a name=\"links\"></a>Linkit \n* Silverlight 5 tukee [tällä sivulla](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html) lueteltuja selaimia 12.10.2021 asti tai pohjaselaimen elinkaaren ajan sen mukaan, kumpi on lyhyempi.\n* [Sliverlight tuen päättyminen](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft ilmoittaa työkalujen tuen päättymisestä vähintään 12 kuukautta ennen päättymispäivämäärää."

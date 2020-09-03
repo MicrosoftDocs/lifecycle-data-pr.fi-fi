@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Orchestrator Semi vuotuinen kanava
-  description: System Center Orchestrator Semi Annual Channel noudattaa modernia elinkaarikäytäntöä.
+  title: System Center Orchestrator puolivuosittainen kanava
+  description: System Center Orchestrator puolivuosittainen kanava noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869119"
-name: System Center Orchestrator Semi vuotuinen kanava
+name: System Center Orchestrator puolivuosittainen kanava
 summary: >
-  System Center Orchestrator Semi Annual Channel noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+  System Center Orchestrator puolivuosittainen kanava noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"

@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Tuotteiden ja palveluiden elin kaari tietojen hakeminen (esikatselu)
+title: Hae tuotteiden - ja palveluiden elinkaaritietoja (esikatselu)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Tämä sivu on kehitteillä ja se tulee täysin asumaan syyskuun 2. Sillä välin voit tarkastella täydellistä luetteloa Microsoft-tuotteista, joiden tuki aikataulut ja tiedot ovat osoitteessa [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Vie elin kaari tiedot [elin kaari vienti](/lifecycle/export/products) -sivulta.\n\n\nMicrosoftin elin kaari tarjoaa yhdenmukaisia ja ennustettavissa olevia ohjeita tuotteen koko elin kaaren ajan, jolloin asiakkaat voivat hallita IT-investointejaan ja ympäristöään samalla kun se suunnittelee tulevaisuutta.\n\n\nAlla on luettelo Microsoftin kaupallisista tuotteista ja palveluista, ja valitse sitten haku tuloksista tuki-ja huolto aikataulut, pakolliset päivitykset, siirto tiedot ja järjestelmä vaatimukset."
+summary: "\n\n> [!IMPORTANT]\n> Tämä sivu on kehitteillä ja siirtyy täysin verkkoon 2. syyskuuta. Tällä välin voit tarkastella täydellistä luetteloa Microsoftin tuotteista tukiaikoineen osoitteessa: [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Vie elinkaaritiedot [Elinkaaren vienti](/lifecycle/export/products) -sivulta.\n\n\nMicrosoftin elinkaari sisältää yhdenmukaiset ja ennustettavissa olevat ohjeet tuotteen koko käyttöiän ajan, mikä auttaa asiakkaita hallitsemaan IT-investointejaan ja -ympäristöjään ja suunnittelemaan strategisesti tulevaisuutta.\n\n\nEtsi alta luettelo Microsoftin kaupallisista tuotteista ja palveluista ja valitse tuloksesi etsiäksesi haluamasi tuki- ja ylläpitoaikataulut, tarvittavat päivitykset, siirtotiedot ja järjestelmävaatimukset."
 metadata:
   ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
   ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/17/2020
   ms.locfileid: "899836"

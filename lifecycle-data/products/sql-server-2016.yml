@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2016
-  description: SQL Server 2016 noudattaa kiinteää elin kaari käytäntöä.
+  description: SQL Server 2016 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892755"
 name: SQL Server 2016
 summary: >+
-  SQL Server 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  SQL Server 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: kehittäjä, Enterprise, Enterprise Core, Express, Standard, Web
+  Tämä koskee seuraavia versioita: Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack-käytännöt](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kehittäjä\n* Yritys\n* Yrityksen ydin\n* Nopea\n* Vakio\n* Web"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

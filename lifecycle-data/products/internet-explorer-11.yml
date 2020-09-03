@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 11
-  description: Internet Explorer 11 seuraa komponentin elin kaari käytäntöä.
+  description: Internet Explorer 11 noudattaa komponentin elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893643"
 name: Internet Explorer 11
 summary: >+
-  Internet Explorer 11 seuraa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elin kaari käytäntöä.
+  Internet Explorer 11 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elin kaari käytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12. tammi kuuta 2016 lähtien vain tuettuun käyttö järjestelmään saatavilla oleva Internet Explorerin uusin versio saa teknistä tukea ja tieto turva päivityksiä."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12.1.2016 jälkeen vain uusin tuetulle käyttöjärjestelmälle saatavilla oleva Internet Explorer -versio saa teknistä tukea ja tietoturvapäivityksiä."
