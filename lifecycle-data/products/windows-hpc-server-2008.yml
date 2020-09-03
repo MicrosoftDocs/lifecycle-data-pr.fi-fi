@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows HPC Server 2008 -palvelin
+  title: Windows HPC Server 2008
   description: Windows HPC Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814727"
-name: Windows HPC Server 2008 -palvelin
+name: Windows HPC Server 2008
 summary: >
   Windows HPC Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Vakio, ilman Hyper-V
+  Tämä koskee seuraavia versioita: Standard, ilman Hyper-V:tä
 
 
   > [!IMPORTANT]
 
-  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* ilman Hyper-V:tä"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* ilman Hyper-V:tä"

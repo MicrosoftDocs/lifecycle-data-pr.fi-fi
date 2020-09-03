@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814217"
 name: Windows HPC Server 2008 R2
 summary: >
-  Windows HPC Server 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Windows Server 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://aka.ms/AA1ovn4)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://aka.ms/AA1ovn4)"

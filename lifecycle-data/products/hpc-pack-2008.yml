@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HPC-paketti 2008
+  title: HPC Pack 2008
   description: HPC Pack 2008 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814966"
-name: HPC-paketti 2008
+name: HPC Pack 2008
 summary: >
-  HPC Pack 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  HPC-pakkaus 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/29/2008
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"

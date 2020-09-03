@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internet Explorer 7
+  title: Internet Explorer 7
   description: Internet Explorer 7 noudattaa osan elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814954"
-name: Internet Explorer 7
+name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+  Internet Explorer 7 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12.1.2016 alkaen vain tuetun käyttöjärjestelmän Internet Explorerin uusin versio saa teknistä tukea ja tietoturvapäivityksiä."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12.1.2016 jälkeen vain uusin tuetulle käyttöjärjestelmälle saatavilla oleva Internet Explorer -versio saa teknistä tukea ja tietoturvapäivityksiä."
