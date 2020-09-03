@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878854"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2006
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"

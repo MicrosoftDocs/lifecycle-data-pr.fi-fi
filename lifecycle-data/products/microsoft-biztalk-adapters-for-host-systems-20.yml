@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0
-  description: Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0 noudattaa kiinteää elin kaari käytäntöä.
+  title: Microsoft BizTalk Adapters Host Systems 2.0:lle
+  description: Microsoft BizTalk Adapters Host Systems 2.0:lle noudattavat kiinteää elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893495"
-name: Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0
+name: Microsoft BizTalk Adapters Host Systems 2.0:lle
 summary: >+
-  Microsoft BizTalk-sovittimet isäntä järjestelmille 2,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft BizTalk Adapters Host Systems 2.0:lle noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: kehittäjä, vakio
+  Tämä koskee versioita: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kehittäjä\n* Vakio"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Versiot \n* Developer\n* Standard"

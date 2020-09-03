@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Security for Exchange Server
-  description: Forefront Security for Exchange Server noudattaa kiinteää elin kaari käytäntöä.
+  title: Forefront Security Exchange Serverille
+  description: Forefront Security Exchange Serverille noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893717"
-name: Forefront Security for Exchange Server
+name: Forefront Security Exchange Serverille
 summary: >
-  Forefront Security for Exchange Server noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Forefront Security Exchange Serverille noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Forefront-tuote merkin tieto turva tuotteiden etenemis suunnitelma on muuttunut. Tämä tuote on lopetettu 31. joulu kuuta 2015.
+  > Forefront-brändin tietoturvatuotteiden etenemissuunnitelma on muuttunut. Tämä tuote lopetetaan 31.12.2015.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/security/business/explore/cybersecurity)"

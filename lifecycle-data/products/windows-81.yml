@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8,1
-  description: Windows 8,1 noudattaa kiinteää elin kaari käytäntöä.
+  title: Windows 8.1
+  description: Windows 8.1 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906653"
-name: Windows 8,1
+name: Windows 8.1
 summary: >+
-  Windows 8,1 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Windows 8.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Enterprise, Enterprise N, N, Pro ja Media Center, Professional, Professional N, SL
+  Tämä koskee seuraavia versioita: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elin kaaren usein kysytyt kysymykset-Windows-tuotteet](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yritys\n* Enterprise N\n* N\n* Pro Media Centerin kanssa\n* Professional\n* Professional N\n* SL"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"

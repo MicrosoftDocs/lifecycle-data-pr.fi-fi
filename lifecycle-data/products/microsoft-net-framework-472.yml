@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4888a6137dfca9d0ba6e4f6c5b1b04320bb83ac6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869065"
 name: Microsoft .NET Framework 4.7.2
 summary: >+
-  Microsoft .NET Framework 4.7.2 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+  Microsoft .NET Framework 4.7.2 noudattaa [komponenetin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/30/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [.NET Frameworkin elinkaaren usein kysytyt kysymykset](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-472)\n\n> [!NOTE]\n> .NET Framework on Windows-käyttöjärjestelmän osa. Komponentit saavat saman tuen kuin päätuote tai -ympäristö."
+content: "\n## <a name=\"links\"></a>Linkit \n* [.NET Frameworkin elinkaaren usein kysytyt kysymykset](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-472)\n\n> [!NOTE]\n> .NET Framework on Windows-käyttöjärjestelmän osa. Osille on saatavilla sama tuki kuin niiden emotuotteille tai -alustoille."

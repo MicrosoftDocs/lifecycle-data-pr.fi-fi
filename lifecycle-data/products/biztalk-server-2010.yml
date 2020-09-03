@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2010
-  description: BizTalk Server 2010 noudattaa kiinteää elin kaari käytäntöä.
+  description: BizTalk Server 2010 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903687"
 name: BizTalk Server 2010
 summary: >+
-  BizTalk Server 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  BizTalk Server 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: haara, kehittäjä, Enterprise, Enterprise RFID, vakio
+  Tämä koskee seuraavia versioita: Branch, Developer, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versiotiedot](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Versiot \n* Haara\n* Kehittäjä\n* Yritys\n* Enterprise RFID-yritys\n* Vakio"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versiotiedot](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Versiot \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Service Manager Semi vuosittaista kanavaa
-  description: System Center Service Manager Semi Annual Channel noudattaa modernia elinkaarikäytäntöä.
+  title: System Center Service Manager puolivuosittainen kanava
+  description: System Center Service Manager puolivuosittainen kanava noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869060"
-name: System Center Service Manager Semi vuosittaista kanavaa
+name: System Center Service Manager puolivuosittainen kanava
 summary: >
-  System Center Service Manager Semi Annual Channel noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+  System Center Service Manager puolivuosittainen kanava noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"
