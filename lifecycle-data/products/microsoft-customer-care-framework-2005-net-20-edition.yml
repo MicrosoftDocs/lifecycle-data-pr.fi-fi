@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftin asiakaspalvelun kehys 2005 .NET 2.0 Edition
-  description: Microsoft Customer Care Framework 2005 .NET 2.0 Edition noudattaa kiinteää elinkaarikäytäntöä.
+  title: Microsoftin asiakaspalvelu-framework 2005 .NET, versio 2.0
+  description: Microsoft Customer Care Framework 2005 .NET 2.0 -versio noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814880"
-name: Microsoftin asiakaspalvelun kehys 2005 .NET 2.0 Edition
+name: Microsoftin asiakaspalvelu-framework 2005 .NET, versio 2.0
 summary: >
-  Microsoft Customer Care Framework 2005 .NET 2.0 Edition noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft Customer Care Framework 2005 .NET 2.0 -versio noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - customer-care-framework
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/11/2006
   endDate: 01/10/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

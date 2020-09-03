@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Systems Management Server 2003:n
+  title: Microsoft Systems Management Server 2003
   description: Microsoft Systems Management Server 2003 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814791"
-name: Microsoft Systems Management Server 2003:n
+name: Microsoft Systems Management Server 2003
 summary: >+
   Microsoft Systems Management Server 2003 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 09/10/2005
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"

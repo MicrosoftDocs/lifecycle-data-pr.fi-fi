@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814237"
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Tuki laajennus](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Tämän tuotteen tuen päättymispäivää on jatkettu 13.10.2020–13.4.2021."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Tuen jatkaminen](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Tämän tuotteen tuen päättymispäivää on siirretty vuoden 2020 lokakuun 13. päivästä vuoden 2021 huhtikuun 13. päivään."

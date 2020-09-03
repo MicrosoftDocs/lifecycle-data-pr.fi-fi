@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e43bfc52befb82fbb52ee258076d2ebb53e53e35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815225"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2010
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaaren usein kysytyt kysymykset - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-4)\n\n> [!NOTE]\n> .NET Framework 4:n, 4.5:n ja 4.5.1:n tuki päättyi 12.1.2016."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren toistuvat kysymykset – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-4)\n\n> [!NOTE]\n> .NET Framework 4, 4.5 ja 4.5.1:n tuki päättyi 12.tammikuuta 2016."

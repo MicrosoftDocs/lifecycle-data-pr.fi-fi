@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Information Services 8.0 -palvelut
-  description: Microsoft Internet Information Services 8.0 noudattaa osan elinkaarikäytäntöä.
+  title: Microsoft Internet Information Services 8.0
+  description: Microsoft Internet Information Services 8.0 noudattaa komponentin elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814289"
-name: Microsoft Internet Information Services 8.0 -palvelut
+name: Microsoft Internet Information Services 8.0
 summary: >+
-  Microsoft Internet Information Services 8.0 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+  Microsoft Internet Information Services 8.0 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Tätä julkaisua kutsutaan komponentiksi, joka seuraa päätuotteen, Windows Server 2012:n ja Windows 8:n tuen elinkaarta\n\n## <a name=\"links\"></a>Linkkejä \n* [Windows Server 2012 -palvelin](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Tätä julkaisua kutsutaan komponentiksi, joka seuraa päätuotteiden, Windows Server 2012:n ja Windows 8:n tuen elinkaarta\n\n## <a name=\"links\"></a>Linkit \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

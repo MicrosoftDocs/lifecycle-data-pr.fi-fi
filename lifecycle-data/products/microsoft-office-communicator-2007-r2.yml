@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815212"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Kaikki soveltuvat, Puhelin\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso muuttoliikkeen ohjeet. \n"
+summary: "Microsoft Office Communicator 2007 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Kaikki sopivat, Puhelin\n\n> [!IMPORTANT]\n> Tämän tuetteen tuki on päättynyt. Katso siirtymäohjeistus. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 03/19/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki soveltuvat\n* Puhelin"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki soveltuvat\n* Puhelin"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics NAV 2009 -ohjelman
+  title: Dynamics NAV 2009
   description: Dynamics NAV 2009 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814991"
-name: Dynamics NAV 2009 -ohjelman
+name: Dynamics NAV 2009
 summary: >+
   Dynamics NAV 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Lisätietoja](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Vuoden 2009 NETTOARVON TUKIPÄIVIEN päättymistä jatketaan kuvan mukaisesti."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Lisätietoja](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009:n tuen päättymispäiviä jatketaan kuvan mukaisesti."

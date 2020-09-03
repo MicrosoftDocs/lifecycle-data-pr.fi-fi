@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814853"
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Elinkaaren usein kysytyt kysymykset - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> .NET Framework 2.0:n tuki päättyi 12.7.2011."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren toistuvat kysymykset – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> .NET Framework 2.0:n tuki päättyi 12.7.2011."

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Live Communications Server 2005:n
+  title: Microsoft Office Live Communications Server 2005
   description: Microsoft Office Live Communications Server 2005 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814500"
-name: Microsoft Office Live Communications Server 2005:n
+name: Microsoft Office Live Communications Server 2005
 summary: "Microsoft Office Live Communications Server 2005 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Enterprise, Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
 - office
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/22/2005
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"

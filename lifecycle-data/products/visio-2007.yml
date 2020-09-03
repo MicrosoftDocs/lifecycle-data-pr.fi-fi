@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a8a9b82837dc1542ef98770a51dc64f37a888318
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814387"
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Muuttoliikettä koskeva ohjeistus](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Versiot \n* Ammatillinen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Siirron ohjeistus](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Versiot \n* Professional\n* Standard"

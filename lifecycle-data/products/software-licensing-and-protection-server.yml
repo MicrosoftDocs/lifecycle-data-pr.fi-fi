@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814250"
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Software Licensing and Protection Serverin (SLPS) myynnin vuoksi Microsoft tuki SLPS:tä 24.9.2009 saakka.
+  > Ohjelmistojen käyttöoikeus- ja suojaus palvelimen (SLPS) myynnin vuoksi Microsoft tuki SLPS:tä 24.9.2009 saakka.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Ohjelmistojen käyttöoikeus- ja suojauspalvelin (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Ohjelmistojen käyttöoikeus- ja suojauspalvelin (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"
