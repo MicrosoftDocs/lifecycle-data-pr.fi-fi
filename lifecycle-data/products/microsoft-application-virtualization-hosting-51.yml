@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.1 Windows-työpöytiä
-  description: Microsoft Application Virtualization Hosting 5.1 For Windows Desktops noudattaa kiinteää elinkaarikäytäntöä.
+  title: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.1 Windows Desktopille noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852996"
-name: Microsoft Application Virtualization Hosting 5.1 Windows-työpöytiä
+name: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 5.1 For Windows Desktops noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Microsoft Application Virtualization Hosting 5.1 Windows Desktopsille noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Windowsin pöytätietokoneille
+  Tämä koskee seuraavia versioita: for Windows Desktops
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Versiot \n* Windows-työpöytiä varten"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Versiot \n* for Windows Desktops"

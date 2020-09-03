@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Duet Enterprise Microsoft SharePointille ja SAP:lle
-  description: Duet Enterprise for Microsoft SharePoint ja SAP noudattavat kiinteää elinkaarikäytäntöä.
+  title: Duet Enterprise for Microsoft SharePoint and SAP
+  description: Duet Enterprise for Microsoft SharePoint and SAP noudattavat kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852944"
-name: Duet Enterprise Microsoft SharePointille ja SAP:lle
-summary: >
-  Duet Enterprise for Microsoft SharePoint ja SAP noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-
-  > [!IMPORTANT]
-
-  > Tämän tuotteen tuki on päättynyt. SAP myy ja tukee tätä tuotetta.
+name: Duet Enterprise for Microsoft SharePoint and SAP
+summary: "Duet Enterprise for Microsoft SharePoint and SAP noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuetteen tuki on päättynyt. SAP myy ja tukee tätä tuotetta.\n"
 products:
 - office
 policyType: fixed
@@ -32,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/16/2011
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [SAP-tuki](https://support.sap.com/index.html)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [SAP-tuki](https://support.sap.com/index.html)"

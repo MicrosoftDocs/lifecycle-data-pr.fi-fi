@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Phone 7.8 -käyttö
+  title: Windows Phone 7.8
   description: Windows Phone 7.8 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853130"
-name: Windows Phone 7.8 -käyttö
+name: Windows Phone 7.8
 summary: >
   Windows Phone 7.8 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt.
+  > Tämän tuetteen tuki on päättynyt.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft tuo puhelimesi käyttöjärjestelmälle päivityksiä, mukaan lukien tietoturvapäivitykset, 18 kuukauden ajan elinkaaren alkamispäivän jälkeen. Päivitysten jakelua voi ohjata matkapuhelinoperaattori tai puhelimen valmistaja, jolta ostit puhelimesi. Päivityksen saatavuus vaihtelee myös maittain, alueittain ja laitteisto-ominaisuuksiksi."
+content: "\n\n> [!NOTE]\n> Microsoft julkaisee puhelimien käyttöjärjestelmäpäivityksiä, mukaan lukien tietoturvapäivityksiä, vähintään 18 kuukauden ajan elinkaaren alusta lukien. Päivitysten jakelua saattaa ohjata matkapuhelinoperaattori tai puhelimen myynyt valmistaja. Päivitysten saatavuus vaihtelee myös maan, alueen ja laitteisto-ominaisuuksien mukaan."

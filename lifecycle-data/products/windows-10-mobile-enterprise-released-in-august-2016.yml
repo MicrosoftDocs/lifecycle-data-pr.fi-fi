@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852955"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Laitekäyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile lopetti tuen 10.12.2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Laitteiden käyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobilen tuki päättyy 10.joulukuuta, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

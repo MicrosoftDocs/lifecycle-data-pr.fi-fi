@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Foundation -palvelin 2017
+  title: Visual Studio Team Foundation Server 2017
   description: Visual Studio Team Foundation Server 2017 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: f82a00b0f5bde434fc6b20afb923b8326d269512
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853137"
-name: Visual Studio Team Foundation -palvelin 2017
+name: Visual Studio Team Foundation Server 2017
 summary: >+
   Visual Studio Team Foundation Server 2017 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/16/2016
   endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Tuotetiedot - Azure Dev Ops ja TFS](/azure/devops/server/whats-new?view=azure-devops)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Tuotetiedot - Azure Dev Ops and TFS](/azure/devops/server/whats-new?view=azure-devops)"
