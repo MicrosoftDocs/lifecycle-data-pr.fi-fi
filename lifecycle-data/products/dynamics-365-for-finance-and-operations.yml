@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 for Finance ja toiminnot
+  title: Dynamics 365 for Finance and Operations
   description: Dynamics 365 for Finance and Operations noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852940"
-name: Dynamics 365 for Finance ja toiminnot
-summary: >+
-  Dynamics 365 for Finance and Operations noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
-
-
-  Tämä koskee seuraavia versioita: Enterprise
-
+name: Dynamics 365 for Finance and Operations
+summary: "Dynamics 365 for Finance and Operations noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Enterprise\n\n"
 products:
 - dynamics
 policyType: modern-online
@@ -24,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Microsoft Dynamics 365:n etenemissuunnitelma](https://roadmap.dynamics.com/)\n* [Huoltotiedot](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Järjestelmävaatimukset](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Versiot \n* Yrityksen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Microsoft Dynamics 365:n etenemissuunnitelma](https://roadmap.dynamics.com/)\n* [Huoltotiedot](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Järjestelmävaatimukset](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise"

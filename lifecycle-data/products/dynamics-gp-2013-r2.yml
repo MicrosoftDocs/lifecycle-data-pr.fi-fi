@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamiikan GP 2013 R2
+  title: Dynamics GP 2013 R2
   description: Dynamics GP 2013 R2 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f760e7be272e419aebd422e96136ef24fff52d9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853025"
-name: Dynamiikan GP 2013 R2
+name: Dynamics GP 2013 R2
 summary: >+
   Dynamics GP 2013 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/21/2014
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Lisätietoja ja muuttoliikeohjeita](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Tuotteen tiedot](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Lisätietoja ja ohjeita siirtoon](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Tuotteen tiedot](/dynamics-gp/)"

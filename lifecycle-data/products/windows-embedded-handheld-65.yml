@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded Handheld 6.5 -käyttöjärjestelmä
+  title: Windows Embedded Handheld 6.5
   description: Windows Embedded Handheld 6.5 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853131"
-name: Windows Embedded Handheld 6.5 -käyttöjärjestelmä
+name: Windows Embedded Handheld 6.5
 summary: >
   Windows Embedded Handheld 6.5 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/17/2010
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows ioT-dokumentaatiota varten](/windows/iot-core/)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Windows ioT-dokumentaatiota varten](/windows/iot-core/)"

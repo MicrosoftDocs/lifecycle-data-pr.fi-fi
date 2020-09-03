@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012:n toimintojen hallinta
+  title: Microsoft System Center 2012 Operations Manager
   description: Microsoft System Center 2012 Operations Manager noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 837eee5f41fd4a6fe7ae7bee9c04af085e831004
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852880"
-name: Microsoft System Center 2012:n toimintojen hallinta
+name: Microsoft System Center 2012 Operations Manager
 summary: >+
   Microsoft System Center 2012 Operations Manager noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Järjestelmäkeskuksen ohjeet](/system-center/#pivot=components&panel=components-all)\n* [Järjestelmäkeskuksen resurssit](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [System Center -dokumentaatio](/system-center/#pivot=components&panel=components-all)\n* [System Center -resursseja](https://www.microsoft.com/system-center/resources)"

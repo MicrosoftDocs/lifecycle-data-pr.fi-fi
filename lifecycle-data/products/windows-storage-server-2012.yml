@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2012 -käyttö
+  title: Windows Storage Server 2012
   description: Windows Storage Server 2012 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852689"
-name: Windows Storage Server 2012 -käyttö
+name: Windows Storage Server 2012
 summary: >+
   Windows Storage Server 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Vakio, Työryhmä
+  Tämä koskee seuraavia versioita: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Tämän tuotteen mainstream- ja extended-tukea on laajennettu siten, että asiakkaille saadaan normaali elinkaarisiirtymän aikajana.\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* Työryhmän"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Tämän tuotteen Mainstream- ja Extended-tukea on laajennettu siten, että asiakkaille saadaan normaali elinkaarisiirtymän aikajana.\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* Workgroup"

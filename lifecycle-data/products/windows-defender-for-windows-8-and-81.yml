@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Defender Windows 8:lle ja 8.1:lle
-  description: Windows Defender For Windows 8 ja 8.1 noudattaa osan elinkaarikäytäntöä.
+  description: Windows Defender Windows 8:lle ja 8.1:lle noudattaa komponentin elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852697"
 name: Windows Defender Windows 8:lle ja 8.1:lle
 summary: >+
-  Windows Defender For Windows 8 ja 8.1 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+  Windows Defender For Windows 8:lle ja 8.1:lle noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Tätä julkaisua kutsutaan komponenttiksi, joka seuraa päätuotteen elinkaarta."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Tätä julkaisua kutsutaan komponentiksi, joka seuraa päätuotteen elinkaarta."
