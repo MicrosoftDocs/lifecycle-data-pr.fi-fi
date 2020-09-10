@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Search Server 2008
   description: Microsoft Search Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Express,Standard
+  ms.openlocfilehash: 897d34ffd003985cb2b60bebbc2db5d53614b443
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814262"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999055"
 name: Microsoft Search Server 2008
 summary: "Microsoft Search Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Express, Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
