@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Alacris-tunniste tietojen tarkistus palvelin/asiakas
+  description: Alacris Identity validation Server/Client noudattaa kiinteää elin kaari käytäntöä.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002643"
+name: Alacris-tunniste tietojen tarkistus palvelin/asiakas
+summary: >
+  Alacris Identity validation Server/Client noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+
+
+
+  > [!IMPORTANT]
+
+  > Tämän tuotteen tuki on päättynyt.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren usein kysytyt kysymykset – Yleistä](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Ei sisällä versioita, joiden tuki on lopetettu aiemmin. Tälle tuotteelle on saatavissa tukea hankintaehtojen mukaisesti."
