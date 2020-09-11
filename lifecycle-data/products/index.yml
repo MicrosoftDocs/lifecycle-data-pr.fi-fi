@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Hae tuotteiden - ja palveluiden elinkaaritietoja (esikatselu)
+title: Hae tuotteiden ja palveluiden elinkaaritietoja
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Tämä sivu on kehitteillä ja siirtyy täysin verkkoon 2. syyskuuta. Tällä välin voit tarkastella täydellistä luetteloa Microsoftin tuotteista tukiaikoineen osoitteessa: [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Vie elinkaaritiedot [Elinkaaren vienti](/lifecycle/export/products) -sivulta.\n\n\nMicrosoftin elinkaari sisältää yhdenmukaiset ja ennustettavissa olevat ohjeet tuotteen koko käyttöiän ajan, mikä auttaa asiakkaita hallitsemaan IT-investointejaan ja -ympäristöjään ja suunnittelemaan strategisesti tulevaisuutta.\n\n\nEtsi alta luettelo Microsoftin kaupallisista tuotteista ja palveluista ja valitse tuloksesi etsiäksesi haluamasi tuki- ja ylläpitoaikataulut, tarvittavat päivitykset, siirtotiedot ja järjestelmävaatimukset."
+summary: "\n> [!NOTE]\n> Vie elinkaaritiedot [Elinkaaren vienti](/lifecycle/products/export) -sivulta.\n\n\nMicrosoftin elinkaari sisältää yhdenmukaiset ja ennustettavissa olevat ohjeet tuotteen koko käyttöiän ajan, mikä auttaa asiakkaita hallitsemaan IT-investointejaan ja -ympäristöjään ja suunnittelemaan strategisesti tulevaisuutta.\n\n\nEtsi alta luettelo Microsoftin kaupallisista tuotteista ja palveluista ja valitse tuloksesi etsiäksesi haluamasi tuki- ja ylläpitoaikataulut, tarvittavat päivitykset, siirtotiedot ja järjestelmävaatimukset."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899836"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943030"
