@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lauseke
-  description: Lauseke noudattaa kiinteää elin kaari käytäntöä.
+  title: Expression
+  description: Expression noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936223"
-name: Lauseke
-summary: "Lauseke noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.\n\nTämä koskee seuraavia versioita: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
+name: Expression
+summary: "Expression noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Lausekkeen sekoituksen alkamis päivä on heinäkuu 13, 2007. \n\n## <a name=\"editions\"></a>Versiot \n* Sekoitetun\n* Rakenne\n* Koodaaja\n* Studio"
+content: "\n\n> [!NOTE]\n> Expression Blendin alkamispäivä on 13.7.2007. \n\n## <a name=\"editions\"></a>Versiot \n* Blend\n* Design\n* Encoder\n* Studio"

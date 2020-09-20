@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded Device Manageriin 2011
-  description: Windows Embedded Device emäntä 2011 noudattaa kiinteää elin kaari käytäntöä.
+  title: Windows Embedded Device Manager 2011
+  description: Windows Embedded Device Manager 2011 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939923"
-name: Windows Embedded Device Manageriin 2011
+name: Windows Embedded Device Manager 2011
 summary: >
-  Windows Embedded Device emäntä 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Windows Embedded Device Manager 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: asiakas, SDK, palvelin
+  Tämä koskee seuraavia versioita: Client, SDK, Server
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Asiakas\n* SDK\n* Palvelin"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Asiakas\n* SDK\n* Server"
