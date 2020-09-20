@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Centerin kapasiteetin suunnittelu 2007
+  title: Microsoft System Center Capacity Planner 2007
   description: Microsoft System Center Capacity Planner 2007 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814819"
-name: Microsoft System Centerin kapasiteetin suunnittelu 2007
+name: Microsoft System Center Capacity Planner 2007
 summary: >
   Microsoft System Center Capacity Planner 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

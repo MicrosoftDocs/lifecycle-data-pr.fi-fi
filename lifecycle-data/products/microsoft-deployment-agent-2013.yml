@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftin käyttöönottoagentti 2013
+  title: Microsoft Deployment Agent 2013
   description: Microsoft Deployment Agent 2013 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852805"
-name: Microsoftin käyttöönottoagentti 2013
+name: Microsoft Deployment Agent 2013
 summary: >+
   Microsoft Deployment Agent 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Käyttöönottoagentin 2013 päivitystä 4 tuetaan käytäntöohjeiden mukaisesti 4.9.2024 saakka."
+content: "\n\n> [!NOTE]\n> Deployment Agent 2013:n päivitystä 4 tuetaan käytäntöohjeiden mukaisesti 4.9.2024 saakka."

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814505"
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/office/troubleshoot/support/office-2007-not-support)"

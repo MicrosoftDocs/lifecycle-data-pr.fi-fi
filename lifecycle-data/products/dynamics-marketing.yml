@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics-markkinointi
+  title: Dynamics Marketing
   description: Dynamics Marketing noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 641933ec6025a979f820962706701c6034173ccb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853114"
-name: Dynamics-markkinointi
+name: Dynamics Marketing
 summary: >+
   Dynamics Marketing noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2014
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"

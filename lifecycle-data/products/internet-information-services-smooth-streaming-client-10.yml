@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cff48fdf69039eed9e23b9534c01ea004fba6696
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814949"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/05/2010
   endDate: 09/08/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/iis/media/on-demand-smooth-streaming/getting-started-with-iis-smooth-streaming)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/iis/media/on-demand-smooth-streaming/getting-started-with-iis-smooth-streaming)"

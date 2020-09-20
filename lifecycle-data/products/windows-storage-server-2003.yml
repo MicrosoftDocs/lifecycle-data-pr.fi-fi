@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814202"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows Server -päivitysten yleiskatsaus](/windows-server/upgrade/upgrade-overview)\n* [Lisätietoja päivitystiedoista](/windows-server/get-started/installation-and-upgrade)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows Server -päivitysten yleiskatsaus](/windows-server/upgrade/upgrade-overview)\n* [Lisätietoja päivityksistä](/windows-server/get-started/installation-and-upgrade)"
