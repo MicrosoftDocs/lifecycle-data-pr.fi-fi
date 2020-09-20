@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2019
-  description: Exchange Server 2019 noudattaa kiinteää elin kaari käytäntöä.
+  description: Exchange Server 2019 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 56188a0231413a812f5b4dea4eb8371c9bc9110b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931117"
 name: Exchange Server 2019
 summary: >+
-  Exchange Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Exchange Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Enterprise, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linkit \n* [Huolto-ohjeet](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Ylläpitoa koskevat ohjeet](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"

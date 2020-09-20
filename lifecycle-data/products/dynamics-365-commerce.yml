@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869027"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Microsoft Dynamics 365:n etenemissuunnitelma](https://roadmap.dynamics.com/)\n* [Lisätietoja nimen muutoksesta](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail on nyt Dynamics 365 Commerce"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Microsoft Dynamics 365:n etenemissuunnitelma](https://roadmap.dynamics.com/)\n* [Lisätietoja nimen muutoksesta](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail on nyt Dynamics 365 Commerce"

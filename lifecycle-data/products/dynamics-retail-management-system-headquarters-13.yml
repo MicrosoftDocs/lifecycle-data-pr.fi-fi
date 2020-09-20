@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics Retail-hallinta järjestelmän 1,3
-  description: Dynamics Retail-hallinta järjestelmä 1,3 noudattaa kiinteää elin kaari käytäntöä.
+  title: Dynamics Retail Management System 1.3
+  description: Dynamics Retail Management System 1.3 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931694"
-name: Dynamics Retail-hallinta järjestelmän 1,3
+name: Dynamics Retail Management System 1.3
 summary: >+
-  Dynamics Retail-hallinta järjestelmä 1,3 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Dynamics Retail Management System 1.3 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Headquarters, Store Operations

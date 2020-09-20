@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lauseke 3
-  description: Lauseke 3 noudattaa kiinteää elin kaari käytäntöä.
+  title: Expression 3
+  description: Expression 3 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930747"
-name: Lauseke 3
+name: Expression 3
 summary: >+
-  Lauseke 3 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Expression 3 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: suunnittelu, kooderi, Studio, verkko
+  Tämä koskee seuraavia versioita: Design, Encoder, Studio, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Expression Design 3: n alkamis päivä on marraskuun 19, 2009. \n\n## <a name=\"editions\"></a>Versiot \n* Rakenne\n* Koodaaja\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Expression Design 3:n aloituspäivä on 19.11.2009. \n\n## <a name=\"editions\"></a>Versiot \n* Design\n* Encoder\n* Studio\n* Web"

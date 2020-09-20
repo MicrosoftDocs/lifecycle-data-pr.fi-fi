@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office Live Meeting
-  description: Office Live Meeting noudattaa modernia elin kaari käytäntöä.
+  title: Office Live -kokous
+  description: Office Live Meeting noudattaa modernia elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928897"
-name: Office Live Meeting
-summary: "Office Live Meeting noudattaa [modernia](/lifecycle/policies/modern) elin kaari käytäntöä.\n\nTämä koskee seuraavia versioita: Standard\n\n> [!IMPORTANT]\n> Tämän palvelun tuki on päättynyt. Katso alla olevat siirtymäohjeet. \n"
+name: Office Live -kokous
+summary: "Office Live Meeting noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta. \n"
 products:
 - office
 policyType: modern-online
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/10/2009
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
