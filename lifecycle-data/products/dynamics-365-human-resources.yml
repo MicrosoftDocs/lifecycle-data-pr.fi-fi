@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365:n henkilöstöhallinto
-  description: Dynamics 365:n henkilöstöhallinto noudattaa modernia elinkaarikäytäntöä.
+  title: Dynamics 365 Human Resources
+  description: Dynamics 365 Human Resources noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869024"
-name: Dynamics 365:n henkilöstöhallinto
+name: Dynamics 365 Human Resources
 summary: >+
-  Dynamics 365:n henkilöstöhallinto noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+  Dynamics 365 Human Resources noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Core HR -sovellus (aiemmin sisältyy Dynamics 365 Talentiin) on käynnistetty uudelleen Dynamics 365:n henkilöstöhallinnona."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Core HR -sovellus (joka aiemmin sisältyi Dynamics 365 Talentiin) on julkaistu uudelleen nimellä Dynamics 365 Human Resources."

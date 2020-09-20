@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Excel 2010 noudattaa kiinteää elin kaari käytäntöä.
+  description: Excel 2010 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931598"
 name: Excel 2010
 summary: >+
-  Excel 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Excel 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: koti ja opiskelija, matka Puhelin, vakio
+  Tämä koskee seuraavia versioita: Home and Student, Mobile, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Home and Student\n* Matka\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Home and Student\n* Mobile\n* Standard"

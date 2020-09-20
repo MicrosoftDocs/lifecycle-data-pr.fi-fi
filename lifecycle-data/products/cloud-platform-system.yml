@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pilvi ympäristön järjestelmä
-  description: Pilvi ympäristön järjestelmä noudattaa kiinteää elin kaari käytäntöä.
+  title: Cloud Platform System
+  description: Cloud Platform System noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932042"
-name: Pilvi ympäristön järjestelmä
+name: Cloud Platform System
 summary: >+
-  Pilvi ympäristön järjestelmä noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Cloud Platform System noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Pilvi palvelu alustan tuki laajennetaan näin, jotta kaikki asiakkaat voivat käyttää elin kaari siirtymän aika janaa.\n> [!NOTE]\n> Cloud Platform System Standard käynnistettiin syyskuun 18, 2017.\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
+content: "\n\n> [!NOTE]\n> Cloud Platform Systemin Mainstream-tukea laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota elinkaarisiirtymän vakioaikataulu.\n> [!NOTE]\n> Cloud Platform System Standard lanseerattiin 18.9.2017.\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
