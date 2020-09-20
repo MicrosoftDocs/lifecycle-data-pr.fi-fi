@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Identity Manager 2010 -käyttäjätietojen hallinta 2010
+  title: Microsoft Forefront Identity Manager 2010
   description: Microsoft Forefront Identity Manager 2010 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814863"
-name: Microsoft Forefront Identity Manager 2010 -käyttäjätietojen hallinta 2010
+name: Microsoft Forefront Identity Manager 2010
 summary: >+
   Microsoft Forefront Identity Manager 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Microsoft Forefront Identity Manager 2010:n mainstream- ja extended-tukea laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota normaali elinkaarisiirtymän aikajana."
+content: "\n\n> [!NOTE]\n> Microsoft Forefront Identity Manager 2010:n Mainstream-tukijaksoa laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota elinkaarisiirtymän vakioaikataulu."

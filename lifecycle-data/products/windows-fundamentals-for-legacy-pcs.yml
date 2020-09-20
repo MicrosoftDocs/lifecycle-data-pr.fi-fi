@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vanhojen tietokoneiden Windowsin perusteet
-  description: Vanhojen tietokoneiden Windowsin perusteet noudattavat kiinteää elinkaarikäytäntöä.
+  title: Windows Fundamentals for Legacy PCs
+  description: Windows Fundamentals for Legacy PCs noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814212"
-name: Vanhojen tietokoneiden Windowsin perusteet
+name: Windows Fundamentals for Legacy PCs
 summary: >+
-  Vanhojen tietokoneiden Windowsin perusteet noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Windows Fundamentals for Legacy PCs noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tämä tuote noudattaa samaa tuen elinkaarikäytäntöä kuin Windows XP."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tämä tuote noudattaa samaa tuen elinkaarikäytäntöä kuin Windows XP."

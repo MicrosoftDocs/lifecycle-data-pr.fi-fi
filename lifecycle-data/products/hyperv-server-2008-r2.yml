@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hyper-V-palvelin 2008 R2
+  title: Hyper-V Server 2008 R2
   description: Hyper-V Server 2008 R2 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814965"
-name: Hyper-V-palvelin 2008 R2
-summary: "Hyper-V Server 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet. \n"
+name: Hyper-V Server 2008 R2
+summary: "Hyper-V Server 2008 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/windows-server/get-started/modernize-windows-server-2008)"

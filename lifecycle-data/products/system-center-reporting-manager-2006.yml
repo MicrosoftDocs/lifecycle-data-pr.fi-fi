@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Centerin raportointipäällikkö 2006
+  title: System Center Reporting Manager 2006
   description: System Center Reporting Manager 2006 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814762"
-name: System Centerin raportointipäällikkö 2006
+name: System Center Reporting Manager 2006
 summary: >
   System Center Reporting Manager 2006 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 09/17/2006
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"

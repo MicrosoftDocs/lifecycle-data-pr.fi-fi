@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815231"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/25/2007
-content: "> [!TIP]\n> Tätä julkaisua kutsutaan komponenttiksi, joka seuraa päätuotteen, Windows Server 2008:n, tuen elinkaarta\n\n## <a name=\"links\"></a>Linkkejä \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)\n\n\n\n"
+content: "> [!TIP]\n> Tämä julkaisu on osa, joka seuraa päätuotteen Windows Server 2008:n tuen elinkaarta.\n\n## <a name=\"links\"></a>Linkit \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)"

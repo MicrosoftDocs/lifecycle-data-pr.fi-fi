@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded POSReady 2009 -käyttö
+  title: Windows Embedded POSReady 2009
   description: Windows Embedded POSReady 2009 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814735"
-name: Windows Embedded POSReady 2009 -käyttö
+name: Windows Embedded POSReady 2009
 summary: >
   Windows Embedded POSReady 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tuki on päättynyt. Katso alla oleva siirtymäohjeet.
+  > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2009
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Windows Embedded 2009:n tuen päättyminen](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows IoT:lle](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Windows Embedded 2009:n tuen päättyminen](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows for IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"

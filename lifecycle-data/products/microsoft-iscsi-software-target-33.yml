@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft iSCSI -ohjelmiston tavoite 3.3
+  title: Microsoft iSCSI -protokollan kohde 3.3
   description: Microsoft iSCSI Software Target 3.3 noudattaa osan elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852795"
-name: Microsoft iSCSI -ohjelmiston tavoite 3.3
+name: Microsoft iSCSI -protokollan kohde 3.3
 summary: >
   Microsoft iSCSI Software Target 3.3 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tämän komponentin tuki on päättynyt.
+  > Tämän tuotteen tuki on päättynyt.
 products:
 - windows
 policyType: component

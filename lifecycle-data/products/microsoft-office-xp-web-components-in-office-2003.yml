@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 2003:n Microsoft Office XP Web Components -komponentit
-  description: Office 2003:n Microsoft Office XP Web Components noudattaa osan elinkaarikäytäntöä.
+  title: Microsoft Office XP Web Components in Office 2003
+  description: Microsoft Office XP Web Components in Office 2003 noudattaa osan elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814278"
-name: Office 2003:n Microsoft Office XP Web Components -komponentit
+name: Microsoft Office XP Web Components in Office 2003
 summary: >+
-  Office 2003:n Microsoft Office XP Web Components noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+  Microsoft Office XP Web Components in Office 2003 noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:

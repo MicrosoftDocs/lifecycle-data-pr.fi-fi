@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuaalinen PC Macille
+  title: Virtual PC for Mac
   description: Virtual PC for Mac noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814754"
-name: Virtuaalinen PC Macille
+name: Virtual PC for Mac
 summary: >+
   Virtual PC for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2003
   endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Mukana toimitettu versio 5.01, versio 5.02, versio 5.03, versio 5.04, versio 6.01, versio 6.02, versio 6.1, versio 6.1.1 päivitys, versio 7, versio 7.01"
+content: "\n\n> [!NOTE]\n> Sisällytetyt versiot: 5.01, 5.02, 5.03, 5.04, 6.01, 6.02, 6.1, version 6.1.1 päivitys, 7, 7.01"
