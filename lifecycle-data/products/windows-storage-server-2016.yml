@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2016
-  description: Windows Storage Server 2016 noudattaa kiinteää elin kaari käytäntöä.
+  description: Windows Storage Server 2016 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938961"
 name: Windows Storage Server 2016
 summary: >+
-  Windows Storage Server 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Windows Storage Server 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Standard, Workgroup

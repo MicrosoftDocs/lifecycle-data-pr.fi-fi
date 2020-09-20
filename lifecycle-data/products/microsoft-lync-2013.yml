@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013 noudattaa kiinteää elin kaari käytäntöä.
+  description: Lync 2013 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933337"
 name: Lync 2013
 summary: >+
-  Lync 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Lync 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: SDK, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype for Business 2015-asiakas tiedote on Lync 2013-asiakas ohjelman päivitys, ja se noudattaa samaa tuotteen elin kaarta.\nLync 2013 SDK-aloitus päivä on helmi kuun 23, 2013. \n\n## <a name=\"editions\"></a>Versiot \n* SDK\n* Standard"
+content: "\n\n> [!NOTE]\n> Skype for Business 2015 -asiakasohjelman julkaisuversio on Lync 2013 -asiakasohjelman päivitys ja noudattaa samaa tuotteen elinkaarta.\nLync 2013 SDK:n aloituspäivä oli 23.2.2013. \n\n## <a name=\"editions\"></a>Versiot \n* SDK\n* Standard"

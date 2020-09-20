@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2012
-  description: Visual Studio Team Foundation Server 2012 noudattaa kiinteää elin kaari käytäntöä.
+  description: Visual Studio Team Foundation Server 2012 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: All
   ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937333"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
-  Visual Studio Team Foundation Server 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Visual Studio Team Foundation Server 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Kaikki
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki"

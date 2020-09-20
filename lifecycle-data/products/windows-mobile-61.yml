@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,1
-  description: Windows Mobile 6,1 noudattaa kiinteää elin kaari käytäntöä.
+  title: Windows Mobile 6.1
+  description: Windows Mobile 6.1 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
   ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939812"
-name: Windows Mobile 6,1
+name: Windows Mobile 6.1
 summary: >
-  Windows Mobile 6,1 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Windows Mobile 6.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Adaptation Kit, Professional, Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tämän tuotteen tuki on päättynyt.
+  > Tämän tuetteen tuki on päättynyt.
 products:
 - windows
 policyType: fixed-mainstream-only

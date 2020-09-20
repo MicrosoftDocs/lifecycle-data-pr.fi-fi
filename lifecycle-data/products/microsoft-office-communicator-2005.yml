@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: Microsoft Office Communicator 2005 noudattaa kiinteää elin kaari käytäntöä.
+  description: Microsoft Office Communicator 2005 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936260"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.\n\nTämä koskee seuraavia versioita: Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
+summary: "Microsoft Office Communicator 2005 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Standard\n\n> [!IMPORTANT]\n> Tämän tuetteen tuki on päättynyt. \n"
 products:
 - office
 policyType: fixed

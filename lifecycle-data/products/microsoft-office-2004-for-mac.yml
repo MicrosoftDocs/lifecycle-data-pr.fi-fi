@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2004 for Mac
-  description: Microsoft Office 2004 for Mac noudattaa kiinteää elin kaari käytäntöä.
+  description: Microsoft Office 2004 for Mac noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Student and Teacher
   ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936835"
 name: Microsoft Office 2004 for Mac
 summary: >+
-  Microsoft Office 2004 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft Office 2004 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Professional, Standard, Student ja Teacher
+  Tämä koskee seuraavia versioita: Professional, Standard, Student and Teacher
 
 products:
 - office
