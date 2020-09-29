@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Cloud -palvelut
-  description: Azure Cloud Services noudattaa modernia elinkaarikäytäntöä.
+  title: Azure-pilvipalvelut
+  description: Azure-pilvipalvelut noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815141"
-name: Azure Cloud -palvelut
+name: Azure-pilvipalvelut
 summary: >+
-  Azure Cloud Services noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+  Azure-pilvipalvelut noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Azure Guest OS -tuki- ja eläkekäytäntötiedot](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Azure Guest OS -käyttöjärjestelmän tuettavuus ja käytöstäpoistokäytäntö](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

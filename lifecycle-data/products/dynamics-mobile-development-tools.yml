@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics Mobilen kehitystyökalut
-  description: Dynamics Mobile Development Tools noudattaa komponentin elinkaarikäytäntöä.
+  description: Dynamics Mobilen kehitystyökalut noudattavat komponentin elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814563"
 name: Dynamics Mobilen kehitystyökalut
 summary: >+
-  Dynamics Mobile Development Tools noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+  Dynamics Mobilen kehitystyökalut noudattavat [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:

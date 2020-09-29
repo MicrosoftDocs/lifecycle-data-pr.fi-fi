@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Serverin suojauksen hallintakonsoli
+  title: Microsoft Forefront Server Security Management Console
   description: Microsoft Forefront Server Security Management Console noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814862"
-name: Microsoft Forefront Serverin suojauksen hallintakonsoli
+name: Microsoft Forefront Server Security Management Console
 summary: >+
   Microsoft Forefront Server Security Management Console noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

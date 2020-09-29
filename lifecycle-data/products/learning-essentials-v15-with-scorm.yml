@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Learning Essentials v1.5 kanssa SCORM
-  description: Learning Essentials v1.5 ja SCORM noudattavat komponentin elinkaarikäytäntöä.
+  title: Learning Essentials v1.5 with SCORM
+  description: Learning Essentials v1.5 with SCORM noudattaa osan elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814944"
-name: Learning Essentials v1.5 kanssa SCORM
-summary: >+
-  Learning Essentials v1.5 ja SCORM noudattavat [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
-
-
+name: Learning Essentials v1.5 with SCORM
+summary: "Learning Essentials v1.5 with SCORM noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. \n\n\n"
 products:
 - office
 policyType: component

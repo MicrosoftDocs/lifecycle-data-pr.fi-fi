@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Communication Foundation RIA Palvelut
+  title: Windows Communication Foundation RIA-palvelut
   description: Windows Communication Foundation RIA Services noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814216"
-name: Windows Communication Foundation RIA Palvelut
+name: Windows Communication Foundation RIA-palvelut
 summary: >+
   Windows Communication Foundation RIA Services noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

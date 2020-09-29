@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows CE 5.0 -käyttöjärjestelmän avulla
+  title: Windows CE 5.0
   description: Windows CE 5.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61aca29aa9f4eb5cca148ffc0405031322185cc6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814213"
-name: Windows CE 5.0 -käyttöjärjestelmän avulla
+name: Windows CE 5.0
 summary: >+
   Windows CE 5.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

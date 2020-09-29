@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Duet Microsoft Officelle ja SAP:lle
-  description: Duet for Microsoft Office ja SAP noudattavat kiinteää elinkaarikäytäntöä.
+  title: Duet for Microsoft Office and SAP
+  description: Duet for Microsoft Office and SAP noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7eb8ccf553c6adb14f39a87a103274110b34c656
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "815129"
-name: Duet Microsoft Officelle ja SAP:lle
+name: Duet for Microsoft Office and SAP
 summary: >+
-  Duet for Microsoft Office ja SAP noudattavat [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  Duet for Microsoft Office and SAP noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2006
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Sap](https://support.sap.com/index.html)\n\n> [!NOTE]\n> SAP myy ja tukee tätä tuotetta."
+content: "\n## <a name=\"links\"></a>Linkit \n* [SAP](https://support.sap.com/index.html)\n\n> [!NOTE]\n> SAP myy ja tukee tätä tuotetta."
