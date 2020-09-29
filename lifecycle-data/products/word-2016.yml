@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2016
-  description: Word 2016 noudattaa kiinteää elin kaari käytäntöä.
+  description: Word 2016 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938628"
 name: Word 2016
 summary: >+
-  Word 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Word 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Standard

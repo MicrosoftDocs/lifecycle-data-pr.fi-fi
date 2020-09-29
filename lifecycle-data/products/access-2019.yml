@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Käytä 2019
-  description: Accessissa 2019 noudattaa kiinteää elin kaari käytäntöä.
+  title: Access 2019
+  description: Access 2019 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 9cb6474fa4cc37df413fc8db00203768b06973a0
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940145"
-name: Käytä 2019
+name: Access 2019
 summary: >+
-  Accessissa 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Access 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Standard
