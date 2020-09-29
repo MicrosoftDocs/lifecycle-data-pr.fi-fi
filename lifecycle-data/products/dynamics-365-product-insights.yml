@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365-tuote tiedot
-  description: Dynamics 365-tuote tiedot ovat nykyaikaisen elin kaari käytännön mukainen.
+  title: Dynamics 365 Product Insights
+  description: Dynamics 365 Product Insights noudattaa modernia elinkaarikäytäntöä.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911358"
-name: Dynamics 365-tuote tiedot
+name: Dynamics 365 Product Insights
 summary: >+
-  Dynamics 365-tuote tiedot ovat [nykyaikaisen](/lifecycle/policies/modern) elin kaari käytännön mukainen.
+  Dynamics 365 Product Insights noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:

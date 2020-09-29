@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tehostettu lieventämis kokemuksen työkalut (EDET)
-  description: Tehostettu lieventämis kokemuksen työkalut (EDET) noudattaa kiinteää elin kaari käytäntöä.
+  title: Enhanced Mitigation Experience Toolkit (EMET)
+  description: Enhanced Mitigation Experience Toolkit (EMET) noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905291"
-name: Tehostettu lieventämis kokemuksen työkalut (EDET)
+name: Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
-  Tehostettu lieventämis kokemuksen työkalut (EDET) noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Enhanced Mitigation Experience Toolkit (EMET) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:

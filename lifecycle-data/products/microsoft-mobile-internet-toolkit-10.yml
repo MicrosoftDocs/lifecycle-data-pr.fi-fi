@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Mobile Internet Toolkit 1,0
-  description: Microsoft Mobile Internet Toolkit 1,0 noudattaa kiinteää elin kaari käytäntöä.
+  title: Microsoft Mobile Internet Toolkit 1.0
+  description: Microsoft Mobile Internet Toolkit 1.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/21/2020
   ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
   ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907213"
-name: Microsoft Mobile Internet Toolkit 1,0
+name: Microsoft Mobile Internet Toolkit 1.0
 summary: >+
-  Microsoft Mobile Internet Toolkit 1,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft Mobile Internet Toolkit 1.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:

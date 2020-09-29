@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pixeli-sovelluksen ohjelmisto paketti 1,0
-  description: Pixelinte Applications Suite 1,0 noudattaa kiinteää elin kaari käytäntöä.
+  title: PixelSense Applications Suite 1.0
+  description: PixelSense Applications Suite 1.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "892019"
-name: Pixeli-sovelluksen ohjelmisto paketti 1,0
+name: PixelSense Applications Suite 1.0
 summary: >+
-  Pixelinte Applications Suite 1,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  PixelSense Applications Suite 1.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:

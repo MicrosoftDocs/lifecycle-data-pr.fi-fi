@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Officen valvonta-ja hallinta palvelin 2013
-  description: Microsoft Officen valvonta-ja hallinta palvelin 2013 noudattaa kiinteää elin kaari käytäntöä.
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit and Control Management Server 2013 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907907"
-name: Microsoft Officen valvonta-ja hallinta palvelin 2013
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Microsoft Officen valvonta-ja hallinta palvelin 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft Office Audit and Control Management Server 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:

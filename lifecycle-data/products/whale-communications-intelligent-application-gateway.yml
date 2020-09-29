@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Whale Communication Intelligent Application Gateway
-  description: Whale Communication Intelligent Application Gateway noudattaa kiinteää elin kaari käytäntöä.
+  title: Whale Communications Intelligent Application Gateway
+  description: 'Whale Communications Intelligent Application Gateway noudattaa kiinteää elinkaarikäytäntöä. '
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907137"
-name: Whale Communication Intelligent Application Gateway
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Whale Communication Intelligent Application Gateway noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Whale Communications Intelligent Application Gateway noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
