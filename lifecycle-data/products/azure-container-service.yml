@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure-säilöpalvelu
+  title: Azure Container Service
   description: Azure Container Service noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852667"
-name: Azure-säilöpalvelu
+name: Azure Container Service
 summary: >+
   Azure Container Service noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/18/2016
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/azure/aks/acs-aks-migration)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/azure/aks/acs-aks-migration)"

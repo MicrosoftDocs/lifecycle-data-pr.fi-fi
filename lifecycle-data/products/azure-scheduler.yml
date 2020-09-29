@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure-ajastus
-  description: Azure Scheduler noudattaa modernia elinkaarikäytäntöä.
+  title: Azure Scheduler
+  description: Azuren ajoitustoiminto noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852660"
-name: Azure-ajastus
+name: Azure Scheduler
 summary: >+
-  Azure Scheduler noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+  Azuren ajoitustoiminto noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2014
   endDate: 09/30/2019
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

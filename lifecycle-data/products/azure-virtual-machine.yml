@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure-virtuaalikone
+  title: Azure Virtual Machine
   description: Azure Virtual Machine noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852901"
-name: Azure-virtuaalikone
+name: Azure Virtual Machine
 summary: >+
   Azure Virtual Machine noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/07/2012
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

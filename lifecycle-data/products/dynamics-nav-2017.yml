@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamiikan NAV 2017 -2017
+  title: Dynamics NAV 2017
   description: Dynamics NAV 2017 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853008"
-name: Dynamiikan NAV 2017 -2017
+name: Dynamics NAV 2017
 summary: >+
   Dynamics NAV 2017 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

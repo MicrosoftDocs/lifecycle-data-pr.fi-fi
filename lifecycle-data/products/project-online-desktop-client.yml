@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project Online -työpöytäasiakasohjelma
-  description: Project Online Desktop Client noudattaa modernia elinkaarikäytäntöä.
+  title: Project Online -työpöytäsovellus
+  description: Project Online -työpöytäasiakasohjelma noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852758"
-name: Project Online -työpöytäasiakasohjelma
+name: Project Online -työpöytäsovellus
 summary: >+
-  Project Online Desktop Client noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+  Project Online -työpöytäsovellus noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Järjestelmävaatimukset](https://products.office.com/office-system-requirements)\n* [Huoltotiedot](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Järjestelmävaatimukset](https://products.office.com/office-system-requirements)\n* [Huoltotiedot](https://technet.microsoft.com/library/mt584223.aspx)"
