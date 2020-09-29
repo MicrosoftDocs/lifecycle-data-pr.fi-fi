@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Protectionin 2010 for SharePoint
-  description: Forefront Protectionin 2010 for SharePoint noudattaa kiinteää elin kaari käytäntöä.
+  title: Forefront Protection 2010 for SharePoint
+  description: Forefront Protection 2010 for SharePoint noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/21/2020
   ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908708"
-name: Forefront Protectionin 2010 for SharePoint
+name: Forefront Protection 2010 for SharePoint
 summary: >+
-  Forefront Protectionin 2010 for SharePoint noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Forefront Protection 2010 for SharePoint noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront-tuote merkin tieto turva tuotteiden etenemis suunnitelma on muuttunut. Tämä tuote on lopetettu 31. joulu kuuta 2015."
+content: "\n\n> [!NOTE]\n> Forefront-brändin tietoturvatuotteiden etenemissuunnitelma on muuttunut.  Tämä tuote lopetetaan 31.12.2015.\n\n\n"

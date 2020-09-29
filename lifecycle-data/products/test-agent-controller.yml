@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Testi agentti, ohjain
-  description: Testi agentti, ohjain noudattaa komponentin elin kaari käytäntöä.
+  title: Test Agent, Controller
+  description: Test Agent, Controller noudattaa osan elinkaarikäytäntöä.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894952"
-name: Testi agentti, ohjain
+name: Test Agent, Controller
 summary: >+
-  Testi agentti, ohjain noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elin kaari käytäntöä.
+  Test Agent, Controller noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
 products:

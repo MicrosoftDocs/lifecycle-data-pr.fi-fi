@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pixeli-kaupallinen laitteisto 1,0
-  description: Pixelinen kaupallinen laitteisto 1,0 noudattaa kiinteää elin kaari käytäntöä.
+  title: PixelSense Commercial Hardware 1.0
+  description: PixelSense Commercial Hardware 1.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/12/2020
   ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893921"
-name: Pixeli-kaupallinen laitteisto 1,0
+name: PixelSense Commercial Hardware 1.0
 summary: >+
-  Pixelinen kaupallinen laitteisto 1,0 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  PixelSense Commercial Hardware 1.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:

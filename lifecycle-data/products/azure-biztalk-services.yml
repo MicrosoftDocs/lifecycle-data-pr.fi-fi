@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure BizTalk-palvelut
-  description: Azure BizTalk Services noudattaa modernia elin kaari käytäntöä.
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services noudattaa modernia elinkaarikäytäntöä.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904035"
-name: Azure BizTalk-palvelut
+name: Azure BizTalk Services
 summary: >+
-  Azure BizTalk Services noudattaa [modernia](/lifecycle/policies/modern) elin kaari käytäntöä.
+  Azure BizTalk Services noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Siirto-opastus](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://azure.microsoft.com/services/biztalk-services)"

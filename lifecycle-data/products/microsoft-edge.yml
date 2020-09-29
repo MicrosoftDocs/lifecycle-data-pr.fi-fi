@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Edge
-  description: Microsoft Edge noudattaa modernia elin kaari käytäntöä.
+  description: Microsoft Edge noudattaa modernia elinkaarikäytäntöä.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905827"
 name: Microsoft Edge
 summary: >
-  Microsoft Edge noudattaa [modernia](/lifecycle/policies/modern) elin kaari käytäntöä.
+  Microsoft Edge noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Huomaa, että tämän tuotteen aiempi versio lopettaa tuen maaliskuun 9:2021. Katso lisä  [tietoja täältä.](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+  > Huomaa, että tämän tuotteen vanhan version tuki päättyy 9.3.2021. Lue lisää   [täältä](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Microsoft Edge-tuki käyttö järjestelmät](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Microsoft Edgen tukemat käyttöjärjestelmät](/deployedge/microsoft-edge-supported-operating-systems)"

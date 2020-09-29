@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Configuration-projekti (LTSB-versio 1606)
-  description: Microsoft System Center Configuration-projekti (LTSB-version 1606) noudattaa kiinteää elin kaari käytäntöä.
+  title: Microsoft System Center Configuration Manager (LTSB - versio 1606)
+  description: Microsoft System Center Configuration Manager (LTSB - versio 1606) noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905828"
-name: Microsoft System Center Configuration-projekti (LTSB-versio 1606)
+name: Microsoft System Center Configuration Manager (LTSB - versio 1606)
 summary: >+
-  Microsoft System Center Configuration-projekti (LTSB-version 1606) noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft System Center Configuration Manager (LTSB - versio 1606) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huolto-ja tuki tiedot](/sccm/core/understand/learn-more-editions)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huolto- ja tukitiedot](/sccm/core/understand/learn-more-editions)"

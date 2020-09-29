@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Microsoft Works noudattaa kiinteää elin kaari käytäntöä.
+  description: Microsoft Works noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904042"
 name: Microsoft Works
 summary: >+
-  Microsoft Works noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft Works noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Tämä listaus sisältää kaikki Microsoft Works-tuotteet, jotka on julkaistu 2003 ja 2007 välillä."
+content: "\n\n> [!NOTE]\n> Tämä luettelo sisältää KAIKKI Vuosina 2003–2007 julkaistut Microsoft Works -tuotteet."
