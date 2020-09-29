@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Web Server 2008
-  description: Windows Web Server 2008 noudattaa kiinteää elin kaari käytäntöä.
+  description: Windows Web Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938887"
 name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Windows Web Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Standard
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Windows Server 2008 Service Pack 2: ta kohden Tämä tuote saavutti tuen loppuun tammi kuun 2020 14.\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
+content: "\n\n> [!NOTE]\n> Windows Server 2008 Service Pack 2:n mukaan tämä tuote saavutti tuen lopun 14.1.2020.\n\n## <a name=\"editions\"></a>Versiot \n* Standard"
