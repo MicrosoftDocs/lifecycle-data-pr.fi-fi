@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: Visio 2010 noudattaa kiinteää elin kaari käytäntöä.
+  description: Visio 2010 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937851"
 name: Visio 2010
 summary: >+
-  Visio 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Visio 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Premium, Professional, Standard
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Premium\n* Professional\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/DeployOffice/office-2010-end-support-roadmap)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Premium\n* Professional\n* Standard"

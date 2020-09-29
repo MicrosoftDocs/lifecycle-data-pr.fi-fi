@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2019
-  description: Word 2019 noudattaa kiinteää elin kaari käytäntöä.
+  description: Word 2019 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 089324dba94c7c70826bb50b980073861ba17959
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938591"
 name: Word 2019
 summary: >+
-  Word 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Word 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Standard

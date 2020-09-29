@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoftin pääte pisteen määritysten hallintaan
-  description: Microsoft Endpoint Configuration-projekti noudattaa modernia elin kaari käytäntöä.
+  title: Microsoft Endpoint Configuration Manager
+  description: Microsoft Endpoint Configuration Manager noudattaa modernia elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934040"
-name: Microsoftin pääte pisteen määritysten hallintaan
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Microsoft Endpoint Configuration-projekti noudattaa [modernia](/lifecycle/policies/modern) elin kaari käytäntöä.
+  Microsoft Endpoint Configuration Manager noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 
   > [!IMPORTANT]
 
-  > Versiosta 1910 lähtien kokoonpanon hallinnalla on nyt osa Microsoft Endpoint Manageria.
+  > Versiosta 1910 alkaen Configuration Manager on osa Microsoft Endpoint Manageria.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versio tiedot](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manageriisi on nyt Microsoftin pääte pisteen määritysten hallintaan](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Aiemmat versiot](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Tietoja määritysten Hallin nasta](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Version tiedot](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager on nyt Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historialliset versiot](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Mikä on Configuration Manager](/mem/configmgr/core/understand/introduction)"
