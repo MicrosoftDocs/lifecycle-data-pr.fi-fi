@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office FrontPage 2003 -sivusto
+  title: Microsoft Office FrontPage 2003
   description: Microsoft Office FrontPage 2003 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: eb7f001218c8b53cc1ebf75314ca5bd2b8b9a792
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814506"
-name: Microsoft Office FrontPage 2003 -sivusto
+name: Microsoft Office FrontPage 2003
 summary: "Microsoft Office FrontPage 2003 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
 - office

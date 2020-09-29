@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Integration Designer 2.5 -ohjelman avulla
+  title: Microsoft Integration Designer 2.5
   description: Microsoft Integration Designer 2.5 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "814530"
-name: Microsoft Integration Designer 2.5 -ohjelman avulla
+name: Microsoft Integration Designer 2.5
 summary: >+
   Microsoft Integration Designer 2.5 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
