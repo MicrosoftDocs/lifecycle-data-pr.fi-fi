@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2016 -tietosuoja
-  description: System Center 2016 -tietosuoja noudattaa kiinteää elinkaarikäytäntöä.
+  title: System Center 2016 Data Protection
+  description: System Center 2016 Data Protection noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853088"
-name: System Center 2016 -tietosuoja
+name: System Center 2016 Data Protection
 summary: >+
-  System Center 2016 -tietosuoja noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+  System Center 2016 Data Protection noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Tuotteen tiedot](/system-center/)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/system-center/)"

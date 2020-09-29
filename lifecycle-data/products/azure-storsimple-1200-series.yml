@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple 1200 -sarja
+  title: Azure StorSimple 1200 Series
   description: Azure StorSimple 1200 Series noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852669"
-name: Azure StorSimple 1200 -sarja
+name: Azure StorSimple 1200 Series
 summary: >+
   Azure StorSimple 1200 Series noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/azure/storage/files/storage-files-migration-storsimple-1200)"

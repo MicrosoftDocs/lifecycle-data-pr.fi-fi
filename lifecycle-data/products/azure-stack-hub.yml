@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure-pinon keskitin
+  title: Azure Stack Hub
   description: Azure Stack Hub noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869032"
-name: Azure-pinon keskitin
+name: Azure Stack Hub
 summary: >+
   Azure Stack Hub noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/31/2017
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Huoltotiedot ja aikataulut](/azure/azure-stack/azure-stack-servicing-policy)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Palvelun tiedot ja aikajanat](/azure/azure-stack/azure-stack-servicing-policy)"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype for Business 2016 -palvelu
+  title: Skype for Business 2016
   description: Skype for Business 2016 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853056"
-name: Skype for Business 2016 -palvelu
+name: Skype for Business 2016
 summary: >+
   Skype for Business 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

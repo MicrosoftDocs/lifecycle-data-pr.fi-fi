@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2016 -palvelunhallinta
+  title: System Center 2016 Service Manager
   description: System Center 2016 Service Manager noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853146"
-name: System Center 2016 -palvelunhallinta
+name: System Center 2016 Service Manager
 summary: >+
   System Center 2016 Service Manager noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Word 2016 for Macin
+  title: Mac Word 2016
   description: Word 2016 for Mac noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71b901131d651cb74f4f8835f0ca834dd90dca79
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852743"
-name: Word 2016 for Macin
+name: Mac Word 2016
 summary: >+
   Word 2016 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

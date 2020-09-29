@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Outlook 2019 for Macin versio
+  title: Outlook 2019 for Mac
   description: Outlook 2019 for Mac noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: 006aa458fb550f820a351c1bf093611c95d2d7c4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869112"
-name: Outlook 2019 for Macin versio
+name: Outlook 2019 for Mac
 summary: >+
   Outlook 2019 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 

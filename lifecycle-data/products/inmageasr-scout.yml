@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: InMage Scout Azure-sivuston palautumisessa
+  title: InMage Scout Azure-sivuston palautus
   description: Azure-sivuston palautuksen InMage Scout noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
   ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852825"
-name: InMage Scout Azure-sivuston palautumisessa
+name: InMage Scout Azure-sivuston palautus
 summary: >+
   Azure-sivuston palautuksen InMage Scout noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 12/31/2020
-content: "\n## <a name=\"links\"></a>Linkkejä \n* [Muuttoliikettä koskeva ohjeistus](https://aka.ms/asr-scout-doc)"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://aka.ms/asr-scout-doc)"
