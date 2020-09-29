@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Mediaroom
-  description: Microsoft Mediaroom noudattaa kiinteää elin kaari käytäntöä.
+  description: Microsoft Mediaroom noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
   ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930599"
 name: Microsoft Mediaroom
 summary: >+
-  Microsoft Mediaroom noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Microsoft Mediaroom noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: sovellus palvelut 1,0, asiakas 2,0, asiakas 2,1, palvelin 2,0, palvelin 2,1
+  Tämä koskee seuraavia versioita: Application Services 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
 
 products:
 - windows
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> Ericsson osti Microsoft Mediaroom-tuotteet 2013. Jos haluat lisä tietoja, katso [lehdistö tiedote](http://www.ericsson.com/news/1691160). Jos tarvitset tukea tarvitseville asiakkaille, käy [täällä](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 julkaistiin 27. joulu kuuta 2011. \n\n## <a name=\"editions\"></a>Versiot \n* Sovellus palvelut 1,0\n* Asiakas 2,0\n* Asiakas 2,1\n* Server 2,0\n* Server 2,1"
+content: "\n\n> [!NOTE]\n> Ericsson osti Microsoft Mediaroom -tuotteet vuonna 2013. Lisätietoja saat [tästä tiedotteesta](http://www.ericsson.com/news/1691160). Tukea tarvitsevat asiakkaat: siirtykää [tänne](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx). \n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 julkaistiin 27.12.2011. \n\n## <a name=\"editions\"></a>Versiot \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"

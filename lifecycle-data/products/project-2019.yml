@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2019
-  description: Project 2019 noudattaa kiinteää elin kaari käytäntöä.
+  description: Project 2019 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 9507d81cd2cf3bd70765d9fa9f51806cf7c5d16b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926344"
 name: Project 2019
 summary: >+
-  Project 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elin kaari käytäntöä.
+  Project 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
   Tämä koskee seuraavia versioita: Professional, Standard
