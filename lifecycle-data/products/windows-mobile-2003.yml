@@ -15,7 +15,7 @@ summary: >
   Windows Mobile 2003 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Pocket PC:lle, älypuhelimille, Second Edition -ohjelmistoja Pocket PC Phonelle, Second Edition -ohjelmistoja älypuhelimelle
+  Tämä koskee seuraavia versioita: for Pocket PC, for Smartphones, Second Edition software for Pocket PC Phone, Second Edition software for Smartphone
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Pocket PC:lle\n* älypuhelimille\n* Second Edition -ohjelmisto Pocket PC Phonelle\n* Second Edition -ohjelmisto älypuhelimelle"
+content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* for Pocket PC\n* for Smartphones\n* Second Edition software for Pocket PC Phone\n* Second Edition software for Smartphone"

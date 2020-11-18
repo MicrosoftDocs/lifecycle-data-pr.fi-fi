@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937481"
 name: Visual Studio 2012
-summary: "Visual Studio 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (integroitu), Shell (eristetty), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions\n\n"
+summary: "Visual Studio 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions\n\n"
 products:
 - vs
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linkit \n* [Visual Studio -tuotteen elinkaari ja huolto](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (integroitu)\n* Shell (eristetty)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Visual Studio -tuotteen elinkaari ja huolto](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

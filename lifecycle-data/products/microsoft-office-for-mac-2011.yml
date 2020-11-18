@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Macille 2011
+  title: Microsoft Office for Mac 2011
   description: Microsoft Office for Mac 2011 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: fi-FI
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933226"
-name: Microsoft Office Macille 2011
+name: Microsoft Office for Mac 2011
 summary: "Microsoft Office for Mac 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard\n\n"
 products:
 - office

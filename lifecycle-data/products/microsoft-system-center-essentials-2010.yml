@@ -15,7 +15,7 @@ summary: >+
   Microsoft System Center Essentials 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Kaikki soveltuvat, wSQL
+  Tämä koskee seuraavia versioita: kaikki soveltuvat, wSQL
 
 products:
 - msc
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki soveltuvat\n* wSQL"
+content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* kaikki soveltuvat\n* wSQL"
