@@ -15,7 +15,7 @@ summary: >+
   Microsoft System Center Mobile Device Manager 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Kaikki soveltuvat, wSQL
+  Tämä koskee seuraavia versioita: kaikki soveltuvat, wSQL
 
 products:
 - msc
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki soveltuvat\n* wSQL"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* kaikki soveltuvat\n* wSQL"

@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001767"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: Kaikki soveltuvat, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Tämän tuetteen tuki on päättynyt. Katso siirtymäohjeistus. \n"
+summary: "Microsoft Office Communications Server 2007 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\nTämä koskee seuraavia versioita: kaikki soveltuvat, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Tämän tuetteen tuki on päättynyt. Katso siirtymäohjeistus. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP-yhdyskäytävä julkaistiin 28.9.2009.\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki soveltuvat\n* Enterprise\n* XMPP-yhdyskäytävä"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP-yhdyskäytävä julkaistiin 28.9.2009.\n\n## <a name=\"editions\"></a>Versiot \n* kaikki soveltuvat\n* Enterprise\n* XMPP-yhdyskäytävä"

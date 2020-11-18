@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Kaikki sopivat, ulkoinen käyttäjä
+  Tämä koskee seuraavia versioita: kaikki soveltuvat, External Connector
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki soveltuvat\n* Ulkoinen käyttäjä"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Versiot \n* kaikki soveltuvat\n* External Connector"

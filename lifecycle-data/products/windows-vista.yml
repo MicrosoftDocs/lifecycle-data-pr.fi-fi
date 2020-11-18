@@ -15,7 +15,7 @@ summary: >
   Windows Vista noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-  Tämä koskee seuraavia versioita: Business, Business N, Business N 64-bittinen, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bittinen, Home Basic N, Home Basic N 64-bittinen, Home Premium, Home Premium 64-bittinen, Starter, Ultimate, Ultimate 64-bittinen
+  Tämä koskee seuraavia versioita: Business, Business N, Business N 64-bit, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windowsin päivitykseen ja siirtoon liittyviä seikkoja](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business\n* Business N\n* Business N 64-bittinen\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bittinen\n* Home Basic N\n* Home Basic N 64-bittinen\n* Home Premium\n* Home Premium 64-bittinen\n* Starter\n* Ultimate\n* Ultimate 64-bittinen"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windowsin päivitykseen ja siirtoon liittyviä seikkoja](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Business\n* Business N\n* Business N 64-bit\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

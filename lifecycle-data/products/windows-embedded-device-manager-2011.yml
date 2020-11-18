@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Asiakas\n* SDK\n* Server"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Client\n* SDK\n* Server"

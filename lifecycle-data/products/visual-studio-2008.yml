@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937555"
 name: Visual Studio 2008
-summary: "Visual Studio 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Kaikki, Pro w/MSDN Premium, Professional, Professional w/MSDN, Team-sviitti, Tiimin testikuorma-agentti, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express\n\n"
+summary: "Visual Studio 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: kaikki, Pro ja MSDN Premium, Professional, Professional ja MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express\n\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Sisältää Visual C++ Express-, Visual C# Express-, VB Express-, Visual Web Developer Express- ja Visual Studio Team System -versiot\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki\n* Pro ja MSDN Premium\n* Professional\n* Professional ja MSDN \n* Team-sviitti\n* Tiimin testikuorma-agentti\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Sisältää Visual C++ Express-, Visual C# Express-, VB Express-, Visual Web Developer Express- ja Visual Studio Team System -versiot\n\n## <a name=\"editions\"></a>Versiot \n* kaikki\n* Pro ja MSDN Premium\n* Professional\n* Professional ja MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

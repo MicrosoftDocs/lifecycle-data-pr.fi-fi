@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "945293"
 name: Visual Studio Team System 2008
-summary: "Visual Studio Team System 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS\n\n> [!IMPORTANT]\n> Tuki on päättynyt. Katso siirtymäohjeet alta.\n"
+summary: "Visual Studio Team System 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: kaikki, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS\n\n> [!IMPORTANT]\n> Tuki on päättynyt. Katso siirtymäohjeet alta.\n"
 products:
 - vs
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* Kaikki\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Tiimin testikuorma-agentti\n* TFS"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versiot \n* kaikki\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
