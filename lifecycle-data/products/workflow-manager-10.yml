@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linkit \n* [SharePoint 2016:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kun Workflow Manager on SharePoint Server 2016:n tai SharePoint Server 2013:n osa, sitä tuetaan kyseisen SharePoint Server -version tuen päättymisen mukaan.\n\n## <a name=\"editions\"></a>Versiot \n* Asiakas\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkit \n* [SharePoint 2016:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kun Workflow Manager on SharePoint Server 2016:n tai SharePoint Server 2013:n osa, sitä tuetaan kyseisen SharePoint Server -version tuen päättymisen mukaan.\n\n## <a name=\"editions\"></a>Versiot \n* Client\n* Standard"
