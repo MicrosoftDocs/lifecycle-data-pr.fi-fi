@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 noudattaa komponentin elinkaarikäytäntöä.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893643"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029502"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Internet Explorer (IE) 11 -työpöytäsovellus lopettaa tiettyjen käyttöjärjestelmien tuen 15. kesäkuuta 2022 alkaen. Asiakkaita kehotetaan siirtymään Microsoft Edgeen, jossa on IE-tila. IE-tila mahdollistaa takautuvan yhteensopivuuden, ja sitä tuetaan ainakin vuoteen 2029 asti. Lisäksi Microsoft antaa ilmoituksen vuotta ennen IE-tilan poistumista käytöstä.  Katso [tämä](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) luettelo tuetuista Internet Explorerin käyttöjärjestelmistä, mukaan lukien versiot, joihin tämä ilmoitus vaikuttaa.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12.1.2016 jälkeen vain uusin tuetulle käyttöjärjestelmälle saatavilla oleva Internet Explorer -versio saa teknistä tukea ja tietoturvapäivityksiä."
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin/Edgen elinkaaren usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorerin tukemat käyttöjärjestelmät](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edgen tukemat käyttöjärjestelmät](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Joitakin Internet Explorerin versioita voidaan tukea viimeisimmän Windows-käyttöjärjestelmän päättymispäivän jälkeen, kun laajennettuja tietoturvapäivityksiä (ESU) on saatavilla. [Tästä](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) löydät luettelon tuotteista, joille on olemassa laajennettuja tietoturvapäivityksiä."
