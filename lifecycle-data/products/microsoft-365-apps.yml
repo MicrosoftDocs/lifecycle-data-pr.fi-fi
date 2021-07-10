@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365 -sovellukset
+  description: Microsoft 365 -sovellukset noudattavat modernia elinkaarikäytäntöä.
+  ms.date: 04/07/2021
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2030076"
+name: Microsoft 365 -sovellukset
+summary: >+
+  Microsoft 365 -sovellukset noudattavat [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+
+
+  Tämä koskee seuraavia versioita: Business, Enterprise
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Linkit \n* [Tuetut versiot](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Järjestelmävaatimukset](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Officen kokoonpanon tukimatriisi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Microsoft 365 -sovellusten julkaisuohje](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Microsoft 365 -sovellukset yrityksille (aiemmin Office 365 ProPlus) Microsoft 365 -sovellukset yrityksille oli aiemmin Office 365 Business\n\n## <a name=\"editions\"></a>Versiot \n* yrityksille\n* suuryrityksille"

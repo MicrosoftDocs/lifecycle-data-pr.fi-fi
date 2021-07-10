@@ -2,19 +2,23 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework noudattaa osan elinkaarikäytäntöä.
-  ms.date: 12/16/2020
+  ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347364"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029465"
 name: Microsoft .NET Framework
-summary: >+
+summary: >
   Microsoft .NET Framework noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
 
 
+
+  > [!IMPORTANT]
+
+  > .NET Framework 4.5.2, 4.6 ja 4.61 poistuvat käytöstä 26. huhtikuuta 2022. Aiemmin nämä nimenomaiset julkaisut allekirjoitettiin digitaalisesti käyttämällä Secure Hash Algorithm (SHA-1) -sertifikaatteja. Tätä algoritmia ei enää pidetä turvallisena. Asiakkaita kannustetaan siirtymään SHA-2:een. Lue lisää [täältä](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022).
 products:
 - dotnet
 policyType: component
@@ -33,10 +37,13 @@ releases:
   startDate: 08/02/2016
 - version: .NET Framework 4.6.1
   startDate: 11/30/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.6
   startDate: 07/29/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.2
   startDate: 05/05/2014
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.1
   startDate: 01/15/2014
   endDate: 01/12/2016
@@ -52,4 +59,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren toistuvat kysymykset – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) on erillinen tuote, joka seuraa kiinteää käytäntöä alkaen Windows 10:n versiosta 1809 ja Windows Server 2019:stä. Tätä ennen .NET Framework 3.5 SP1:tä pidetään sen Windows-käyttöjärjestelmän osana, johon se on asennettu."
+content: "\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren toistuvat kysymykset – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Tuotteen tiedot](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61 poistuvat käytöstä](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) on erillinen tuote, joka seuraa kiinteää käytäntöä alkaen Windows 10:n versiosta 1809 ja Windows Server 2019:stä. Tätä ennen .NET Framework 3.5 SP1:tä pidetään sen Windows-käyttöjärjestelmän osana, johon se on asennettu."
