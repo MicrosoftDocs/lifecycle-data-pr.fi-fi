@@ -2,16 +2,16 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939331"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255324"
 name: Windows Server 2019
-summary: "Windows Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Datacenter, Essentials, Standard\n\n"
+summary: "Windows Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\nTämä koskee seuraavia versioita: Datacenter, Essentials, Standard\n\n\n\n"
 products:
 - windows
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/windows-server/get-started-19/whats-new-19)\n* [Päivitys Windows Server 2019:n saatavuuteen](https://aka.ms/WSRelaunchBlog)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 ja Windows Server, versio 1809 julkaistiin uudelleen 13.11.2018. Tuen päivämääriä on muutettu vastaavasti.\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Essentials\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/windows-server/get-started-19/whats-new-19)\n* [Päivitys Windows Server 2019:n saatavuuteen](https://aka.ms/WSRelaunchBlog)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n* [Windows -säilökannan kuvapalvelun elinkaaret.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Windows Server 2019:n kanssa julkaistut säilöt noudattavat samoja elinkaaren päivämääriä.\n> [!NOTE]\n> Windows Server 2019 ja Windows Server, versio 1809 julkaistiin uudelleen 13.11.2018. Tuen päivämääriä on muutettu vastaavasti.\n\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Essentials\n* Standard"
