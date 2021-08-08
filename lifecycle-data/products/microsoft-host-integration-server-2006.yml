@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Host Integration Server 2006 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Developer,Standard
-  ms.openlocfilehash: b7da52c555619a2d4222ae264140f646fb161913
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: bd6dcc8dcd4e871989ce6cf9f1ce22f611aa63fede1ac0acf71d09e0cee46fbd
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933781"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2484708"
 name: Microsoft Host Integration Server 2006
 summary: "Microsoft Host Integration Server 2006 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Developer, Standard\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta. \n"
 products:
