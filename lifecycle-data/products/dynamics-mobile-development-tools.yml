@@ -3,12 +3,12 @@ metadata:
   title: Dynamics Mobilen kehitystyökalut
   description: Dynamics Mobilen kehitystyökalut noudattavat komponentin elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 3c3338db28f403d9b94a3dba93ed903d86653bf392aa399bcdada252f9897bd3
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814563"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491479"
 name: Dynamics Mobilen kehitystyökalut
 summary: >+
   Dynamics Mobilen kehitystyökalut noudattavat [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
