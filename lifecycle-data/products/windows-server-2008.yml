@@ -4,12 +4,12 @@ metadata:
   description: Windows Server 2008 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 04/23/2021
   keywords: 
-  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: e410116c0c35fc739a87078ae69e1906d4d0f251e55218f96ffd7d1603fcfdd1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029835"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2504614"
 name: Windows Server 2008
 summary: "Windows Server 2008 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Datacenter, Datacenter without Hyper-V, Enterprise, Enterprise without Hyper-V, for Itanium-Based Systems, Foundation, Standard, Standard without Hyper-V, Web\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
 products:

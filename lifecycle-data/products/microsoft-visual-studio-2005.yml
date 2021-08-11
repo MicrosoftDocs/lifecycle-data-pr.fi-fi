@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Visual Studio 2005 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937592"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497880"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# -tukitiedot](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studion tuotetiedot](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Tämän tuotteen tuki on päättynyt. Alla on ohjeet siirtymän suorittamiseen.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals julkaistu 2. maaliskuuta 2007.\n\n## <a name=\"editions\"></a>Versiot \n* Professional\n* Standard\n* Standard Editionin akateeminen lisenssi\n* Team Edition tietokanta-ammattilaisille\n* Team Edition ohjelmistoarkkitehdeille\n* Team Edition ohjelmistokehittäjille\n* Team Edition ohjelmistotestaajille\n* Team Suite\n* Team Test Load Agent\n* Microsoft Office Systemin työkalut\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeet](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# -tukitiedot](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studion tuotetiedot](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Tämän tuotteen tuki on päättynyt. Alla on siirtymäopastusta.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals julkaistu 2. maaliskuuta 2007.\n\n## <a name=\"editions\"></a>Versiot \n* Professional\n* Standard\n* Standard Editionin akateeminen lisenssi\n* Team Edition tietokanta-ammattilaisille\n* Team Edition ohjelmistoarkkitehdeille\n* Team Edition ohjelmistokehittäjille\n* Team Edition ohjelmistotestaajille\n* Team Suite\n* Team Test Load Agent\n* Microsoft Office Systemin työkalut\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
