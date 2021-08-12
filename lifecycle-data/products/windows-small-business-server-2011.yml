@@ -4,12 +4,12 @@ metadata:
   description: Windows Small Business Server 2011 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Essentials,Premium Add-On,Standard
-  ms.openlocfilehash: 600151f11d58d79951d9324ef85dbf693eebae02
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 5a763d45c8922cd4fcfef439fe3415e39bbf8cafe38225466aa427151087b178
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939146"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519932"
 name: Windows Small Business Server 2011
 summary: "Windows Small Business Server 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Essentials, Premium-lisäosa, Standard\n\n> [!IMPORTANT]\n> Tämän tuotepaketin tukipäivämäärä määräytyy sen yksittäisen osatuotteen elinkaaren mukaan. Selvitä tuen kesto tarkistamalla yksittäisen osatuotteen elinkaari.\n"
 products:
