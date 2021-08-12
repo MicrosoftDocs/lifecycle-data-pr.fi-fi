@@ -3,38 +3,44 @@ metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
-  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935557"
+  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
 name: Microsoft Application Virtualization 4.6
-summary: >+
+summary: |+
   Microsoft Application Virtualization 4.6 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: for Remote Desktop Services, for Windows Desktops, Sequencer
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkit \n* [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Koska App-V 4.6 -asiakasohjelma käyttää App-V 4.5-palvelinta, App-V 4.5-palvelinta tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakasohjelman kanssa.\n\n## <a name=\"editions\"></a>Versiot \n* for Remote Desktop Services\n* for Windows Desktops\n* Sequencer"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Tuote- ja siirtotiedot](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+  * [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Koska App-V 4.6 -asiakasohjelma käyttää App-V 4.5-palvelinta, App-V 4.5-palvelinta tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakasohjelman kanssa.
+
+  ## <a name="editions"></a>Versiot 
+  * for Remote Desktop Services
+  * for Windows Desktops
+  * Sequencer

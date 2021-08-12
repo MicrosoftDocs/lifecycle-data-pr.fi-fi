@@ -3,23 +3,20 @@ metadata:
   title: Power BI -raporttipalvelin
   description: Power BI -raporttipalvelin noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869106"
 name: Power BI -raporttipalvelin
-summary: >+
+summary: |+
   Power BI -raporttipalvelin noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: modern-online
 supportDates:
   start: 06/12/2017
 releases:
-- version: Original Release
-  startDate: 06/12/2017
-content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"
+  - version: Original Release
+    startDate: 06/12/2017
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Huoltotiedot](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)
