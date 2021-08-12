@@ -3,12 +3,12 @@ metadata:
   title: Enhanced Mitigation Experience Toolkit (EMET)
   description: Enhanced Mitigation Experience Toolkit (EMET) noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/20/2020
-  ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
-  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+  ms.openlocfilehash: b9a07fcc58b48802de5d8492d7ff7d827c83631d3de618b24b5bdbfef415cfb8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905291"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495216"
 name: Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
   Enhanced Mitigation Experience Toolkit (EMET) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
