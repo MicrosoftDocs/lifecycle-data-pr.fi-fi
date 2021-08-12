@@ -3,12 +3,12 @@ metadata:
   title: Outlook 2011 for Mac
   description: Outlook 2011 for Mac noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2b20565c91dc1f6c8389140dd4436248936ddf9e68fc16c4bfa4bec2e0ab68ff
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852727"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507389"
 name: Outlook 2011 for Mac
 summary: "Outlook 2011 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Microsoft Office for Mac 2011:n Mainstream-tukea laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota elinkaaren vakiosiirtymäaikataulu."
+content: "\n\n> [!NOTE]\n> Microsoft Office for Mac 2011:n Mainstream-tukea laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota elinkaarisiirtymän vakioaikataulu."
