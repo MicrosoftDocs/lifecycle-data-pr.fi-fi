@@ -3,26 +3,23 @@ metadata:
   title: Microsoft Sync Framework 2.1
   description: Microsoft Sync Framework 2.1 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: bc3dad267d8e7e0795160fa896915b06a7532b1c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814820"
 name: Microsoft Sync Framework 2.1
-summary: >+
+summary: |+
   Microsoft Sync Framework 2.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 11/17/2010
   end: 01/12/2016
   extendedEnd: 01/12/2021
 releases:
-- version: Original Release
-  startDate: 11/17/2010
-  endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/previous-versions/sql/synchronization/mt490616(v=msdn.10)?redirectedfrom=MSDN)"
+  - version: Original Release
+    startDate: 11/17/2010
+    endDate: 01/12/2021
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Tuotteen tiedot](/previous-versions/sql/synchronization/mt490616(v=msdn.10)?redirectedfrom=MSDN)

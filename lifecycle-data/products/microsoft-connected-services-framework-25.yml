@@ -3,29 +3,29 @@ metadata:
   title: Microsoft Connected Services Framework 2.5
   description: Microsoft Connected Services Framework 2.5 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
-  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934114"
+  keywords: 'Order Handling Standard Business Event 2.5,Server,Service Provider'
 name: Microsoft Connected Services Framework 2.5
-summary: >+
+summary: |+
   Microsoft Connected Services Framework 2.5 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: Order Handling Standard Business Event 2.5, Server, Service Provider
 
 products:
-- connected-services-framework
+  - connected-services-framework
 policyType: fixed
 supportDates:
   start: 07/26/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 07/26/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Versiot \n* Order Handling Standard Business Event 2.5\n* Server\n* Service Provider"
+  - version: Original Release
+    startDate: 07/26/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Versiot 
+  * Order Handling Standard Business Event 2.5
+  * Server
+  * Service Provider

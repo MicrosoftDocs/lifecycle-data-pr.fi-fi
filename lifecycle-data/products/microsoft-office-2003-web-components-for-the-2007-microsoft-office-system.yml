@@ -3,22 +3,22 @@ metadata:
   title: Microsoft Office 2003 Web Components 2007 Microsoft Office -järjestelmälle
   description: Microsoft Office 2003 Web Components 2007 Microsoft Office -järjestelmälle noudattaa osan elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814283"
 name: Microsoft Office 2003 Web Components 2007 Microsoft Office -järjestelmälle
-summary: "Microsoft Office 2003 Web Components 2007 Microsoft Office -järjestelmälle noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. \n\n\n"
+summary: |+
+  Microsoft Office 2003 Web Components 2007 Microsoft Office -järjestelmälle noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. 
+
+
 products:
-- office
+  - office
 policyType: component
 supportDates:
   start: 01/27/2007
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/office/troubleshoot/support/office-2007-not-support)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](/office/troubleshoot/support/office-2007-not-support)

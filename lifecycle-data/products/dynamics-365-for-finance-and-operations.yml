@@ -3,21 +3,29 @@ metadata:
   title: Dynamics 365 for Finance and Operations
   description: Dynamics 365 for Finance and Operations noudattaa modernia elinkaarikäytäntöä.
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 22bc725cf7f990b27f83a506f26a4108f3b9fea9
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048266"
+  keywords: null
 name: Dynamics 365 for Finance and Operations
-summary: "Dynamics 365 for Finance and Operations noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Enterprise\n\n"
+summary: |+
+  Dynamics 365 for Finance and Operations noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: Enterprise
+
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 02/19/2016
 releases:
-- version: Original Release
-  startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Linkit \n* [Microsoft Dynamics 365:n etenemissuunnitelma](https://roadmap.dynamics.com/)\n* [Poistetut tai vanhentuneet ominaisuudet](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Huoltotiedot](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Järjestelmävaatimukset](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise"
+  - version: Original Release
+    startDate: 02/19/2016
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Microsoft Dynamics 365:n etenemissuunnitelma](https://roadmap.dynamics.com/)
+  * [Poistetut tai vanhentuneet ominaisuudet](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [Huoltotiedot](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
+  * [Järjestelmävaatimukset](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
+
+
+  ## <a name="editions"></a>Versiot 
+  * Enterprise

@@ -3,26 +3,29 @@ metadata:
   title: Microsoft System Center Data Protection Manager 2007
   description: Microsoft System Center Data Protection Manager 2007 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814808"
 name: Microsoft System Center Data Protection Manager 2007
-summary: "Microsoft System Center Data Protection Manager 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
+summary: |
+  Microsoft System Center Data Protection Manager 2007 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 12/15/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/19/2008
-  endDate: 01/09/2018
-- version: Original Release
-  startDate: 12/15/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 1
+    startDate: 12/19/2008
+    endDate: 01/09/2018
+  - version: Original Release
+    startDate: 12/15/2007
+    endDate: 01/12/2010
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)
+  * [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)
