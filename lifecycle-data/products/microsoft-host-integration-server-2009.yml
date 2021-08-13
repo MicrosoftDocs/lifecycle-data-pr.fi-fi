@@ -3,23 +3,25 @@ metadata:
   title: Microsoft Host Integration Server 2009
   description: Microsoft Host Integration Server 2009 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814541"
 name: Microsoft Host Integration Server 2009
-summary: "Microsoft Host Integration Server 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta. \n"
+summary: |
+  Microsoft Host Integration Server 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta. 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/21/2009
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 06/21/2009
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"
+  - version: Original Release
+    startDate: 06/21/2009
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)

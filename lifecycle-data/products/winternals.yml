@@ -3,24 +3,34 @@ metadata:
   title: Winternals
   description: Winternals noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: Administrator's Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0
-  ms.openlocfilehash: 23c4939c233902db0803caa6a5de406ab138bcb4
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938702"
+  keywords: 'Administrator''s Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0'
 name: Winternals
-summary: "Winternals noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0\n\n"
+summary: |+
+  Winternals noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
   extendedEnd: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Linkit \n* [Microsoftin yritysostojen elinkaarikäytäntö](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Ei sisällä versioita, joiden tuki on lopetettu aiemmin. Tälle tuotteelle on saatavissa tukea hankintaehtojen mukaisesti.\n\n## <a name=\"editions\"></a>Versiot \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Microsoftin yritysostojen elinkaarikäytäntö](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)
+
+  > [!NOTE]
+  > Ei sisällä versioita, joiden tuki on lopetettu aiemmin. Tälle tuotteelle on saatavissa tukea hankintaehtojen mukaisesti.
+
+  ## <a name="editions"></a>Versiot 
+  * Administrator's Pak 5.0
+  * Defrag Manager 3.0
+  * Protection Manager 2.0
+  * Recovery Manager 3.0
