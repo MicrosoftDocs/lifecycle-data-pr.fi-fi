@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001978"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Microsoft Antigen noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: 9.0 Exchangelle, Enterprise Manager 9.0, SMTP-yhdyskäytäville, Roskapostin hallinta
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront-brändin tietoturvatuotteiden etenemissuunnitelma on muuttunut. Tämä tuote lopetetaan 31.12.2015.\n\n## <a name=\"editions\"></a>Versiot \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* SMTP-yhdyskäytäviä varten\n* Roskapostin hallinta\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Forefront-brändin tietoturvatuotteiden etenemissuunnitelma on muuttunut.\_Tämä tuote lopetetaan 31.12.2015.\n\n## <a name=\"editions\"></a>Versiot \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* SMTP-yhdyskäytäviä varten\n* Roskapostin hallinta\n"

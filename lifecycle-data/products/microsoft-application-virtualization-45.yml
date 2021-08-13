@@ -3,30 +3,41 @@ metadata:
   title: Microsoft Application Virtualization 4.5
   description: Microsoft Application Virtualization 4.5 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: for Terminal Services,for Windows Desktops
-  ms.openlocfilehash: 2d8a71caede673b568a595526f4e1c9ce41a1778
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935631"
+  keywords: 'for Terminal Services,for Windows Desktops'
 name: Microsoft Application Virtualization 4.5
-summary: "Microsoft Application Virtualization 4.5 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: for Terminal Services, for Windows Desktops\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
+summary: |
+  Microsoft Application Virtualization 4.5 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: for Terminal Services, for Windows Desktops
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Koska App-V 4.6 -asiakasohjelma käyttää App-V 4.5-palvelinta, App-V 4.5-palvelinta tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakasohjelman kanssa.\n\n## <a name=\"editions\"></a>Versiot \n* for Terminal Services\n* for Windows Desktops"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Koska App-V 4.6 -asiakasohjelma käyttää App-V 4.5-palvelinta, App-V 4.5-palvelinta tuetaan edelleen App-V 4.6:n elinkaaripäivien mukaan, kun sitä käytetään tuetun App-V 4.6 -asiakasohjelman kanssa.
+
+  ## <a name="editions"></a>Versiot 
+  * for Terminal Services
+  * for Windows Desktops

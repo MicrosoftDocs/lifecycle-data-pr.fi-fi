@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172037"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Huomaa, että tämän tuotteen vanhan version tuki päättyy 9.3.2021. Lue lisää [täältä](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>Linkit \n* [Microsoft Edgen tukemat käyttöjärjestelmät](/deployedge/microsoft-edge-supported-operating-systems)\n* [Elinkaaren UKK - Internet Explorer ja Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edgen elinkaarikäytäntö](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>Linkit 
+  * [Microsoft Edgen tukemat käyttöjärjestelmät](/deployedge/microsoft-edge-supported-operating-systems)
+  * [Elinkaaren UKK - Internet Explorer ja Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  * [Microsoft Edgen elinkaarikäytäntö](/deployedge/microsoft-edge-support-lifecycle)

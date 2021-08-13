@@ -3,26 +3,23 @@ metadata:
   title: Microsoft BizTalk Adapters for Host Systems
   description: Microsoft BizTalk Adapters for Host Systems noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814916"
 name: Microsoft BizTalk Adapters for Host Systems
-summary: >+
+summary: |+
   Microsoft BizTalk Adapters for Host Systems noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 04/11/2017
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)

@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: Microsoft BizTalk Adapter 2.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934743"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk Adapter 2.0
-summary: >+
+summary: |+
   Microsoft BizTalk Adapter 2.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: MSMQ, mySAP Business Suite, SAP
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> SAP:n Microsoft BizTalk Adapter 2.0:n aloituspäivämäärä on 2.11.2004. MSMQ 2.0:n Microsoft BizTalk Adapter aloituspäivä on 10.12.2004\n\n## <a name=\"editions\"></a>Versiot \n* MSMQ\n* mySAP Business Suite\n* SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > SAP:n Microsoft BizTalk Adapter 2.0:n aloituspäivämäärä on 2.11.2004. MSMQ 2.0:n Microsoft BizTalk Adapter aloituspäivä on 10.12.2004
+
+  ## <a name="editions"></a>Versiot 
+  * MSMQ
+  * mySAP Business Suite
+  * SAP

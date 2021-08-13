@@ -3,22 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852958"
 name: Windows Phone 8.1
-summary: "Windows Phone 8.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt.\n"
+summary: |
+  Windows Phone 8.1 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linkit \n* [Windows Phone 8.1 – usein kysytyt kysymykset](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft tekee käyttöjärjestelmään päivityksiä, mukaan lukien tietoturvapäivityksiä, vähintään 36 kuukauden ajan elinkaaren alkamispäivästä lukien. Päivitykset ovat lisääviä, ja jokaisen päivityksen perustana on sitä edeltävä päivitys. Asiakkaiden on asennettava jokainen julkaistu päivitys, jotta tuki säilyy. Näiden lisäpäivitysten jakelua voi hallita matkapuhelinoperaattori tai puhelimen valmistaja, jolta puhelin ostettiin, ja asennus edellyttää, että puhelimessa on aiemmat päivitykset. Päivitysten saatavuus vaihtelee myös maan, alueen ja laitteisto-ominaisuuksien mukaan."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Windows Phone 8.1 – usein kysytyt kysymykset](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft tekee käyttöjärjestelmään päivityksiä, mukaan lukien tietoturvapäivityksiä, vähintään 36 kuukauden ajan elinkaaren alkamispäivästä lukien. Päivitykset ovat lisääviä, ja jokaisen päivityksen perustana on sitä edeltävä päivitys. Asiakkaiden on asennettava jokainen julkaistu päivitys, jotta tuki säilyy. Näiden lisäpäivitysten jakelua voi hallita matkapuhelinoperaattori tai puhelimen valmistaja, jolta puhelin ostettiin, ja asennus edellyttää, että puhelimessa on aiemmat päivitykset. Päivitysten saatavuus vaihtelee myös maan, alueen ja laitteisto-ominaisuuksien mukaan.
