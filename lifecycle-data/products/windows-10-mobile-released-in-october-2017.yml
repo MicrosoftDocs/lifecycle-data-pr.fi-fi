@@ -1,31 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile, julkaistu lokakuussa 2017
+  title: 'Windows 10 Mobile, julkaistu lokakuussa 2017'
   description: Lokakuussa 2017 julkaistu Windows 10 Mobile noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869071"
-name: Windows 10 Mobile, julkaistu lokakuussa 2017
-summary: >
+name: 'Windows 10 Mobile, julkaistu lokakuussa 2017'
+summary: |
   Lokakuussa 2017 julkaistu Windows 10 Mobile noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
-
   > [!IMPORTANT]
-
   > Tämän tuotteen tuki on päättynyt.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/17/2017
   end: 12/10/2019
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Linkit \n* [Laitteiden käyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobilen tuki päättyy 10.joulukuuta, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 10/17/2017
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Laitteiden käyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobilen tuki päättyy 10.joulukuuta, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)

@@ -3,24 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002646"
+  keywords: null
 name: Workflow Manager 1.0
-summary: "Workflow Manager 1.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Client, Standard\n\n"
+summary: |+
+  Workflow Manager 1.0 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: Client, Standard
+
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linkit \n* [SharePoint 2016:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kun Workflow Manager on SharePoint Server 2016:n tai SharePoint Server 2013:n osa, sitä tuetaan kyseisen SharePoint Server -version tuen päättymisen mukaan.\n\n## <a name=\"editions\"></a>Versiot \n* Client\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [SharePoint 2016:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [SharePoint 2013:n ylläpitotiedot](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Kun Workflow Manager on SharePoint Server 2016:n tai SharePoint Server 2013:n osa, sitä tuetaan kyseisen SharePoint Server -version tuen päättymisen mukaan.
+
+  ## <a name="editions"></a>Versiot 
+  * Asiakas
+  * Standard

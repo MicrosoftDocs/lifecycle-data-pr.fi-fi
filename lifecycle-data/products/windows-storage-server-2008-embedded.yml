@@ -3,24 +3,37 @@ metadata:
   title: Windows Storage Server 2008 Embedded
   description: Windows Storage Server 2008 Embedded noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939072"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Embedded
-summary: "Windows Storage Server 2008 Embedded noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup\n\n"
+summary: |+
+  Windows Storage Server 2008 Embedded noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: 32-bittinen, 64-bittinen, Perus, 32-bittinen perus, Yrityksen, Standard, Työryhmä
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Tämän tuotteen tuki on päättynyt. Alla on siirtymäopastusta.\n\n## <a name=\"editions\"></a>Versiot \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Tämän tuotteen tuki on päättynyt. Alla on siirtymäopastusta.
+
+  ## <a name="editions"></a>Versiot 
+  * 32-bittinen
+  * 64-bittinen
+  * Basic
+  * Basic 32-Bit
+  * Enterprise
+  * Standard
+  * Workgroup

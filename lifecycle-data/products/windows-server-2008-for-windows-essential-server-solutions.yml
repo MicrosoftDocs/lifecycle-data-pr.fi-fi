@@ -3,27 +3,36 @@ metadata:
   title: Windows Server 2008 for Windows Essential Server Solutions
   description: Windows Server 2008 for Windows Essential Server Solutions noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939553"
+  keywords: 'Standard,without Hyper-V'
 name: Windows Server 2008 for Windows Essential Server Solutions
-summary: "Windows Server 2008 for Windows Essential Server Solutions noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Standard, ilman Hyper-V:tä\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
+summary: |
+  Windows Server 2008 for Windows Essential Server Solutions noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: Standard, ilman Hyper-V:tä
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/18/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 02/18/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://aka.ms/AA1ovn4)\n* [Tuotteen tiedot](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* ilman Hyper-V:tä"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 02/18/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](https://aka.ms/AA1ovn4)
+  * [Tuotteen tiedot](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)
+
+
+  ## <a name="editions"></a>Versiot 
+  * Standard
+  * ilman Hyper-V:tä
