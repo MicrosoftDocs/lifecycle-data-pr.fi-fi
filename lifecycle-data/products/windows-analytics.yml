@@ -3,29 +3,24 @@ metadata:
   title: Windows Analytics
   description: Windows Analytics noudattaa modernia elinkaarikäytäntöä.
   ms.date: 08/11/2020
-  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
-  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/11/2020
-  ms.locfileid: "887852"
 name: Windows Analytics
-summary: >
+summary: |
   Windows Analytics noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
-
   > [!IMPORTANT]
-
   > Tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 03/02/2017
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+  - version: Original Release
+    startDate: 03/02/2017
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)

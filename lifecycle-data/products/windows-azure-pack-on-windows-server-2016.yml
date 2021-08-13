@@ -1,28 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Azure Pack (Windows Server 2016:ssa)
-  description: Windows Azure Pack (Windows Server 2016:ssa) noudattaa kiinteää elinkaarikäytäntöä.
+  title: 'Windows Azure Pack (Windows Server 2016:ssa)'
+  description: 'Windows Azure Pack (Windows Server 2016:ssa) noudattaa kiinteää elinkaarikäytäntöä.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852699"
-name: Windows Azure Pack (Windows Server 2016:ssa)
-summary: >+
+name: 'Windows Azure Pack (Windows Server 2016:ssa)'
+summary: |+
   Windows Azure Pack (Windows Server 2016:ssa) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Linkit \n* [Lisätietoja](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack for Windows Server on yhdistelmäpilviratkaisu, joka tuo Windows Azure -tekniikat palvelinkeskukseesi. Sen avulla Microsoftin asiakkaat voivat tarjota datakeskuksen laitteistossa monipuolisen ja itsepalveluperiaatteella toimivan usean vuokraajan pilvipalvelun ilman lisämaksua."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Lisätietoja](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Azure Pack for Windows Server on yhdistelmäpilviratkaisu, joka tuo Windows Azure -tekniikat palvelinkeskukseesi. Sen avulla Microsoftin asiakkaat voivat tarjota datakeskuksen laitteistossa monipuolisen ja itsepalveluperiaatteella toimivan usean vuokraajan pilvipalvelun ilman lisämaksua.

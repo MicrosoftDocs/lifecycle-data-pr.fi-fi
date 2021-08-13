@@ -1,24 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, julkaistu huhtikuussa 2017
+  title: 'Windows 10 Mobile Enterprise, julkaistu huhtikuussa 2017'
   description: Huhtikuussa 2017 julkaistu Windows 10 Mobile Enterprise noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e5723a855fe7570c41c67907aa258410c83c8ab6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869046"
-name: Windows 10 Mobile Enterprise, julkaistu huhtikuussa 2017
-summary: "Huhtikuussa 2017 julkaistu Windows 10 Mobile Enterprise noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
+name: 'Windows 10 Mobile Enterprise, julkaistu huhtikuussa 2017'
+summary: |
+  Huhtikuussa 2017 julkaistu Windows 10 Mobile Enterprise noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/25/2017
   end: 06/11/2019
 releases:
-- version: Original Release
-  startDate: 04/25/2017
-  endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>Linkit \n* [Laitteiden käyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobilen tuki päättyy 10.joulukuuta, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 04/25/2017
+    endDate: 06/11/2019
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Laitteiden käyttöjärjestelmän elinkaaren usein kysytyt kysymykset](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobilen tuki päättyy 10.joulukuuta, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)
