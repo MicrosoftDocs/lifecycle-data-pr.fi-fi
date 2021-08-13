@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940827"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft tekee käyttöjärjestelmään päivityksiä, mukaan lukien tietoturvapäivityksiä, vähintään 36 kuukauden ajan elinkaaren alkamispäivästä lukien. Päivitykset ovat lisääviä, ja jokaisen päivityksen perustana on sitä edeltävä päivitys. Asiakkaiden on asennettava jokainen julkaistu päivitys, jotta tuki säilyy. Näiden lisäpäivitysten jakelua voi hallita matkapuhelinoperaattori tai puhelimen valmistaja, jolta puhelin ostettiin, ja asennus edellyttää, että puhelimessa on aiemmat päivitykset. Päivitysten saatavuus vaihtelee myös maan, alueen ja laitteisto-ominaisuuksien mukaan."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft tekee käyttöjärjestelmään päivityksiä, mukaan lukien tietoturvapäivityksiä, vähintään 36 kuukauden ajan elinkaaren alkamispäivästä lukien. Päivitykset ovat lisääviä, ja jokaisen päivityksen perustana on sitä edeltävä päivitys. Asiakkaiden on asennettava jokainen julkaistu päivitys, jotta tuki säilyy. Näiden lisäpäivitysten jakelua voi hallita matkapuhelinoperaattori tai puhelimen valmistaja, jolta puhelin ostettiin, ja asennus edellyttää, että puhelimessa on aiemmat päivitykset. Päivitysten saatavuus vaihtelee myös maan, alueen ja laitteisto-ominaisuuksien mukaan.

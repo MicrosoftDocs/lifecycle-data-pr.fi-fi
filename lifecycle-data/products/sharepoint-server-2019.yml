@@ -4,26 +4,26 @@ metadata:
   description: SharePoint Server 2019 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 04aeff151809d56448eda49c96441651a9675171
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941667"
 name: SharePoint Server 2019
-summary: >+
+summary: |+
   SharePoint Server 2019 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/22/2018
   end: 01/09/2024
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 10/22/2018
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> Katso [tuote-](https://docs.microsoft.com/sharepoint/sharepoint-server) ja [kehittäjä](https://developer.microsoft.com/sharepoint/docs) dokumentaatio."
+  - version: Original Release
+    startDate: 10/22/2018
+    endDate: 07/14/2026
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Huoltotiedot](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)
+
+  > [!NOTE]
+  > Katso [tuote-](https://docs.microsoft.com/sharepoint/sharepoint-server) ja [kehittäjä](https://developer.microsoft.com/sharepoint/docs) dokumentaatio.

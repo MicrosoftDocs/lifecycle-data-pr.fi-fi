@@ -1,24 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Automated Installation Kit for Windows 7
-  description: Windows 7:n Windows Automated Installation Kit noudattaa kiinteää elinkaarikäytäntöä.
+  description: 'Windows 7:n Windows Automated Installation Kit noudattaa kiinteää elinkaarikäytäntöä.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "814220"
 name: Windows Automated Installation Kit for Windows 7
-summary: "Windows 7:n Windows Automated Installation Kit noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt.\n"
+summary: |
+  Windows 7:n Windows Automated Installation Kit noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 01/13/2015
-content: ''
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 01/13/2015
+content: |+

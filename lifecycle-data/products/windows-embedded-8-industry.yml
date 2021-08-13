@@ -3,33 +3,33 @@ metadata:
   title: Windows Embedded 8 Industry
   description: Windows Embedded 8 Industry noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/10/2020
-  keywords: Enterprise,Pro
-  ms.openlocfilehash: d14babf394a315b631da1b0d71baa96088efa14d
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002152"
+  keywords: 'Enterprise,Pro'
 name: Windows Embedded 8 Industry
-summary: >
+summary: |
   Windows Embedded 8 Industry noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: Enterprise, Pro
 
-
   > [!IMPORTANT]
-
   > Asiakkaiden on siirryttävä Windows 8.1:een, jotta he voivat jäädä tuen piiriin.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 06/24/2013
   end: 01/12/2016
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 06/24/2013
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirtymisohjeet](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Pro"
+  - version: Original Release
+    startDate: 06/24/2013
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Siirtymisohjeet](https://www.microsoft.com/download/details.aspx?id=40279)
+  * [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Versiot 
+  * Enterprise
+  * Pro

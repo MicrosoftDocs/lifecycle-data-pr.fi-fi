@@ -3,33 +3,32 @@ metadata:
   title: Ohjelmistojen käyttöoikeus- ja suojauspalvelin
   description: Ohjelmiston käyttöoikeus- ja suojauspalvelin noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001053"
+  keywords: 'Enterprise,Standard'
 name: Ohjelmistojen käyttöoikeus- ja suojauspalvelin
-summary: >
+summary: |
   Ohjelmiston käyttöoikeus- ja suojauspalvelin noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Ohjelmistojen käyttöoikeus- ja suojaus palvelimen (SLPS) myynnin vuoksi Microsoft tuki SLPS:tä 24.9.2009 saakka.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkit \n* [Ohjelmistojen käyttöoikeus- ja suojauspalvelin (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Ohjelmistojen käyttöoikeus- ja suojauspalvelin (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Versiot 
+  * Enterprise
+  * Standard
