@@ -4,28 +4,30 @@ metadata:
   description: SharePoint Designer 2013 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/10/2020
   keywords: Designer
-  ms.openlocfilehash: 158c0dee37ae297e6ef3c14e3c74ab1996eaad21
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001127"
 name: SharePoint Designer 2013
-summary: >+
+summary: |+
   SharePoint Designer 2013 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
 
   Tämä koskee seuraavia versioita: Designer
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Linkit \n* [Tuen tiedot](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Microsoft SharePoint Designer 2013:n tukea laajennetaan kuvan mukaisesti yhteensopivuuden varmistamiseksi SharePoint Server 2016:n kanssa.\n\n## <a name=\"editions\"></a>Versiot \n* Designer"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Tuen tiedot](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Microsoft SharePoint Designer 2013:n tukea laajennetaan kuvan mukaisesti yhteensopivuuden varmistamiseksi SharePoint Server 2016:n kanssa.
+
+  ## <a name="editions"></a>Versiot 
+  * Designer
