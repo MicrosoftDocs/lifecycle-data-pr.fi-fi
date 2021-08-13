@@ -4,23 +4,30 @@ metadata:
   description: Windows 10 2015 LTSB noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 201717bb796cb84e455c4f4e81f0a1b32516e1c7
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938443"
 name: Windows 10 2015 LTSB
-summary: "Windows 10 2015 LTSB noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Enterprise\n\n"
+summary: |+
+  Windows 10 2015 LTSB noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: Enterprise
+
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/29/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linkit \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC:n toistuvat kysymykset](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10:n lokakuun 2018 päivityksen (versio 1809) uudelleenjulkaisu](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Versiot \n* Enterprise"
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Windows 10 LTSC:n toistuvat kysymykset](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Windows 10:n lokakuun 2018 päivityksen (versio 1809) uudelleenjulkaisu](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Versiot 
+  * Enterprise

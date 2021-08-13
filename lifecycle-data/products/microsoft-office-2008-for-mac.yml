@@ -3,29 +3,40 @@ metadata:
   title: Microsoft Office 2008 for Mac
   description: Microsoft Office 2008 for Mac noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
-  keywords: Business,Home and Student,Special Media Editon
-  ms.openlocfilehash: ba599ca4191c7e1a219f31d77797c9799adeca7c
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162404"
+  keywords: 'Business,Home and Student,Special Media Editon'
 name: Microsoft Office 2008 for Mac
-summary: "Microsoft Office 2008 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
+summary: |
+  Microsoft Office 2008 for Mac noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+  Tämä koskee seuraavia versioita: Business, Home and Student, Special Media Edition
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/15/2008
   end: 04/09/2013
 releases:
-- version: Service Pack 2
-  startDate: 07/20/2009
-  endDate: 04/09/2013
-- version: Service Pack 1
-  startDate: 05/13/2008
-  endDate: 10/12/2010
-- version: Original Release
-  startDate: 01/15/2008
-  endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkit \n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac Special Media Editionin aloituspäivä on 12.3.2008.\n\n## <a name=\"editions\"></a>Versiot \n* Business\n* Home and Student\n* Special Media Edition"
+  - version: Service Pack 2
+    startDate: 07/20/2009
+    endDate: 04/09/2013
+  - version: Service Pack 1
+    startDate: 05/13/2008
+    endDate: 10/12/2010
+  - version: Original Release
+    startDate: 01/15/2008
+    endDate: 07/14/2009
+content: |
+
+  ## <a name="links"></a>Linkit 
+  * [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Office 2008 for Mac Special Media Editionin aloituspäivä on 12.3.2008.
+
+  ## <a name="editions"></a>Versiot 
+  * Business
+  * Home and Student
+  * Special Media Edition
