@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Business Solutions -yritysportaali
   description: Microsoft Business Solutions -yritysportaali noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904044"
 name: Microsoft Business Solutions -yritysportaali
-summary: >+
+summary: |+
   Microsoft Business Solutions -yritysportaali noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/18/2003
   end: 01/08/2008
 releases:
-- version: Business Solutions Business Portal 2.5
-  startDate: 08/01/2004
-  endDate: 01/08/2008
-- version: Business Solutions Business Portal 2.0
-  startDate: 01/01/2004
-  endDate: 04/10/2007
-- version: Business Solutions Business Portal 1.2
-  startDate: 07/18/2003
-  endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Microsoft Business Solutions -yritysportaali 2.5:tä tuettiin vain, kun sitä käytettiin joko Great Plains 8.0:n tai Solomon 6.0:n kanssa."
+  - version: Business Solutions Business Portal 2.5
+    startDate: 08/01/2004
+    endDate: 01/08/2008
+  - version: Business Solutions Business Portal 2.0
+    startDate: 01/01/2004
+    endDate: 04/10/2007
+  - version: Business Solutions Business Portal 1.2
+    startDate: 07/18/2003
+    endDate: 12/31/2004
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft Business Solutions -yritysportaali 2.5:tä tuettiin vain, kun sitä käytettiin joko Great Plains 8.0:n tai Solomon 6.0:n kanssa.

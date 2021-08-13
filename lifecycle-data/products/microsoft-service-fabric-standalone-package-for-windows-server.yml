@@ -3,20 +3,20 @@ metadata:
   title: Service Fabricin erillispaketti Windows Serverille
   description: Service Fabricin erillispaketti Windows Serverille noudattaa modernia elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852979"
 name: Service Fabricin erillispaketti Windows Serverille
-summary: "Service Fabricin erillispaketti Windows Serverille noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\n\n"
+summary: |+
+  Service Fabricin erillispaketti Windows Serverille noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. 
+
+
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 09/26/2016
 releases:
-- version: Original Release
-  startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/azure/service-fabric/service-fabric-support)"
+  - version: Original Release
+    startDate: 09/26/2016
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Huoltotiedot](/azure/service-fabric/service-fabric-support)

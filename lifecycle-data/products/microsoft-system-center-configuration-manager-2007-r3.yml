@@ -3,23 +3,26 @@ metadata:
   title: Microsoft System Center Configuration Manager 2007 R3
   description: Microsoft System Center Configuration Manager 2007 R3 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: fi-FI
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853097"
 name: Microsoft System Center Configuration Manager 2007 R3
-summary: "Microsoft System Center Configuration Manager 2007 R3 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.\n"
+summary: |
+  Microsoft System Center Configuration Manager 2007 R3 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
+
+
+  > [!IMPORTANT]
+  > Tämän tuotteen tuki on päättynyt. Katso siirtymäohjeet alta.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 12/19/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 12/19/2010
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Siirtymistä koskevat lisäohjeet](/mem/configmgr/core/migration/planning-for-migration)"
+  - version: Original Release
+    startDate: 12/19/2010
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Linkit 
+  * [Siirron ohjeistus](/mem/configmgr/core/migration/migrate-data-between-hierarchies)
+  * [Siirtymistä koskevat lisäohjeet](/mem/configmgr/core/migration/planning-for-migration)
