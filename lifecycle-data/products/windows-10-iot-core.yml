@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core noudattaa modernia elinkaarikäytäntöä.
-  ms.date: 06/23/2021
+  ms.date: 08/25/2021
   keywords: 
-  ms.openlocfilehash: 8f30578d5acedfe216a8675caa9d4a8e884fb0949e0b1cab79f12d187d01a701
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 207e911fb8f66eb14b71ee86fd36e7c0249264d5
+  ms.sourcegitcommit: 45b05baa69f8e2288d323e8324b0113adadda463
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2510571"
+  ms.lasthandoff: 08/25/2021
+  ms.locfileid: "3164377"
 name: Windows 10 IoT Core
 summary: "Windows 10 IoT Core noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\n\n\n\n> [!IMPORTANT]\n> Tuote jäi eläkkeelle 10.11.2020. Jos haluat pysyä tuen piirissä, siirry [IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal) -palveluihin.\n\n"
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 11/10/2015
+  start: 04/29/2015
   end: 11/10/2020
 releases:
 - version: Version 1809
@@ -37,4 +37,7 @@ releases:
 - version: Version 1511
   startDate: 11/10/2015
   endDate: 10/10/2017
+- version: Original Release
+  startDate: 04/29/2015
+  endDate: 11/10/2020
 content: "\n\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n* [Windowsin elinkaaritiedote](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)"
