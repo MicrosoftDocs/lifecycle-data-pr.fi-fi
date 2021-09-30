@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook LTSC 2021
+  description: Outlook LTSC 2021 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 09/16/2021
+  keywords: Office,Standard,Standard for Mac
+  ms.openlocfilehash: 03e5af4adf36794bffb032bf6e51f0af1d59f950
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3457608"
+name: Outlook LTSC 2021
+summary: >+
+  Outlook LTSC 2021 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  Tämä koskee seuraavia versioita: Standard, Standard for Mac
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Järjestelmävaatimukset](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n\n\n## <a name=\"editions\"></a>Versiot \n* Standard\n* Standard for Mac"
