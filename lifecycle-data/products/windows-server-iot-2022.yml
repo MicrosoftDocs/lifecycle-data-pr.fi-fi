@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Windows Server IoT 2022 noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508057"
+name: Windows Server IoT 2022
+summary: >+
+  Windows Server IoT 2022 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
+  Tämä koskee seuraavia versioita: Datacenter, Standard, Storage Standard, Storage Workgroup, Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren usein kysytyt kysymykset - Windows-tuotteet](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Microsoft Edge noudattaa [modernia elinkaarikäytäntöä](https://docs.microsoft.com/lifecycle/policies/modern). Lisätietoja selaimen päivittämisestä ja tuesta on [Edgen elinkaariohjeissa](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle).\n\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Standard\n* Storage Standard\n* Storage Workgroup\n* Telecommunications"

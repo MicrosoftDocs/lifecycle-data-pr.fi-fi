@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173033"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508013"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 
-  Tämä koskee seuraavia versioita: Datacenter, Datacenter: Azure Edition, Standard
+  Tämä koskee seuraavia versioita: Datacenter, Datacenter: Azure Edition, Essentials, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren UKK - Windows](/lifecycle/faq/windows)\n* [Tuotteen tiedot](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Windows Server 2022:n kanssa julkaistut säilöt noudattavat samoja elinkaaren päivämääriä. \n\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Datacenter: Azure Edition\n* Standard"
+content: "> [!TIP]\n> Microsoft Edge noudattaa [modernia elinkaarikäytäntöä](https://docs.microsoft.com/lifecycle/policies/modern). Lisätietoja selaimen päivittämisestä ja tuesta on [Edgen elinkaariohjeissa](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle).\n\n\n## <a name=\"links\"></a>Linkit \n* [Elinkaaren UKK - Windows](/lifecycle/faq/windows)\n* [Tuotteen tiedot](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Windows Server 2022:n kanssa julkaistut säilöt noudattavat samoja elinkaaren päivämääriä. \n\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"
