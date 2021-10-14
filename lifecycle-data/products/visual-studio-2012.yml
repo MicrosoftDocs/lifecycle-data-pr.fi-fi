@@ -2,53 +2,31 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509173"
 name: Visual Studio 2012
-summary: |+
-  Visual Studio 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
-
-  Tämä koskee seuraavia versioita: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (integroitu), Shell (eristetty), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
-
+summary: "Visual Studio 2012 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\nTämä koskee seuraavia versioita: Express for Web, Express for Windows Desktop, Premium, Professional, Team Explorer, Ultimate\n\n\n\n"
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Linkit 
-  * [Visual Studio -tuotteen elinkaari ja huolto](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Versiot 
-  * Agents
-  * Community 2013
-  * Express for Web
-  * Express for Windows 8
-  * Express for Windows Desktop
-  * IntelliTrace Collector
-  * Microsoft Azure Tools
-  * Premium
-  * Professional
-  * Remote Tools
-  * Shell (integroitu)
-  * Shell (eristetty)
-  * SQL Server Data Tools
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ Redistributable
-  * Web Tools Extensions
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot Visual Studion vanhemmille versioille](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Service Pack -tukikäytäntö](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Seuraavien komponenttien Visual Studio 2012 -versiot toimitetaan ja niitä tuetaan osana Visual Studio 2012:ta elinkaarta: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Versiot \n* Express for Web\n* Express for Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"

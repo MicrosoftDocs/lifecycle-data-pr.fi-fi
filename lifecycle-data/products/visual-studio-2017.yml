@@ -2,48 +2,28 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509210"
 name: Visual Studio 2017
-summary: |+
-  Visual Studio 2017 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. 
-
-  Tämä koskee seuraavia versioita: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
-
+summary: "Visual Studio 2017 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\nTämä koskee seuraavia versioita: Community, Enterprise, Professional, Test Professional\n\n\n\n"
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-  - version: Version 15.9
-    startDate: 11/13/2018
-    endDate: 04/13/2027
-  - version: Version 15.0
-    startDate: 03/07/2017
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Linkit 
-  * [Ilmoitus](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
-  * [Huoltotiedot](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
-
-
-  ## <a name="editions"></a>Versiot 
-  * Agents
-  * Build Tools
-  * Community
-  * Enterprise
-  * ESM
-  * Feedback Client
-  * for Mac
-  * IntelliTrace Standalone Collector
-  * Performance Tools
-  * Professional
-  * PSM
-  * Remote Tools
-  * Team Explorer
-  * Test Professional
-  * Visual C++ Redistributable
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Visual Studion blogi-ilmoitukset](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Huoltotiedot](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Visual Studio 2017 -lataussivu](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Visual Studio 2017 -julkaisutiedot](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> Seuraavien komponenttien Visual Studio 2017 -versiot toimitetaan ja niitä tuetaan osana Visual Studio 2017:ta elinkaarta: Agents, Build Tools, ESM, Feedback Client, IntelliTrace Standalone Collector, Performance Tools, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Versiot \n* Community\n* Enterprise\n* Professional\n* Test Professional"

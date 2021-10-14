@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509284"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   Visual Studio 2015 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
-  Tämä koskee seuraavia versioita: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, TPS, Visual C++ Redistributable
+
+
+  Tämä koskee seuraavia versioita: Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Professional, Release Management, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>Linkit 
-  * [Huoltotiedot](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Versiot 
-  * Agents
-  * Community
-  * Enterprise
-  * ESM
-  * Express for Web
-  * Express for Windows 10
-  * Express for Windows Desktop
-  * Modeling SDK
-  * Professional
-  * PSM
-  * Release Management
-  * Remote Tools
-  * SDK
-  * Shell (Integrated)
-  * Shell (Isolated)
-  * Test Professional
-  * TPS
-  * Visual C++ Redistributable
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot Visual Studion vanhemmille versioille](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Service Pack -tukikäytäntö](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Seuraavien komponenttien Visual Studio 2015 -versiot toimitetaan ja niitä tuetaan osana Visual Studio 2015:ta elinkaarta: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (integroitu), Shell (eristetty), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Versiot \n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Professional\n* Release Management\n* Test Professional"

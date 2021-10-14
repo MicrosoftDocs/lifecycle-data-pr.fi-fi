@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Enterprise and Education (versio 21H2)
+  description: Windows 11 Enterprise and Education (versio 21H2) noudattaa modernia elinkaarikäytäntöä.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509346"
+name: Windows 11 Enterprise and Education (versio 21H2)
+summary: >+
+  Windows 11 Enterprise and Education (versio 21H2) noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
+
+
+
+  Tämä koskee seuraavia versioita: Education, Enterprise
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Elinkaaren UKK - Windows](/lifecycle/faq/windows)\n* [Muita Windows resursseja](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Home ja Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Myöhemmät Windows 11:ta osavuotisen kanavan päivitykset voidaan asentaa ennen mainittua Mainstream-tukijakson päättymispäivämäärää, ellei sitä lykätä.\n\n\n## <a name=\"editions\"></a>Versiot \n* Education\n* Enterprise"
