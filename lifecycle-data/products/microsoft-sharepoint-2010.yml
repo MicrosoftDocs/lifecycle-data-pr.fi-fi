@@ -4,23 +4,23 @@ metadata:
   description: Microsoft SharePoint 2010 (for Internet Sites) noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: for Internet Sites Enterprise,for Internet Sites Standard
-  ms.openlocfilehash: dfb9c36507d3a3b4f927b4eceaf379e5f7dad82b41d92a3b6edeb347053f4f6f
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2ace1da1c3d125ad4c0afaf719eed4420a31ecb1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2483769"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4120990"
 name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: "Microsoft SharePoint 2010 (for Internet Sites) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: for Internet Sites Enterprise, for Internet Sites Standard\n\n"
 products:
 - office
 policyType: fixed
 supportDates:
-  start: 06/15/2010
-  end: 10/13/2015
-  extendedEnd: 04/13/2021
+  start: 2010-06-15T00:00:00.000-08:00
+  end: 2015-10-13T22:59:59.999-08:00
+  extendedEnd: 2021-04-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 06/15/2010
-  endDate: 04/13/2021
+  startDate: 2010-06-15T00:00:00.000-08:00
+  endDate: 2021-04-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Linkit \n* [Tuotteen käyttöohjeet](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Kehittäjien dokumentaatio](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Tämän tuotteen tuen päättymispäivää on siirretty vuoden 2020 lokakuun 13. päivästä vuoden 2021 huhtikuun 13. päivään.\n\n## <a name=\"editions\"></a>Versiot \n* for Internet Sites Enterprise\n* for Internet Sites Standard"
