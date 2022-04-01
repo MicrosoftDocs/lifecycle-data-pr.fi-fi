@@ -2,24 +2,31 @@
 metadata:
   title: Microsoft Report Viewer 2010 Redistributable
   description: Microsoft Report Viewer 2010 Redistributable noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
+  ms.date: 02/22/2022
+  keywords: 
+  ms.openlocfilehash: 7d1316a138f130b6345b56a0ff90341b30e8a771
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149702"
 name: Microsoft Report Viewer 2010 Redistributable
-summary: |+
+summary: >+
   Microsoft Report Viewer 2010 Redistributable noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
+
+
+
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
-  start: 06/29/2010
-  end: 07/14/2015
-  extendedEnd: 09/08/2020
+  start: 2010-06-29T00:00:00.000-08:00
+  end: 2015-07-14T22:59:59.999-08:00
+  extendedEnd: 2020-07-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/29/2010
-    endDate: 09/08/2020
-content: |+
-
-  ## <a name="links"></a>Linkit 
-  * [Tuotteen tiedot](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)
+- version: Original Release
+  startDate: 2010-06-29T00:00:00.000-08:00
+  endDate: 2020-07-13T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Tuotteen tiedot](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)\n\n\n> [!NOTE]\n> Microsoft Report Viewer 2010 Redistributable noudattaa [Visual Studio 2010](https://docs.microsoft.com/lifecycle/products/visual-studio-2010) elinkaarikäytäntöä. Ttuen päättymispäivää muutettiin syyskuun 8. päivästä 2020 heinäkuun 13. päivään 2020."

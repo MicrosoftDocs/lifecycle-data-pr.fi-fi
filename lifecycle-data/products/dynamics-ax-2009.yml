@@ -4,26 +4,26 @@ metadata:
   description: Dynamics AX 2009 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 12/17/2020
   keywords: 
-  ms.openlocfilehash: 7bdc94b61d0cd2796ae42a9e5fd23bb0f98efa8bba8fd2c55bbfae84f8fce5bc
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8f78056a379174f18cc26a8a6e94203e4a17160b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2488593"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4151071"
 name: Dynamics AX 2009
 summary: "Dynamics AX 2009 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n"
 products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 08/14/2008
-  end: 10/09/2018
-  extendedEnd: 04/12/2022
+  start: 2008-08-14T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2022-04-12T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 11/03/2008
-  endDate: 04/12/2022
+  startDate: 2008-11-03T00:00:00.000-08:00
+  endDate: 2022-04-12T22:59:59.999-08:00
 - version: Original Release
-  startDate: 08/14/2008
-  endDate: 01/11/2011
+  startDate: 2008-08-14T00:00:00.000-08:00
+  endDate: 2011-01-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365:n siirtymäohjelma](https://dynamics.microsoft.com/migration-program/)\n* [Lisätietoja elinkaaresta](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dynamics AX 2009:n (Service Pack 1) tuen loppua jatkettiin 12.10.2021–12.4.2022."

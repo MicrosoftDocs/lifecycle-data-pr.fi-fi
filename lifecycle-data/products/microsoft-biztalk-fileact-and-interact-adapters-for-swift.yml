@@ -3,20 +3,26 @@ metadata:
   title: Microsoft BizTalk FileAct- ja InterAct-sovittimet SWIFT-käyttöön
   description: Microsoft BizTalk FileAct and InterAct Adapters for SWIFT noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
+  ms.openlocfilehash: e8f70fa4320d18198dc5e53ed2d49ad22c3b0027
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155585"
 name: Microsoft BizTalk FileAct- ja InterAct-sovittimet SWIFT-käyttöön
-summary: |+
+summary: >+
   Microsoft BizTalk FileAct and InterAct Adapters for SWIFT noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
 
 
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 04/10/2007
-  end: 04/10/2012
-  extendedEnd: 04/11/2017
+  start: 2007-04-10T00:00:00.000-08:00
+  end: 2012-04-10T22:59:59.999-08:00
+  extendedEnd: 2017-04-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 04/10/2007
-    endDate: 04/11/2017
-content: |+
+- version: Original Release
+  startDate: 2007-04-10T00:00:00.000-08:00
+  endDate: 2017-04-11T22:59:59.999-08:00
+content: ''

@@ -3,25 +3,22 @@ metadata:
   title: Microsoft Word Macille 2011
   description: Microsoft Word for Mac 2011 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 07/28/2020
+  ms.openlocfilehash: ca5c7b7a44694186475648211fc62b7fca33409e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131535"
 name: Microsoft Word Macille 2011
-summary: |
-  Microsoft Word for Mac 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
-
-
-  > [!IMPORTANT]
-  > Tämän tuotteen tuki on päättynyt. 
+summary: "Microsoft Word for Mac 2011 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n> [!IMPORTANT]\n> Tämän tuotteen tuki on päättynyt. \n"
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/09/2010
-  end: 10/10/2017
+  start: 2010-12-09T00:00:00.000-08:00
+  end: 2017-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/09/2010
-    endDate: 10/10/2017
-content: |+
-
-
-  > [!NOTE]
-  > Microsoft Office for Mac 2011:n Mainstream-tukea laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota elinkaarisiirtymän vakioaikataulu.
+- version: Original Release
+  startDate: 2010-12-09T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Microsoft Office for Mac 2011:n Mainstream-tukea laajennetaan kuvan mukaisesti, jotta kaikille asiakkaille voidaan tarjota elinkaarisiirtymän vakioaikataulu."

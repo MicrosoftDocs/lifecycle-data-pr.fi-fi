@@ -4,22 +4,22 @@ metadata:
   description: Dynamics 365 for Talent noudattaa modernia elinkaarikäytäntöä.
   ms.date: 09/01/2020
   keywords: Onboard
-  ms.openlocfilehash: ff5ee330da2a77374a216513a95639644a72b41de7896d3649a85f842b6f8cdc
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f98dc4df66329e7459a58ac5055c728ce8db3ac0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495623"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4116032"
 name: Dynamics 365 for Talent
 summary: "Dynamics 365 for Talent noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä. \n\nTämä koskee seuraavia versioita: Onboard\n\n"
 products:
 - dynamics
 policyType: modern-online
 supportDates:
-  start: 07/31/2017
-  end: 02/02/2022
+  start: 2017-07-31T00:00:00.000-08:00
+  end: 2022-02-02T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/31/2017
-  endDate: 02/02/2022
+  startDate: 2017-07-31T00:00:00.000-08:00
+  endDate: 2022-02-02T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Linkit \n* [Järjestelmävaatimukset](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Siirron ohjeistus](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract- ja Onboard-sovellukset poistetaan käytöstä 2.2.2022.  Core HR uudelleenjulkaistiin Dynamics 365 Human Resources -ohjelmana 1.2.2020. Lisätietoja on siirtymäohjeissa.\n\n## <a name=\"editions\"></a>Versiot \n* Onboard"

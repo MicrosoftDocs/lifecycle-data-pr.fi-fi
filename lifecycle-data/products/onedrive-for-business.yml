@@ -1,0 +1,23 @@
+### YamlMime:Lifecycle
+metadata:
+  title: OneDrive for Business
+  description: OneDrive for Business noudattaa modernia elinkaarikäytäntöä.
+  ms.date: 12/13/2021
+  keywords: 
+  ms.openlocfilehash: 6bbb17652ecaee62827092a8f1ed514c8f6ac8ab
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156240"
+name: OneDrive for Business
+summary: "OneDrive for Business noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.\n\n\n\n\n> [!IMPORTANT]\n> 1. tammikuuta 2022 alkaen OneDrive for Business -työpöytäsovelluksen tuki noudattaa seuraavia [Windows](https://docs.microsoft.com/lifecycle/products/?products=windows)-elinkaaria, riippuen siitä mihin se on asennettu. Lue lisää [täältä](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/end-of-support-for-onedrive-desktop-application-on-windows-7-8/ba-p/2929066). \n\n"
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 2001-05-31T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2001-05-31T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Julkaisutiedot](https://support.microsoft.com/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0)\n* [Järjestelmävaatimukset](https://support.microsoft.com/office/onedrive-system-requirements-cc0cb2b8-f446-445c-9b52-d3c2627d681e)\n* [Huoltotiedot](/onedrive/sync-client-update-process)"

@@ -1,13 +1,13 @@
 ---
 title: Tuotteet, joiden tuki päättyy 2016
 description: Löydä ne tuotteet, jotka poistuvat käytöstä, joiden tuki päättyy tai jotka siirtyvät Mainstream-tuesta laajennetun tuen piiriin vuonna 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028170"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117549"
 ---
 # <a name="products-ending-support-in-2016"></a>Tuotteet, joiden tuki loppuu 2016
 
@@ -20,13 +20,6 @@ Jos sinulla on tuotetukeen liittyviä kysymyksiä, ota yhteyttä Microsoft-edust
 
 
 
-## <a name="release-end-of-servicing"></a>Julkaisujen ylläpidon päättyminen
-
-Seuraavien [Nykyaikaisen käytännön](/lifecycle/policies/modern) mukaisten tuotteiden tuki päättyy vuonna 2016.
-
-| Tuote | Ylläpidon päättyminen |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, versio 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | torstai 8. joulukuu 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Tuotteet joiden tuki on päättymässä

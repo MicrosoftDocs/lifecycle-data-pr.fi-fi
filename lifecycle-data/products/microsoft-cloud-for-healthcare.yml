@@ -3,22 +3,24 @@ metadata:
   title: Microsoft Cloud for Healthcare
   description: Microsoft Cloud for Healthcare noudattaa modernia elinkaarikäytäntöä.
   ms.date: 10/28/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 53f4831913175b123ec7e890133b90db82418c43
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154549"
 name: Microsoft Cloud for Healthcare
-summary: |+
+summary: >+
   Microsoft Cloud for Healthcare noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 10/28/2020
+  start: 2020-10-28T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 10/28/2020
-content: |+
-
-  ## <a name="links"></a>Linkit 
-  * [Lue lisää Microsoft Cloud for Healthcaresta](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
-  * [Aloita Microsoft Cloud for Healthcaren käyttö](/dynamics365/industry/healthcare/overview)
+- version: Original Release
+  startDate: 2020-10-28T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Linkit \n* [Lue lisää Microsoft Cloud for Healthcaresta](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Aloita Microsoft Cloud for Healthcaren käyttö](/dynamics365/industry/healthcare/overview)"

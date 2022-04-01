@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT Core LTSC
+  description: Windows 10 IoT Core LTSC noudattaa kiinteää elinkaarikäytäntöä.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: f76d40924e9cd5e57e8cb3373424b1ab1be18bfc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156556"
+name: Windows 10 IoT Core LTSC
+summary: "Windows 10 IoT Core LTSC noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.\n\n\n\n\n> [!IMPORTANT]\n> Windows 10 IoT Core LTSC edellyttää [Windows 10 IoT Core palveluita](http://aka.ms/IoTCoreServices). \n\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Windows 10 IoT Core Services -yleisnäkymä](http://aka.ms/IoTCoreServices)\n* [Windows 10 IoT Core -yleisnäkymä](https://aka.ms/windowsiotcore)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 lokakuun 2018 päivitys](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)"

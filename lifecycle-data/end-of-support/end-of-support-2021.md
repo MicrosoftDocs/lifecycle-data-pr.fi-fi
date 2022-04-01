@@ -1,13 +1,13 @@
 ---
 title: Tuotteet, joiden tuki päättyy 2021
 description: Löydä ne tuotteet, jotka poistuvat käytöstä, joiden tuki päättyy tai jotka siirtyvät Mainstream-tuesta laajennetun tuen piiriin vuonna 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4028335"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117475"
 ---
 # <a name="products-ending-support-in-2021"></a>Tuotteet, joiden tuki loppuu 2021
 
@@ -24,7 +24,7 @@ Seuraavat [Modernin elinkaarikäytännön](/lifecycle/policies/modern) piiriin k
 
 | Tuote | Eläkkeelle |
 | --- | --- |
-| [Azure Information Protection -asiakasohjelma](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31. maaliskuuta 2021 |
+| [Azure Information Protection -asiakasohjelma (klassinen)](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31. maaliskuuta 2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | lauantai 15. toukokuu 2021 |
 | [Skype for Business Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | lauantai 31. heinäkuu 2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | perjantai 31. joulukuu 2021 |
@@ -39,7 +39,7 @@ Seuraavien [Nykyaikaisen käytännön](/lifecycle/policies/modern) mukaisten tuo
 | [Microsoft Endpoint Configuration Manager, versio 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | tiistai 26. tammikuu 2021 |
 | [Paikallinen Dynamics 365 Business Central (Nykyaikainen käytäntö), vuoden 2019 julkaisun 2. aalto, versio 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13. huhtikuuta, 2021 |
 | [Windows 10 Enterprise ja Education, versio 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise ja Education, versio 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home ja Pro, versio 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versio 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versio 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versio 1909](/lifecycle/products/windows-server?branch=live)<br> | tiistai 11. toukokuu 2021 |
-| [Microsoft Endpoint Configuration Manager, versio 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | lauantai 29. toukokuu 2021 |
+| [Microsoft Endpoint Configuration Manager, versio 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versio 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | lauantai 29. toukokuu 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | lauantai 21. elokuu 2021 |
 | [Microsoft Endpoint Configuration Manager, versio 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | perjantai 1. lokakuu 2021 |
 | [Paikallinen Dynamics 365 Business Central (Nykyaikainen käytäntö), vuoden 2020 julkaisun aalto 1, versio 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12. lokakuuta, 2021 |

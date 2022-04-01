@@ -3,10 +3,17 @@ metadata:
   title: Windows Server 2003 R2
   description: Windows Server 2003 R2 noudattaa kiinteää elinkaarikäytäntöä.
   ms.date: 05/26/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 067541c88e29b4bd728c5d5796e3bea3609dbeb6
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4151262"
 name: Windows Server 2003 R2
-summary: |+
+summary: >+
   Windows Server 2003 R2 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
 
 
   Tämä koskee seuraavia versioita: Datacenter, Datacenter (32-bittinen x86), Datacenter (x64), Enterprise (32-bittinen x86), Enterprise X64, Standard (32-bittinen x86), Standard X64
@@ -14,35 +21,17 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 03/05/2006
-  end: 07/13/2010
-  extendedEnd: 07/14/2015
+  start: 2006-03-05T00:00:00.000-08:00
+  end: 2010-07-13T22:59:59.999-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 03/13/2007
-    endDate: 07/14/2015
-  - version: Original Release
-    startDate: 03/05/2006
-    endDate: 04/14/2009
-content: |+
-
-
-  ## <a name="links"></a>Linkit 
-  * [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)
-  * [Windows Server 2003:sta Windows Server 2008:een päivittämisen tuetut polut](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
-  * [Windows Server 2003 -koneiden valmisteleminen siirtoa varten](/azure/migrate/prepare-windows-server-2003-migration)
-
-
-
-
-  ## <a name="editions"></a>Versiot 
-  * Datacenter
-  * Datakeskus (32-bittinen x86)
-  * Datacenter (x64)
-  * Enterprise (32-bittinen x86)
-  * Enterprise X64
-  * Standard (32-bittinen x86)
-  * Standard X64
+- version: Service Pack 2
+  startDate: 2007-03-13T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-03-05T00:00:00.000-08:00
+  endDate: 2009-04-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Service Pack-käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 2003:sta Windows Server 2008:een päivittämisen tuetut polut](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Windows Server 2003 -koneiden valmisteleminen siirtoa varten](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n\n\n## <a name=\"editions\"></a>Versiot \n* Datacenter\n* Datakeskus (32-bittinen x86)\n* Datacenter (x64)\n* Enterprise (32-bittinen x86)\n* Enterprise X64\n* Standard (32-bittinen x86)\n* Standard X64"

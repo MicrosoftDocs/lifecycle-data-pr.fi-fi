@@ -3,24 +3,20 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 noudattaa komponentin elinkaarikäytäntöä.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154364"
 name: Internet Explorer 9
-summary: |+
-  Internet Explorer 9 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. 
-
-
+summary: "Internet Explorer 9 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. \n\n\n"
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Linkit 
-  * [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > 12.1.2016 jälkeen vain uusin tuetulle käyttöjärjestelmälle saatavilla oleva Internet Explorer -versio saa teknistä tukea ja tietoturvapäivityksiä.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorerin elinkaarikäytännön usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12.1.2016 jälkeen vain uusin tuetulle käyttöjärjestelmälle saatavilla oleva Internet Explorer -versio saa teknistä tukea ja tietoturvapäivityksiä."
