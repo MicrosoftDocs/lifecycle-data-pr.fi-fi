@@ -1,13 +1,13 @@
 ---
 title: Tuotteet, joiden tuki päättyy 2019
 description: Löydä ne tuotteet, jotka poistuvat käytöstä, joiden tuki päättyy tai jotka siirtyvät Mainstream-tuesta laajennetun tuen piiriin vuonna 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4028303"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518227"
 ---
 # <a name="products-ending-support-in-2019"></a>Tuotteet, joiden tuki loppuu 2019
 
@@ -24,7 +24,6 @@ Seuraavat [Modernin elinkaarikäytännön](/lifecycle/policies/modern) piiriin k
 
 | Tuote | Eläkkeelle |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | maanantai 30. syyskuu 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | lauantai 16. marraskuu 2019 |
 
 
@@ -34,6 +33,7 @@ Seuraavien [Nykyaikaisen käytännön](/lifecycle/policies/modern) mukaisten tuo
 
 | Tuote | Ylläpidon päättyminen |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | keskiviikko 13. helmikuu 2019 |
 | [Visual Studio for Mac, Visual Studio 2017 for Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | perjantai 8. maaliskuu 2019 |
 | [Windows 10 Enterprise ja Education, versio 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home ja Pro, versio 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, versio 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, versio 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versio 1709](/lifecycle/products/windows-server?branch=live)<br> | tiistai 9. huhtikuu 2019 |
 | [Microsoft Endpoint Configuration Manager, versio 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | maanantai 20. toukokuu 2019 |

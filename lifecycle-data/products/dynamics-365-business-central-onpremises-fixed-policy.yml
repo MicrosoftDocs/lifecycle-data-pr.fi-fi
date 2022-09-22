@@ -2,16 +2,20 @@
 metadata:
   title: Dynamics 365 Business Central on-premises (Fixed Policy)
   description: Dynamics 365 Business Central on-premises (Fixed Policy) noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1d109b983f3b77360e49e62883fb1b4a7c85ba38
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/07/21
+  keywords: 
+  ms.openlocfilehash: 83e077a284c67a0f8a0d4b113179fa9ee265fe02
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4108558"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516525"
 name: Dynamics 365 Business Central on-premises (Fixed Policy)
 summary: >+
   Dynamics 365 Business Central on-premises (Fixed Policy) noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
+
+
+
 
 
 products:
@@ -28,4 +32,4 @@ releases:
 - version: Fall 2018 Update, version 13.x
   startDate: 2018-10-01T00:00:00.000-08:00
   endDate: 2020-04-14T22:59:59.999-08:00
-content: ''
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises)\n* [Microsoft Dynamics 365:n etenemissuunnitelma](https://aka.ms/businessappsreleasenotes)\n* [Järjestelmävaatimukset](/dynamics365/business-central/product-requirements)\n* [Usein kysytyt kysymykset](/dynamics365/business-central/dev-itpro/faq)"

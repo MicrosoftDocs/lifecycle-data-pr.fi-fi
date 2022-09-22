@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 noudattaa komponentin elinkaarikäytäntöä.
-  ms.date: 01/25/2022
-  keywords: IE
-  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/05/19
+  keywords: selain,IE,ie11
+  ms.openlocfilehash: f1a0ee829ae28cfd4b3b580a9c3d296bd822b4a5
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4114367"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518597"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 noudattaa [komponentin](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
@@ -20,7 +20,7 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > Internet Explorer (IE) 11 -työpöytäsovellus lopettaa Windows 10:n osavuotisen kanavan tue 15. kesäkuuta 2022 alkaen. Asiakkaita kehotetaan siirtymään Microsoft Edgeen, jossa on IE-tila. IE-tila mahdollistaa takautuvan yhteensopivuuden, ja sitä tuetaan ainakin vuoteen 2029 asti. Lisäksi Microsoft antaa ilmoituksen vuotta ennen IE-tilan poistumista käytöstä.  Katso [tämä](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) luettelo tuetuista Internet Explorerin käyttöjärjestelmistä, mukaan lukien versiot, joihin tämä ilmoitus vaikuttaa.
+  > Internet Explorer (IE) 11 -työpöytäsovelluksen tuki Windows 10:lle osavuosittaisessa kanavassa päättyi 15. kesäkuuta 2022. Asiakkaita kehotetaan siirtymään Microsoft Edgeen, jossa on IE-tila. IE-tila mahdollistaa takautuvan yhteensopivuuden, ja sitä tuetaan ainakin vuoteen 2029 asti. Lisäksi Microsoft antaa ilmoituksen vuotta ennen IE-tilan poistumista käytöstä.  Katso [tämä](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) luettelo tuetuista Internet Explorerin käyttöjärjestelmistä, mukaan lukien versiot, joihin tämä ilmoitus vaikuttaa.
 
 products:
 - internet-explorer

@@ -2,14 +2,14 @@
 metadata:
   title: Azure Information Protection -asiakasohjelma (klassinen)
   description: Azure Information Protection -asiakasohjelma (klassinen) noudattaa modernia elinkaarikäytäntöä.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156902"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518634"
 name: Azure Information Protection -asiakasohjelma (klassinen)
 summary: >+
   Azure Information Protection -asiakasohjelma (klassinen) noudattaa [modernia](/lifecycle/policies/modern) elinkaarikäytäntöä.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Yhtenäistä ja suoraviivaista asiakaskokemusta varten Azure Information Protection -asiakasohjelma (perinteinen) ja merkintöjen hallinta Azure-portaalissa vanhentuvat 31.3.2021. Tämän ajanjakson avulla kaikki nykyiset Azure Information Protection -asiakkaat voivat siirtyä yhtenäiseen merkintäratkaisuumme Microsoft Information Protection Unified Labeling -alustan avulla."
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Yhtenäistä ja suoraviivaista asiakaskokemusta varten Azure Information Protection -asiakasohjelma (perinteinen) ja merkintöjen hallinta Azure-portaalissa vanhentuvat 31.3.2021. Tämän ajoituksen piirissä kaikki nykyiset Azure Information Protection -asiakkaat voivat siirtyä yhtenäiselle merkintäalustalle Microsoft Purview Information Protectionia varten."

@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: b6e8222fe770516c85dab8108e9652b57c22a1c4
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 6b8c57a8c0f8f15e75c9c7aa3fab0b49c84f03f4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142598"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519004"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä.
@@ -33,5 +33,5 @@ releases:
   endDate: 2025-10-14T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-07-20T00:00:00.000-08:00
-  endDate: 2025-10-14T22:59:59.999-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Linkit \n* [Huoltotiedot Visual Studion vanhemmille versioille](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Seuraavien komponenttien Visual Studio 2015 -versiot toimitetaan ja niitä tuetaan osana Visual Studio 2015:ta elinkaarta: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (integroitu), Shell (eristetty), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Versiot \n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Professional\n* Release Management\n* Test Professional"

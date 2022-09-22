@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11 käytössä Windows 10:ssä osavuosittaisessa kanavassa (SAC)
+  description: Internet Explorer 11 käytössä Windows 10:ssä osavuosittaisessa kanavassa (SAC) noudattaa osakohtaista elinkaarikäytäntöä.
+  ms.date: 2022/06/23
+  keywords: selain,ie,IE11,sac,osavuosittainen kanava
+  ms.openlocfilehash: 345e9952b9b3e16724e8e13bc928eb50605e031f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: fi-FI
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519115"
+name: Internet Explorer 11 käytössä Windows 10:ssä osavuosittaisessa kanavassa (SAC)
+summary: >+
+  Internet Explorer 11 käytössä Windows 10:ssä osavuosittaisessa kanavassa (SAC) noudattaa [osakohtaista](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Internet Explorer (IE) 11 -työpöytäsovelluksen tuki Windows 10:lle osavuosittaisessa kanavassa päättyi 15. kesäkuuta 2022. Asiakkaita kehotetaan siirtymään Microsoft Edgeen, jossa on IE-tila. IE-tila mahdollistaa takautuvan yhteensopivuuden, ja sitä tuetaan ainakin vuoteen 2029 asti. Lisäksi Microsoft antaa ilmoituksen vuotta ennen IE-tilan poistumista käytöstä.  Katso [tämä](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) luettelo tuetuista Internet Explorerin käyttöjärjestelmistä, mukaan lukien versiot, joihin tämä ilmoitus vaikuttaa.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Siirron ohjeistus](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Internet Explorerin/Edgen elinkaaren usein kysytyt kysymykset](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorerin tukemat käyttöjärjestelmät](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edgen tukemat käyttöjärjestelmät](/deployedge/microsoft-edge-supported-operating-systems)"

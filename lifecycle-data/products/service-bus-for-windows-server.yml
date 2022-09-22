@@ -2,15 +2,16 @@
 metadata:
   title: Windows Serverin palveluväylä
   description: Service Bus for Windows Server noudattaa osan elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147630"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518819"
 name: Windows Serverin palveluväylä
-summary: "Service Bus for Windows Server noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. \n\n\n> [!IMPORTANT]\n> Kun Service Bus 1.1 on SharePoint Server 2016:n tai SharePoint Server 2013:n osa, sitä tuetaan kyseisen SharePoint Server -version tuen lopetuspäivien mukaisesti.\n"
+summary: "Service Bus for Windows Server noudattaa [osan](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elinkaarikäytäntöä. \n\n\n\n\n> [!IMPORTANT]\n> Service Bus 1.1 on osa SharePoint Server Subscription Editionia, SharePoint Server 2019:ää, SharePoint Server 2016:ta ja SharePoint Server 2013:a, ja noudattaa päätuotteensa elinkaarta.\n\n"
 products:
 - windows
 policyType: component
