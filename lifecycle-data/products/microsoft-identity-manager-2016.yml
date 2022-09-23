@@ -2,30 +2,31 @@
 metadata:
   title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016 noudattaa kiinteää elinkaarikäytäntöä.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ea72427890dd1aded761e0370cc22ea191a19b98
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/15/2022
+  keywords: 
+  ms.openlocfilehash: f4969b3dc67b593cd9884f162d8ad4a06c793074
+  ms.sourcegitcommit: aa3eaa2573e7b3d11f65d12f166e73329011f41d
   ms.translationtype: HT
   ms.contentlocale: fi-FI
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4145817"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "4522270"
 name: Microsoft Identity Manager 2016
-summary: "Microsoft Identity Manager 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n"
+summary: "Microsoft Identity Manager 2016 noudattaa [kiinteää](/lifecycle/policies/fixed) elinkaarikäytäntöä. \n\n\n\n\n\n"
 products:
 - m365
 policyType: fixed
 supportDates:
   start: 2015-09-28T00:00:00.000-08:00
   end: 2021-01-12T22:59:59.999-08:00
-  extendedEnd: 2026-01-13T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Service Pack 2
   startDate: 2019-11-04T00:00:00.000-08:00
-  endDate: 2026-01-13T22:59:59.999-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 - version: Service Pack 1
   startDate: 2016-09-20T00:00:00.000-08:00
   endDate: 2020-11-04T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-09-28T00:00:00.000-08:00
   endDate: 2017-10-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Linkit \n* [Azure-tuki on saatavilla Azure AD -integraatio-osille Microsoft Identity Manager 2016:n laajennetun tuen loppuun asti.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure-tukisuunnitelmat.](https://azure.microsoft.com/support/plans/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Tuotteen tiedot](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n\n## <a name=\"links\"></a>Linkit \n* [Azure-tuki on saatavilla Azure AD -integraatio-osille Microsoft Identity Manager 2016:n laajennetun tuen loppuun asti.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure-tukisuunnitelmat.](https://azure.microsoft.com/support/plans/)\n* [Service Pack -käytäntö](/lifecycle/policies/fixed#service-packs)\n* [Tuotteen tiedot](/microsoft-identity-manager/microsoft-identity-manager-2016)\n\n\n> [!NOTE]\n> Microsoft Identity Managerin 2016 tuen päättymispäivää muutettiin tiistaista 13. tammikuuta 2026 tiistaihin 9. tammikuuta, 2029."
