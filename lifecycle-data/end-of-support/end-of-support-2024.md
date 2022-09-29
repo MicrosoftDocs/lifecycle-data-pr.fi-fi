@@ -1,13 +1,13 @@
 ---
 title: Tuotteet, joiden tuki päättyy 2024
 description: Löydä ne tuotteet, jotka poistuvat käytöstä, joiden tuki päättyy tai jotka siirtyvät Mainstream-tuesta laajennetun tuen piiriin vuonna 2024.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: fi-FI
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518086"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526937"
 ---
 # <a name="products-ending-support-in-2024"></a>Tuotteet, joiden tuki loppuu 2024
 
@@ -34,8 +34,10 @@ Seuraavien [Modernin käytännön](/lifecycle/policies/modern) mukaisten tuottei
 
 | Tuote | Ylläpidon päättyminen |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, Versio 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | maanantai 12. helmikuu 2024 |
 | [Windows 10 Enterprise ia Education versio 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise versio 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | tiistai 11. kesäkuu 2024 |
-| [Windows 11 Enterprise and Education (versio 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (versio 21H2), alkuperäinen julkaisu (versio 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8. lokakuuta 2024 |
+| [Windows 11 Enterprise and Education, versio 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, versio 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8. lokakuuta 2024 |
+| [Windows 11 Home and Pro, versio 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | maanantai 14. lokakuu 2024 |
 | [PowerShell, PowerShell 7.2 (LTS-tämänhetkinen)](/lifecycle/products/powershell?branch=live)<br> | perjantai 8. marraskuu 2024 |
 | [Azure IoT Edge, versio 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | tiistai 12. marraskuu 2024 |
 
